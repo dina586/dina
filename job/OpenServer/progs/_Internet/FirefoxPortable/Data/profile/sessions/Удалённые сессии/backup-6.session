@@ -1,0 +1,5 @@
+[SessionManager v2]
+name=[Более старая сессия (2014-11-28 20:10)]
+timestamp=1417194648944
+autosave=false	count=1/1	group=Сохранить резервную копию сессий	screensize=1920x1080
+{"windows":[{"tabs":[{"entries":[{"url":"about:home","title":"Начальная страница Mozilla Firefox","ID":4150402435,"docshellID":9,"docIdentifier":5}],"lastAccessed":1417194648905,"hidden":false,"attributes":{},"image":"chrome://branding/content/icon32.png","index":1}],"selected":1,"_closedTabs":[],"busy":false,"extData":{"__SessionManagerWindowId":"window0"},"width":1189,"height":818,"screenX":403,"screenY":91,"sizemode":"normal"}]}

@@ -1,0 +1,6 @@
+[
+   { "caption": "-" },
+   { "caption": "Меню сравнения файлов", "command": "file_diff_menu" },
+   { "caption": "Сравнить с вкладкой…", "command": "file_diff_tab" },
+   { "caption": "-" }
+]

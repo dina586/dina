@@ -1,0 +1,241 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+menu, article, section, nav, footer, figure, var {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	font-weight:normal;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section{
+  display:block;
+}
+body {
+	line-height: 1;
+}
+
+ol, ul, menu{
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+:focus {
+	outline: 0;
+}
+
+ins {
+	text-decoration: none;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html {
+	overflow-y: scroll;
+	font-size: 100.01%;
+}
+b, strong {
+font-weight:bold;
+}
+button:hover {
+cursor:pointer;
+}
+a {
+text-decoration:underline;
+outline: none;
+}
+a:link {
+outline: none;
+}
+a:hover {
+text-decoration:none;
+}
+
+var {
+font-style:normal;
+}
+p {
+    font-family: Tahoma, Tahoma, Geneva, sans-serif;
+    color: #5f5f5f;
+    font-size: 14px;
+}
+.g-container {
+    max-width: 970px;
+    margin: 0 auto;
+    width: 100%;
+}
+.g-logo {
+    float: left;
+    max-width: 483px;
+    margin: 20px 0 0 1%;
+}
+.g-logo a img{
+    width: 100%;
+    height: auto;
+}
+.g-header_login {
+    float: right;
+    margin: 52px 2% 0 0;
+    width: 33%;
+    text-align: right;
+}
+.g-clear_fix {
+    clear: both;
+}
+a:link {
+    outline: none;
+}
+a {
+    font-family: Tahoma, Tahoma, Geneva, sans-serif;
+    color: #5f5f5f;
+    font-size: 14px;
+}
+a {
+    text-decoration: underline;
+    outline: none;
+}
+.g-menu_wrap {
+    margin: 9px 0 -10px 0;
+    position: relative;
+    z-index: 4;
+}
+.g-menu_left {
+    background: url('../images/menu_bg_left.png') no-repeat;
+    left: -13px;
+}
+.g-menu_left, .g-menu_right {
+    width: 14px;
+    position: absolute;
+    height: 70px;
+    top: 0px;
+}
+.g-menu_right {
+    background: url('../images/menu_bg_right.png') no-repeat;
+    right: -13px;
+}
+.g-menu_wrap .navbar-default, .b-view_filter {
+    background: url('../images/menu_bg.png') repeat-x;
+    height: 57px;
+    margin: 0px 0 20px;
+}
+.g-menu_wrap .container {
+    padding: 0px;
+    width: 100%;
+}
+.g-menu_wrap .navbar-toggle {
+    margin: 12px 15px 9px 15px;
+    float: left;
+}
+.g-menu_wrap .navbar-nav {
+    float: none;
+}
+.g-menu_wrap .nav {
+    text-align: center;
+}
+.g-menu_wrap .navbar-nav > li {
+    padding: 0 1% 0 2%;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.g-menu_wrap .nav > li > a:last-child {
+}
+.g-menu_wrap .nav > li > a:first-child {
+}
+.g-menu_wrap .nav > li > a {
+    background: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 18px 0% 17px;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
+}
+.g-menu_wrap .nav > li.active > a {
+background: none;
+color: #ffa800;
+}
+.g-menu_wrap .nav > li > a:hover, .g-menu_wrap .nav > li.active > a:hover {
+color: #ffa800;
+background: none;
+}
+
+@media (max-width: 970px){
+    .g-menu_left, .g-menu_right{
+        display: none;
+    }
+}
+
+@media (max-width: 920px) { 
+    .g-menu_wrap .navbar-nav > li {
+        padding: 0 1% 0 0;
+    }
+}
+
+@media (max-width: 768px) { 
+    .g-logo{
+        float: none;
+        width: 100%;
+        margin: 10px auto;
+    }
+    .g-menu_wrap .navbar-nav > li {
+        float: left;
+        width: 100%;
+    }
+    .g-menu_wrap .navbar-default .navbar-collapse {
+        border: none;
+        background-color: #799c2c;
+    }
+    .g-menu_wrap .nav > li > a:hover, .g-menu_wrap .nav > li.active > a, .g-menu_wrap .nav > li.active > a:hover {
+        color: #fd5e2a;
+        background: #fff;
+    }
+    .g-menu_wrap .nav > li > a {
+        display: block;
+    }
+}
+
+
+.g-footer {
+    float: left;
+    width: 100%;
+    border-top: 1px solid #d7d7d7;
+    padding: 10px 0 30px;
+    margin: 30px 0 0;
+}
+.g-footer a, .g-footer p {
+    color: #626262;
+    font-size: 12px;
+    line-height: 20px;
+
+}
+
+
+.g-content {
+    border: 1px solid #d7d7d7;
+    border-top: none;
+    padding: 24px 2%;
+}

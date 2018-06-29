@@ -1,0 +1,190 @@
+/*
+ * Main styles for file uploader
+ */
+.b-file_uploader {
+margin: 0 0 30px 0;
+float: left;
+width: 100%;
+}
+.b-file_uploader .qq-upload-drop-area, .b-file_uploader .qq-upload-extra-drop-area {
+background-color: #f9fafc;
+border: 2px dashed #eaedf1;
+padding: 10px;
+position: relative;
+height: 100px;
+float: left;
+margin: 10px 0 0;
+}
+.b-file_uploader .qq-upload-drop-area-active {
+border: 2px solid #ccc;
+background: #e4e5e6;
+}
+.b-file_uploader .qq-upload-drop-area span {
+font-size: 20px;
+top: 35%;
+margin: 0px;
+}
+.b-file_uploader .qq-upload-button {
+background: #00abc7;
+border: 1px solid #37b7cc;
+border-radius: 2px;
+box-shadow: 0 1px 1px rgba(255, 255, 255, 0.37) inset, 1px 0 1px rgba(255, 255, 255, 0.07) inset, 0 1px 0 rgba(0, 0, 0, 0.36), 0 -2px 12px rgba(0, 0, 0, 0.08) inset;
+color: #fff;
+display: inline;
+float: left;
+padding: 7px 10px;
+text-align: center;
+min-width: 200px;
+z-index: 3;
+margin: -67px 0 0 15px;
+width: auto;
+white-space: nowrap;
+}
+.b-file_uploader .qq-upload-button:hover {
+background: #018398;
+}
+.b-file_uploader .qq-upload-list {
+float: left;
+width: 100%;
+}
+@media (max-width: 700px) { 
+	.b-file_uploader .qq-upload-drop-area span {
+		display: none;
+	}
+	.b-file_uploader .qq-upload-button { 
+	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
+	}
+}
+/*
+ * Admin render 
+ */
+.b-file_manager_item {
+border-top: 1px solid #ccc;
+float: left;
+min-height: 130px;
+padding: 15px 2%;
+width: 96%;
+position: relative;
+}
+.b-file_manager_item:hover {
+cursor: move;
+}
+.b-file_manager_file {
+text-align: center;
+width: 100px;
+height:100px;
+position: relative;
+}
+.b-file_manager_file span {
+position: absolute;
+display: block;
+text-align: center;
+background: url('cover_bg.png');
+color: #fff;
+font-size: 10px;
+font-weight: bold;
+line-height: 24px;
+height: 24px;
+width: 100%;
+}
+.b-file_manager_file span.b-file_manager_cover {
+top: 0px;
+}
+.b-file_manager_file span.b-file_manager_ext{
+bottom:0px;
+text-transform: uppercase;
+}
+.b-file_manager_area {
+width: 60%;
+margin: 0 0 0 1%;
+min-width: 150px;
+}
+@media (min-width: 1000px) { 
+	.b-file_manager_area {
+		width: 70%;
+	}
+}
+
+.b-file_manager_area header, .b-file_manager_area footer a, .b-file_manager_area footer span {
+font-size: 12px;
+line-height: 20px;
+font-weight: bold;
+text-decoration: none;
+}
+.b-file_manager_area footer a:hover {
+text-decoration: underline;
+}
+.b-file_manager_area header {
+margin: 0 0 2px 0;
+}
+.b-file_manager_area .b-file_manager_textarea {
+margin: 0 0 4px 0;
+}
+.b-file_manager_area .b-file_manager_textarea label {
+display: none;
+}
+.b-file_manager_area .b-file_manager_textarea textarea {
+width: 98%;
+max-width: 1000px;
+margin: 0px;
+padding: 3px 1%;
+height: 59px;
+min-width: 180px;
+font-size: 12px;
+font-weight: bold;
+line-height: 18px;
+}
+.b-file_manager_area .b-file_manager_textarea .form-group {
+margin: 0px;
+}
+.b-file_manager_area footer {
+margin: 0px 0 0;
+}
+.b-file_manager_area footer span {
+padding: 0 5px;
+}
+.b-file_manager_items .ui-sortable-helper {
+background: #EFF1F3;
+border: 3px dashed #DDE1E7;
+}
+.b-file_manager_items .b-file_manager_item.ui-sortable-helper .b-file_manager_btns a {
+display: block;
+}
+.b-file_manager_items .b-file_manager_item.ui-sortable-helper .b-file_manager_btns .file_manager_move_bottom {
+margin: 0 10px 0;
+}
+.b-file_manager_items .ui-sortable-placehoder {
+min-height: 200px;
+background: red;
+}
+.b-file_manager_btns {
+position: absolute;
+right: 1%;
+}
+.b-file_manager_btns a {
+width:20px;
+height: 20px;
+display: block;
+float: left;
+}
+.b-file_manager_btns a:hover {
+background-position:bottom left;
+}
+.b-file_manager_btns .file_manager_move_top {
+background: url('move_top.png') top left;
+}
+.b-file_manager_btns .file_manager_move_bottom {
+background: url('move_bottom.png') top left;
+margin: 0 10px 0 0;
+}
+.b-file_manager_item:first-child .file_manager_move_top {
+display: none;
+}
+.b-file_manager_item:first-child .file_manager_move_bottom {
+margin: 0px;
+}
+.b-file_manager_item:last-child .file_manager_move_bottom {
+display: none;
+}

@@ -1,0 +1,9 @@
+To: svarokmaster@gmail.com
+Subject: Заявка на бесплатный выезд дизайнера на объект.
+X-PHP-Originating-Script: 0:send_gallery.php
+Content-type: text/html; charset=utf-8
+From:yhttyty@yt.ui
+
+Автор назвался:  
+Указал свой телефон: 77777 
+Указал свой адрес: yhttyty@yt.ui

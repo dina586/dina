@@ -1,0 +1,25 @@
+@base-color: blue;
+.function-h(@fh,@fw){
+	height: @fh;
+	width: @fw;
+};
+.fn-placeholder(@arg-pl, @arg-bg){
+	background:@arg-bg;
+	background:@arg-bg;
+};
+.g-block{
+	.function-h(100px,50px);
+	background:@base-color;
+	margin: 10%  10% ;
+};
+.g-input{
+	.fn-placeholder(green, blue);
+	
+}
+.generate-class(15);
+.generate-class(@n, @i:3px) when(@i=<@n){
+	.f-@{i}{
+		font-size:(@i);
+	}
+.generate-class(@n, (@i+1));
+}

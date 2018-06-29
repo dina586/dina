@@ -1,0 +1,49 @@
+@base-font-cblack: #28363d;
+@base-font-cwhite: #ffffff;
+@base-font-text: #8198a0;
+@base-font-family: Myriad Pro;
+@base-font-size: 14px;
+@base-g-width:100%;
+body{
+	font-size:@base-font-size;
+	font-family:@base-font-family;
+}
+.g-header_container, .g-advantage_container, .g-footer{
+	width:@base-g-width;
+}
+.g-menu_navbar .rowbar > li  > a {
+	color:@base-font-cwhite;
+}
+.l-button, .g-container_title2, .g-opinion_container, .g-footer_title, .g-footer-bottom{
+	color:@base-font-cwhite;
+}
+.g-container_text{
+	color:@base-font-text;
+}
+.g-compani_container .jcarousel{
+	width:@base-g-width;
+}
+.g-opinion_container{
+	background-color:@base-font-cblack;
+}
+.s-cont_title2{
+	color:@base-font-cblack;
+}
+
+/*.fn-placeholder(@arg-pl, @arg-bg){
+	background:@arg-bg;
+	background:@arg-bg;
+};
+.g-block{
+	.function-h(100px,50px);
+	background:@base-color;
+	margin: 10%  10% ;
+};*/
+
+/*.generate-class(15);
+.generate-class(@n, @i:3px) when(@i=<@n){
+	.f-@{i}{
+		font-size:(@i);
+	}
+.generate-class(@n, (@i+1));
+}*/

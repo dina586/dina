@@ -1,0 +1,42 @@
+To: =?UTF-8?B?0JTQsNGA0LDQs9Cw0L3QvtCy0Ys=?= <pdaraganov@yahoo.com>
+Subject: =?UTF-8?B?0KHQvtC+0LHRidC10L3QuNC1INGBINGB0LDQudGC0LAgLSBydHly?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Mon, 2 Nov 2015 14:08:12 +0300
+From: =?UTF-8?B?0JTQsNGA0LDQs9Cw0L3QvtCy0Ys=?= <noreply@email.com>
+Reply-To: aefwe <wef@r.y>
+Message-ID: <9080935ebdffc6e27c6ee7f630dd1377@daraganovy>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.8 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_9080935ebdffc6e27c6ee7f630dd1377"
+Content-Transfer-Encoding: 8bit
+
+--b1_9080935ebdffc6e27c6ee7f630dd1377
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Иия: aefwe
+
+Тема: rtyr
+
+Email: wef@r.y
+
+Сообщение: werwerwerwerwerwerewrewrwerwer
+
+
+--b1_9080935ebdffc6e27c6ee7f630dd1377
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p><strong>Иия: </strong>aefwe</p>
+
+<p><strong>Тема:</strong> rtyr</p>
+
+<p><strong>Email:</strong> wef@r.y</p>
+
+<p><strong>Сообщение:</strong> werwerwerwerwerwerewrewrwerwer</p>
+
+
+
+--b1_9080935ebdffc6e27c6ee7f630dd1377--

@@ -1,0 +1,100 @@
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:14:2:1805993296.2201:E: cannot open "C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\chrome://browser/locale/newTab.dtd" (Invalid argument)
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:16:2:1805993296.2201:E: cannot open "C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\chrome://browser/locale/searchbar.dtd" (Invalid argument)
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:17:0:1805993296.323:E: DTD did not contain element declaration for document type name
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:19:15:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:19:37:1805993296.108:E: there is no attribute "XMLNS"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:20:22:1805993296.108:E: there is no attribute "XMLNS:XUL"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:18:1805993296.108:E: there is no attribute "TITLE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:20:1805993296.338:W: cannot generate system identifier for general entity "newtab.pageTitle"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:20:1805993296.25:E: general entity "newtab.pageTitle" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:36:1805993296.325:E: reference to entity "newtab.pageTitle" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:19: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:38:1805993296.76:E: element "XUL:WINDOW" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:21:38:1805993296.76:E: element "WINDOW" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:23:16:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:23:44:1805993296.108:E: there is no attribute "ORIENT"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:23:60:1805993296.108:E: there is no attribute "TYPE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:24:24:1805993296.108:E: there is no attribute "NOAUTOHIDE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:24:30:1805993296.76:E: element "XUL:PANEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:28:30:1805993296.76:E: element "XUL:PANEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:29:17:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:29:46:1805993296.108:E: there is no attribute "CLASS"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:29:74:1805993296.76:E: element "XUL:HBOX" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:30:16:1805993296.76:E: element "XUL:LABEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:30:18:1805993296.338:W: cannot generate system identifier for general entity "cmd_engineManager.label"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:30:18:1805993296.25:E: general entity "cmd_engineManager.label" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:30:41:1805993296.325:E: reference to entity "cmd_engineManager.label" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:30:17: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:35:30:1805993296.76:E: element "XUL:PANEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:36:80:1805993296.76:E: element "XUL:HBOX" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:37:16:1805993296.76:E: element "XUL:LABEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:39:79:1805993296.76:E: element "XUL:HBOX" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:40:16:1805993296.76:E: element "XUL:LABEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:42:77:1805993296.76:E: element "XUL:HBOX" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:43:16:1805993296.76:E: element "XUL:LABEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:47:10:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:47:28:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:49:36:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:51:33:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:53:44:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:54:54:1805993296.108:E: there is no attribute "UNDO-DISABLED"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:54:60:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:55:24:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:56:27:1805993296.108:E: there is no attribute "VALUE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:56:29:1805993296.338:W: cannot generate system identifier for general entity "newtab.undo.removedLabel"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:56:29:1805993296.25:E: general entity "newtab.undo.removedLabel" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:56:53:1805993296.325:E: reference to entity "newtab.undo.removedLabel" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:56:28: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:56:56:1805993296.76:E: element "XUL:LABEL" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:57:25:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:57:55:1805993296.108:E: there is no attribute "TABINDEX"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:58:28:1805993296.108:E: there is no attribute "LABEL"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:58:30:1805993296.338:W: cannot generate system identifier for general entity "newtab.undo.undoButton"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:58:30:1805993296.25:E: general entity "newtab.undo.undoButton" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:58:52:1805993296.325:E: reference to entity "newtab.undo.undoButton" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:58:29: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:59:28:1805993296.108:E: there is no attribute "CLASS"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:59:49:1805993296.76:E: element "XUL:BUTTON" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:61:30:1805993296.338:W: cannot generate system identifier for general entity "newtab.undo.restoreButton"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:61:30:1805993296.25:E: general entity "newtab.undo.restoreButton" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:61:55:1805993296.325:E: reference to entity "newtab.undo.restoreButton" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:61:29: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:62:49:1805993296.76:E: element "XUL:BUTTON" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:63:32:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:63:68:1805993296.108:E: there is no attribute "TABINDEX"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:64:35:1805993296.108:E: there is no attribute "CLASS"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:65:41:1805993296.108:E: there is no attribute "TOOLTIPTEXT"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:65:43:1805993296.338:W: cannot generate system identifier for general entity "newtab.undo.closeTooltip"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:65:43:1805993296.25:E: general entity "newtab.undo.closeTooltip" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:65:67:1805993296.325:E: reference to entity "newtab.undo.closeTooltip" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:65:42: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:65:70:1805993296.76:E: element "XUL:TOOLBARBUTTON" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:69:39:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:70:17:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:70:43:1805993296.108:E: there is no attribute "NAME"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:70:55:1805993296.76:E: element "FORM" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:71:38:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:72:22:1805993296.108:E: there is no attribute "TYPE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:72:34:1805993296.108:E: there is no attribute "NAME"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:72:44:1805993296.108:E: there is no attribute "VALUE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:72:50:1805993296.108:E: there is no attribute "ID"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:73:27:1805993296.108:E: there is no attribute "MAXLENGTH"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:73:37:1805993296.108:E: there is no attribute "DIR"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:73:43:1805993296.76:E: element "INPUT" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:75:25:1805993296.338:W: cannot generate system identifier for general entity "searchEndCap.label"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:75:25:1805993296.25:E: general entity "searchEndCap.label" not defined and no default entity
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:75:43:1805993296.325:E: reference to entity "searchEndCap.label" for which no system identifier could be generated
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:75:24: entity was defined here
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:75:45:1805993296.76:E: element "INPUT" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:79:40:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:80:19:1805993296.108:E: there is no attribute "CLASS"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:80:39:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:82:29:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:85:39:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:88:36:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:92:31:1805993296.76:E: element "DIV" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:94:53:1805993296.76:E: element "INPUT" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:97:19:1805993296.108:E: there is no attribute "TYPE"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:98:18:1805993296.108:E: there is no attribute "SRC"
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:98:61:1805993296.76:E: element "XUL:SCRIPT" undefined
+spvalid:C:\Users\User\Desktop\FirefoxPortable232\Data\profile\tidy\tidy_last_validated.html:100:66:1805993296.76:E: element "XUL:SCRIPT" undefined

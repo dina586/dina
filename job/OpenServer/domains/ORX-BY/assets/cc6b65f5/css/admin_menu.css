@@ -1,0 +1,56 @@
+.b-ext_admin_menu_wrap {
+width:100%;
+height: 48px;
+background: url('../images/admin_menu_bg.png') repeat-x;
+padding: 5px 0 0 0;
+position:relative;
+z-index:220;
+}
+#ext_admin_menu  {
+list-style: none;
+margin: auto;
+
+}
+#ext_admin_menu  li {
+display:inline-block; /* элементы списка делаем блочными и выстраиваем в ряд */
+min-height: 20px; /* высоту лучше жестко указать, чтобы выпадающее меню появлялось в предсказуемом месте */
+cursor: pointer;
+position: relative; /* чтобы выпадающее меню позиционировалось относительно родителя */
+z-index: 1;
+zoom:1;
+*display:inline;
+padding:4px 10px;
+margin:0px;
+}
+.b-ext_admin_menu_wrap #ext_admin_menu li:hover {
+background: #222;
+}
+#ext_admin_menu  li a {
+font-size:16px;
+color: #fff;
+text-decoration:none;
+font-family: Times New Roman;
+}
+#ext_admin_menu  li a:hover {
+background: #222;
+}
+#ext_admin_menu  ul li a { 
+text-transform: none;
+}
+#ext_admin_menu  li ul {
+display: none; /* скрываем выпадающе меню */
+position: absolute; /* чтобы положение подменю не влияло на окружение и легко было позиционировать */
+left: 0;
+top: 23px; /* высоту лучше не делать большей высоты пункта меню первого уровня, иначе попасть на подменю будет проблематично */
+margin: 0;
+border-bottom:1px solid grey;
+background: #000;
+}
+#ext_admin_menu  li ul li {
+display: block;
+background: none;
+border-top:1px solid grey;
+}
+#ext_admin_menu  li:hover ul {
+display: block; /* при наведении на пункт меню первого уровня, показывем подменю */
+} 

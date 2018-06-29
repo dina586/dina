@@ -1,0 +1,42 @@
+To: =?UTF-8?B?0JTQsNGA0LDQs9Cw0L3QvtCy0Ys=?= <dino4ka586@mail.ru>
+Subject: =?UTF-8?B?0KHQvtC+0LHRidC10L3QuNC1INGBINGB0LDQudGC0LAgLSDRg9C70Y/Qu9GP?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Wed, 29 Jul 2015 16:15:10 +0300
+From: =?UTF-8?B?0JTQsNGA0LDQs9Cw0L3QvtCy0Ys=?= <noreply@email.com>
+Reply-To: =?UTF-8?B?0LTQuNCz0LA=?= <dino4ka586@mail.ru>
+Message-ID: <1b8cc20434ad99792c12b860bab29ae1@daraganovy>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.8 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_1b8cc20434ad99792c12b860bab29ae1"
+Content-Transfer-Encoding: 8bit
+
+--b1_1b8cc20434ad99792c12b860bab29ae1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Иия: дига
+
+Тема: уляля
+
+Email: dino4ka586@mail.ru
+
+Сообщение: {MESSAGE}
+
+
+--b1_1b8cc20434ad99792c12b860bab29ae1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p><strong>Иия: </strong>дига</p>
+
+<p><strong>Тема:</strong> уляля</p>
+
+<p><strong>Email:</strong> dino4ka586@mail.ru</p>
+
+<p><strong>Сообщение:</strong> {MESSAGE}</p>
+
+
+
+--b1_1b8cc20434ad99792c12b860bab29ae1--

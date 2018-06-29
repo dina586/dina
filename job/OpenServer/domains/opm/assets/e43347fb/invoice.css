@@ -1,0 +1,84 @@
+.b-invoice_address textarea {
+max-height: 104px;
+}
+.b-invoice_body {
+margin: 15px 0 0;
+}
+.b-invoice_table {
+
+}
+.b-table_btns {
+width: 100px;
+text-align: center;
+
+}
+.b-invoice_table td {
+font-size: 18px;
+}
+.b-invoice_table.table > thead > tr > th {
+background: #95b75d;
+color: #fff;
+}
+.b-invoice_table th.invoice_tbl_total {
+width: 150px;
+}
+.b-invoice_table td.invoice_tbl_total {
+text-align: right;
+font-weight: bold;
+vertical-align: middle;
+}
+.b-invoice_table td.invoice_tbl_total span {
+font-weight: bold;
+}
+.b-invoice_table.table > thead > tr > th, .b-invoice_table.table > tbody > tr > td {
+vertical-align: middle;
+}
+.b-table_btns a {
+text-decoration: none;
+font-size: 30px;
+padding: 0 5px;
+vertical-align: middle;
+display: inline-block;
+font-weight: bold;
+zoom:1;
+*display: inline;
+}
+.b-invoice_table > tbody > tr > td.b-table_btns {
+padding: 0px;
+vertical-align: middle;
+}
+.b-table_btns a.table_btn_clone {
+color: green;
+}
+.b-table_btns a.table_btn_remove {
+color: red;
+}
+.b-table_btns a:hover {
+color: #000;
+text-decoration: none;
+}
+.b-table_btns a:focus{
+text-decoration: none;
+}
+.b-invoice_form .col-md-4 {
+padding-left: 0px;
+}
+.b-invoice_type {
+
+}
+.b-invoice_type label.control-label {
+padding: 0px 0 3px;
+
+}
+.j-invoice_name {
+display: none;
+}
+/*
+ * Invoice filter 
+ */
+.b-invoice_filter button {
+width: 100%;
+}
+.b-invoice_filter_row {
+margin: 15px 0 0;
+}

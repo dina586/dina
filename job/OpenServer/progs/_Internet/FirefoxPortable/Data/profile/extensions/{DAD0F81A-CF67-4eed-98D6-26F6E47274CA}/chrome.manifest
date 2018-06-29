@@ -1,0 +1,13 @@
+overlay	chrome://browser/content/browser.xul	chrome://tweak/content/tweakOverlay.xul
+
+content	tweak	chrome/content/
+
+skin	tweak	classic/1.0	chrome/skin/classic/
+
+locale	tweak	en-US	chrome/locale/en-US/tweak/
+
+locale	tweak	es	chrome/locale/es/tweak/
+
+locale	tweak	nl-NL	chrome/locale/nl-NL/tweak/
+
+locale	tweak	ru-RU	chrome/locale/ru-RU/tweak/

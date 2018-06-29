@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<script type='text/javascript' src='../commonjs/jq.js'> </script>
+		<script type='text/javascript' src='../commonjs/plusactive.js?ver=1'></script>
+		<script type="text/javascript">
+			$.ajax({
+				url: "http://www.utorrent.com/scripts/headers.php",
+				dataType: 'jsonp',
+				success: function(headers) {
+					country = headers['Geoip-Country-Code'];
+
+					// Redirect US visitors
+					if(country == 'US'){
+						setToUS();
+					}
+				}
+			});
+		</script>
+		<script src="//cdn.optimizely.com/js/240758443.js"></script>
+		<link href="../commoncss/index.css" rel="stylesheet" type="text/css"/>
+
+		<meta charset=utf-8>
+		<title>Default : Plus Upgrade App</title>
+	</head>
+	<body>
+		<iframe id='ifr' width='100%' height='100%'> </iframe>
+	</body>
+</html>

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /blog*
+Disallow: /article*
+Disallow: /user*
+
+Host: severov.by
+Sitemap: http://severov.by/sitemap.xml
+
+User-Agent: archive-by.com
+Disallow: /

@@ -1,0 +1,32 @@
+To: Con-Signor <admin@admin.com>
+Subject: Get a Call
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Mon, 26 Oct 2015 09:58:32 +0300
+From: Con-Signor <noreply@email.com>
+Reply-To: d <noreply@mail.com>
+Message-ID: <3c1bba710664b4fc6f24370f1886e1ee@coldman>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.8 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3c1bba710664b4fc6f24370f1886e1ee"
+Content-Transfer-Encoding: 8bit
+
+--b1_3c1bba710664b4fc6f24370f1886e1ee
+Content-Type: text/plain; charset=us-ascii
+
+Name - d
+
+Phone - df
+
+
+--b1_3c1bba710664b4fc6f24370f1886e1ee
+Content-Type: text/html; charset=us-ascii
+
+<p>Name - d</p>
+
+<p>Phone - df</p>
+
+
+
+--b1_3c1bba710664b4fc6f24370f1886e1ee--

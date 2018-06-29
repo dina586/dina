@@ -1,0 +1,25 @@
+[Mon May 25 22:21:51 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:51 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:51 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:51 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Mon May 25 22:21:51 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:51 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:51 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:51 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Mon May 25 22:21:55 2015] [notice] Apache/2.2.29 (Win32) mod_ssl/2.2.29 OpenSSL/0.9.8zc configured -- resuming normal operations
+[Mon May 25 22:21:55 2015] [notice] Server built: Sep 10 2014 11:58:36
+[Mon May 25 22:21:55 2015] [notice] Parent: Created child process 4708
+[Mon May 25 22:21:55 2015] [notice] Disabled use of AcceptEx() WinSock2 API
+[Mon May 25 22:21:56 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:56 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:56 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:56 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Mon May 25 22:21:56 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:56 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:56 2015] [warn] RSA server certificate CommonName (CN) `openserver' does NOT match server name!?
+[Mon May 25 22:21:56 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Mon May 25 22:21:56 2015] [notice] Child 4708: Child process is running
+[Mon May 25 22:21:56 2015] [notice] Child 4708: Acquired the start mutex.
+[Mon May 25 22:21:56 2015] [notice] Child 4708: Starting 32 worker threads.
+[Mon May 25 22:21:56 2015] [notice] Child 4708: Listening on port 443.
+[Mon May 25 22:21:56 2015] [notice] Child 4708: Listening on port 8082.

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie11 lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie11 lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie11 lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie11 lt-ie10"> <![endif]-->
+<!--[if IE 10]>        <html class="no-js lt-ie11"><![endif]-->
+<!--[if gt IE 10]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <script src="//cdn.optimizely.com/js/282332204.js"></script>
+    <script type="text/javascript">
+        if (window.location.hash === '#_=_') {
+            window.location.hash = ''
+        }
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>BitTorrent Bundles</title>
+    <link rel="shortcut icon" href="/img/favicon.62a75aa589381f282faead1a788dd423.ico" />
+    <meta name="description" content="BitTorrent Bundles">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/stylesheets/public.b93862359f26cb94a480fa60e7c6e6f9.css" />
+<link rel="stylesheet" href="/components/mediaelement/build/mediaelementplayer.css" />
+    <link href='//fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="/javascripts/vendor/modernizr.89ed259c71e2b8e8703a9aa4a9b3ba77.js"></script>
+
+    
+    
+    <script type="text/javascript">
+    var _bt = _bt || {};
+    _bt.config = {
+        fb_app_id: "633178566717045",
+        filepicker_key: "AO1YuKz31T9Cnm2dYc9ERz",
+        s3_base: "https://s3.amazonaws.com/content-bundles/",
+        s3_prefix: "production-df0ec56d-0fbb-bc2c-11e7-354ff3af9c4e",
+        s3_bucket: "content-bundles",
+        server_env: "prod",
+        UA: "UA-43671923-1",
+        background_image: {
+            width: 1440,
+            height: 900
+        },
+        cover_image: {
+            width: 400,
+            height: 400
+        }
+    };
+</script>
+    
+    <script type="text/javascript">
+    var _bt = _bt || {};
+    _bt.CONSTANTS = {"BUNDLES":{"STATUS":{"TRANSCODING":"T","TORRENTIZING":"G","EMPTY":"E","INQUEUE":"Q","PUBLISHED":"P"},"WEIGHT":{"FEATURED":100,"ACCEPTED":20,"PENDING":10,"PROHIBITED":0}},"GATES":{"TYPES":{"PUBLIC":"N","EMAIL":"E"}},"USER":{"ROLES":{"ADMIN":100,"CURATOR":80,"FEATUREDPUBLISHER":25,"PUBLISHER":20,"CONSUMER":10,"PROHIBITED":0}},"STASH":{"ONBOARDED":"ONBOARDED","ONBOARDING_STEP":"ONBOARDING_STEP","STATE":"STATE"}};
+</script>
+    <script type="text/javascript">
+    var _bt = _bt || {};
+    _bt.feature_toggles = {"TOKENS":false};
+</script>
+    <script type="text/javascript">
+    Modernizr.load([
+        {
+            test: ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window),
+            yep: '//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js',
+            nope: '//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js',
+            complete: function () {
+                if ( !window.jQuery ) {
+                    Modernizr.load('' + '/components/jquery/jquery.min.js');
+                }
+            }
+        },
+        {
+            test: Modernizr['json'],
+            nope: '/components/json2/json2.b3136603bd789d7d6a84db408de8a30b.js'
+        },
+        {
+            test: Modernizr.mq('only all'),
+            nope: '' + '/components/respond/respond.min.js'
+        },
+        
+            { load: '' + '/javascripts/base.e7086291159c95d32e275d8c961cca89.js' },
+        
+        { load: '/javascripts/public/public.d245425b57afd1a949eed949f085375f.js' }
+    ]);
+</script>
+    
+</head>
+<body>
+    <div id="header" class="row-fluid header">
+    <div class="navbar header-row">
+        <div class="navbar-inner">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="span4 logo-container">
+                        <a class="logo" href="/#!/">BitTorrent Bundle</a>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+<div id="main">
+	<div id="loading">Loading...</div>
+</div>
+
+<div id="serverRoute">/</div>	
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+To: =?UTF-8?B?0JrQvtC90YHRg9C70YzRgtCw0YbQuNC4?= <severov-consult@mail.ru>
+Subject: =?UTF-8?B?0YHQvtC+0LHRidC10L3QuNC1INGBINGB0LDQudGC0LAgLSBlcnQ=?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Mon, 2 Nov 2015 13:58:36 +0300
+From: =?UTF-8?B?0J/RgdC40YXQvtC70L7Qs9C40YfQtdGB0LrQuNC1INC60L7QvdGB0YLRg9C7?=
+ =?UTF-8?B?0YzRgtCw0YbQuNC4?= <noreply@mail.com>
+Reply-To: er <ert@re.h>
+Message-ID: <ae8dce34abceffcf2928a6741c3cbfc5@severov.by>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.8 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ae8dce34abceffcf2928a6741c3cbfc5"
+Content-Transfer-Encoding: 8bit
+
+--b1_ae8dce34abceffcf2928a6741c3cbfc5
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Иия: er
+
+Тема: ert
+
+Email: ert@re.h
+
+Сообщение: fgffggf
+
+
+--b1_ae8dce34abceffcf2928a6741c3cbfc5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p><strong>Иия: </strong>er</p>
+
+<p><strong>Тема:</strong> ert</p>
+
+<p><strong>Email:</strong> ert@re.h</p>
+
+<p><strong>Сообщение:</strong> fgffggf</p>
+
+
+
+--b1_ae8dce34abceffcf2928a6741c3cbfc5--

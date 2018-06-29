@@ -1,0 +1,148 @@
+/*
+=================================================================
+Profile Settings
+=================================================================
+*/
+
+.b-profile_table {
+
+}
+.b-profile_table th {
+text-align: right;
+width: 40%;
+}
+
+/*
+ * ------------------- Avatar Profile Section -------------------
+ */
+.b-profile_view_avatar {
+text-align: center;
+width: 100%;
+max-width: 400px;
+position: relative;
+margin: 0 auto;
+}
+.b-profile_avatar .block {
+padding-bottom: 20px;
+}
+.b-profile_view_avatar .block-section {
+margin: 0px;
+}
+
+.b-profile_view_avatar img {
+
+width: 100%;
+max-width: 400px;
+height: auto;
+
+}
+
+.b-profile_view_avatar img {
+
+}
+/*Profile avatar delete*/
+.b-profile_delete_avatar {
+background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+padding: 0px 7px 5px;
+border-radius: 5px;
+top: 2px;
+right: 2px;
+position: absolute;
+display: none;
+}
+.b-profile_delete_avatar a {
+color: #fff;
+font-size: 16px;
+opacity: 0.7;
+}
+.b-profile_delete_avatar a:hover {
+opacity: 1;
+}
+/*Profile avatar links*/
+.b-upload_avatar_link {
+background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+display: inline-block;
+height: 36px;
+padding: 0px 10px;
+text-align: center;
+width: 100%;
+position: absolute;
+bottom: 0px;
+left: 0px;
+display: none;
+overflow: hidden;
+}
+.b-upload_avatar_link a {
+color: #fff;
+opacity: 0.7;
+text-decoration: none;
+font-size: 13px;
+line-height: 18px;
+display: block;
+padding: 0 0 7px;
+}
+.b-upload_avatar_link a:first-child {
+padding-top: 8px;
+}
+.b-upload_avatar_link a:hover {
+opacity: 1;
+}
+.b-upload_avatar_link a i {
+font-size: 12px;
+padding: 0 5px 0 0;
+}
+.b-profile_loader {
+background: url('/images/system/page_preloader.gif') top left;
+width: 16px;
+height: 11px;
+position: absolute;
+left: 2px;
+top: 2px;
+z-index: 5;
+}
+/*
+ * ------------------- END Avatar Section -------------------
+ */
+ 
+ /*
+ * ------------------- Avatar Upload Section -------------------
+ */
+.b-upload_avatar .b-file_uploader .qq-upload-button {
+width: 300px;
+}
+.b-upload_avatar .b-file_uploader {
+margin: 0px;
+}
+.b-upload_avatar .b-file_uploader .qq-upload-drop-area, .b-upload_avatar .b-file_uploader .qq-upload-extra-drop-area {
+margin: 0px;
+}
+.b-upload_avatar_original {
+width: 100%;
+float: left;
+}
+.b-upload_avatar_form {
+margin: 20px 0 0;
+}
+.b-upload_avatar_form a {
+margin-left: 15px;
+}
+ /*
+ * ------------------- END Avatar Upload Section -------------------
+ */
+ 
+/*
+ * ------------------- User list -------------------
+ */
+.b-avatar_preview_link {
+display: block;
+width: 64px;
+height: 64px;
+}
+.b-avatar_preview_link img{
+width: 100%;
+height: auto;
+border-radius: 64px;
+}
+/*
+ * ------------------- END User list -------------------
+ */

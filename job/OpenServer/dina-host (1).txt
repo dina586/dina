@@ -1,0 +1,46 @@
+привет, ftp для тебя
+
+логин user_dina
+пароль uVGtFzKI
+хост dina.dvn.by
+
+http://getbootstrap.com/getting-started/#template
+http://ukrashenie.of.by/
+логин user_dina_urk
+пароль tBH7qi8Y
+хост loveis.of.by
+
+
+
+http://kettnerlaw.365-solutions.com/user/login
+      admin admin
+
+http://kettnerlaw.365-solutions.com/staff/view/keith-martinez
+Domain:  365-solutions.com
+Username: thrsixr3
+Password: mmM$6750931
+
+
+
+http://th.365-solutions.com/user/login
+Username: neverdie
+Password: wardraft
+
+
+логин user_dina
+пароль uVGtFzKI
+хост severov.by
+для входа в админку severov.by  :   /http://severov/user/admin
+				логин admin
+				пароль admin
+доступ к базе severo.by  :  https://by122.atservers.net/panel/ispmgr?func=logon
+				user1173540
+				4Z5TVvqMqr
+				далее phpmyadmin ссылка )
+				пароль в файле /protected/config/db.php
+
+
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDlgn1XHsol/wf9GejXgwgin4kdVyfjp2HnICPsgwr8L3ySxXUTmzFHuhv4sVf9cElCbMcPjC1blLxlKjhYXvsAez+WKh3SsHjQYq3NWdRdUj6AYb12PBwtJOBA/Sq6TLXJ/U/bhnbArrdhSDaW6ztqK6MahxmrqSxGiWVSMgGe3Ticy9G+2y8pddBNFW/uIyRYSn2YOl9JA7DtPOFSsf/YTravgQP35jE+NMI3szkcetxDhxSbxGabVneFUL1nGQQq/9ZiZ7R9J5xjahN7S6zR67Y5Xyytt4U1pc9T2DxKgDxnPCz2nDZk5zlRWhyD0lXv9Y938sjtmMt31pI9ZO+h dostanko@1-120-dostanko

@@ -1,0 +1,1024 @@
+[General]
+LangName=Swedish
+;TranslatorName=Åke Engelbrektson
+;Contact=eson57@gmail.com
+;TranslatorURL=http://svenskasprakfiler.se
+;LastUpdated=Nov 26, 2011
+Version=2.1
+
+[Strings]
+Ok=OK
+Cancel=Avbryt
+Close=Stäng
+Warning=Varning!
+Preview=Förhandsgranska
+Error=Fel!
+Save=Bilden har ändrats. Vill du spara ändringarna?
+Rasterize=Lagret måste rastreras innan du fortsätter. Vill du rastrera lagret?
+BigImage=Bilden är för stor.
+NoMemory=Diskutrymmet räcker inte!!!
+Yes=Ja
+No=Nej
+Information=Information
+Default=Standard
+ReadOnly=Filen "|" är skrivskyddad. Ta bort skrivskyddet för att skriva om filen. 
+ScannerError=Kunde inte öppna TWAIN-källan.
+Background=Bakgrund
+AllFormats=Alla format
+MaskMode=Filterläge
+Delete=Ta bort
+
+[Actions]
+0=Klipp ut
+1=Invertera
+2=Gaussisk oskärpa...
+3=Ljus / Kontrast...
+4=Skärpa...
+5=Gråskala
+6=Relief...
+7=Kopiera
+8=Klistra in
+9=Redigera färgpalett...
+10=Rastrera textlager
+11=Nivåer...
+12=Nytt...
+13=Fri omformning
+14=Öppna...
+15=Stäng
+16=Spara
+17=Avsluta
+18=Överlappande
+19=Ordna horisontellt
+20=Ordna vertikalt
+21=Minimera
+22=Ordna
+23=Om
+24=Penna
+25=Linje
+26=Rektangulär markering
+27=Elliptisk markering
+28=Lasso
+29=Pipett
+30=Autonivåer
+31=Kurvor...
+32=Visa linjaler
+33=Pensel
+34=Radergummi
+35=Zoom
+36=Lager
+37=Verktyg
+38=Ångra
+39=Flytta
+40=Markera allt
+41=Avmarkera allt
+42=Invertera markering
+43=Mätverktyg
+44=Fyll
+45=Text
+46=Ångra
+47=Upprepa
+48=Skanna...
+49=Välj skanner...
+50=Skriv ut...
+51=Arbetsyta...
+52=Beskär
+53=Bildstorlek...
+54=Rotera...
+55=Rotera 90° CW
+56=Rotera 90° CCW
+57=Rotera 180°
+58=Vänd horisontellt
+59=Vänd vertikalt
+60=Enkel radmarkering
+61=Enkel kolumnmarkering
+62=Rensa
+63=Fyll
+64=Byt lagernamn
+65=Slå ihop lager
+66=Rotera
+67=Vänd horisontellt
+68=Vänd vertikalt
+69=Klona lager
+70=Öppna senaste
+71=Hjälp
+72=Minneshantering...
+73=Lås verktygsfält
+74=Zooma in
+75=Zooma ut
+76=Statusfält
+77=Spara med förhandsgranskning...
+78=Trollspö
+79=Handverktyg
+80=Zooma
+81=Laga
+82=Byt färg
+83=Helskärmsläge
+84=Slå samman
+85=Klonstämpel
+86=Oskärpefilter...
+87=Anpassad matris...
+89=Auto-kontrast
+90=Upprepa automatiskt
+91=Faktiska bildpunkter
+92=Anpassa till skärm
+93=Omforma markering
+94=Filassociationer...
+95=Automatisk oskärpa
+96=Automatisk skärpa
+97=Spara som...
+98=Färgbalans...
+99=Nyans / Mättnad...
+100=Fönsterstorlek till bildstorlek
+101=Fyll...
+102=Ikoner
+103=Flytta upp
+104=Flytta ner
+105=Sortera ikoner
+106=Lägg till ny bild
+107=Ta bort aktuell bild
+108=Toning
+109=Färgintervall...
+110=Färger
+111=Kanaler
+112=Rastrering...
+113=Visa markering
+114=Lageregenskaper...
+115=Som markering
+116=Polygonlasso
+117=Rastrera skugga
+118=Filinformation...
+119=Rektangel
+120=Skugga...
+121=Ellips
+122=Magnetlasso
+123=Rörelseoskärpa...
+124=Ludd...
+125=Rastrera skugga i lager
+126=Beskär
+127=Spara markering...
+128=Läs in markering...
+129=Utforskarpanel
+130=Tilläggsinställningar...
+131=Redigera mönster...
+132=Lägg till mönster...
+133=Tangentbordsgenvägar
+134=Färgtemperatur...
+135=Röd/Grön/Blå...
+136=Färglägg...
+137=Kanal till markering
+138=Kanal R
+139=Kanal G
+140=Kanal B
+141=Kanal A
+142=Öppna presentation...
+143=Prova PicturesToExe Deluxe...
+144=Ramlinje...
+
+[MainForm]
+1=Zoom
+2=Lager
+3=Verktyg
+4=Ångra
+5=Arkiv
+6=Redigera
+7=Välj
+8=Visa
+9=Verktyg
+10=Lager
+11=Alternativ
+12=Färger
+13=Hjälp
+14=Effekter
+15=Paneler
+16=Fönster
+17=Språk
+18=Ångra-operationer
+19=Färger
+20=Utforskarpanel
+
+[NewImageForm]
+0=Nytt...
+1=Namn:
+2=Bredd:
+3=Höjd:
+4=Upplösning:
+5=Bakgrund:
+6=Bildstorlek:
+7=Parametrar:
+8=Förinställningar:
+9=Läs in inställning
+10=Spara inställning
+11=Ta bort inställning
+12=Vill du verkligen ta bort
+13=Okänd
+20=Vit
+21=Förgrundsfärg
+22=Bakgrundsfärg
+23=Transparent
+24=Färg...
+25=Bilden är för stor.
+26=Bild
+27=Ikon
+
+[Measurement]
+0=bildpunkter
+1=cm
+2=inch
+10=punkter/cm
+11=punkter/inch
+
+[EditForm]
+0=Förinställning för nytt dokument
+1=Förinställningsnamn:
+10=Ny förinställning
+11=Förinställningsnamn:
+20=Lageregenskaper
+21=Lagernamn:
+30=Mönsternamn
+31=Namn:
+
+[TextForm]
+0=Redigera text
+1=Färg
+2=Läs in textur
+3=Läs in text
+4=Spara text
+5=Ångra
+6=Teckensnitt
+7=Storlek
+8=Fet
+9=Kursiv
+10=Understruken
+11=Överstruken
+12=Vänsterjustera
+13=Centrera
+14=Högerjustera
+
+[PaletteForm]
+0=Indexerade färger
+1=Visa färgpalett
+2=Redigera färger
+3=Lägg till färg
+4=Ta bort färg
+5=Läs in färgpalett
+6=Spara färgpalett
+7=Färger:
+8=Rastrering
+9=RGB-färg
+10=Adaptiv
+11=Svärta
+12=Gråskala
+13=Spektrum
+14=System (Mac OS)
+15=System (Windows)
+16=Webb
+17=Svartvit
+18=Anpassat
+19=16-färgers
+
+[Zoom]
+0=Anpassa till skärm
+
+[JPEG]
+0=Kvallitet:
+1=Progressiv
+2=JPEG-alternativ
+3=Gråskala
+4=Spara Exif-data
+
+[PNG]
+0=Kompression:
+1=Låg
+2=Medium
+3=Hög
+4=Sammanflätad
+5=Transparens
+6=PNG-alternativ
+
+[GIF]
+0=Sammanflätad
+1=Transparens
+2=GIF-alternativ
+
+[BMP]
+0=Bits
+1=1 bit
+2=4 bitar
+3=8 bitar
+4=16 bitar
+5=24 bitar
+6=32 bitar (med Alfakanal) 
+7=Komprimera (RLE)
+8=BMP-alternativ
+
+[TIFF]
+0=Kompression:
+1=Ingen
+2=JPEG
+3=Kvallitet:
+4=TIFF-alternativ
+
+[Targa]
+0=Upplösning
+1=16 bitar / bildpunkt
+2=24 bitar / bildpunkt
+3=32 bitar / bildpunkt
+4=Komprimera (RLE)
+5=Targa-alternativ
+
+[PCX]
+0=PCX-alternativ
+
+[PBS]
+0=PBS-alternativ
+
+[SaveWithPreviewForm]
+0=Spara med förhansgr...
+1=Original:
+2=Spara
+3=Färgpalett
+4=Förinställningar
+5=Redigera förinställningar
+6=Redigera färger
+7=Lägg till färg
+8=Ta bort färg
+
+[EditSavePresetForm]
+0=Redigera förinställningar
+1=Byt ut
+2=Lägg till
+3=Ta bort
+4=Standard
+5=Återställa förinställningar?
+
+[UndoFrame]
+0=Ångra
+1=Upprepa
+2=Skapa ny ögonblicksbild
+3=Radera aktuell status
+4=Skapa nytt dokument från aktuell status
+5=Ta bort ögonblicksbild "1"?
+6=Ta bort status "1"?
+7=Rensa historik
+8=Nytt dokument
+
+[UndoActions]
+0=Ögonblicksbild
+1=Öppna
+2=Pensel
+3=Flytta
+4=Linje
+5=Radergummi
+6=Färghink
+7=Rektangulär markering
+8=Lasso
+9=Avmarkera
+10=Markera alla
+11=Invertera markering
+12=Invertera
+13=Indexerad färg
+14=Ljus/Kontrast
+15=Gaussisk oskärpa
+16=Skärpa
+17=Gråskala
+18=Relief
+19=Nivåer
+20=Autonivåer
+21=Kurvor
+22=Arbetsyta
+23=Beskär
+24=Ändra storlek
+25=Rotera
+26=Vänd horisontellt
+27=Vänd  vertikalt
+28=Elliptisk markering
+29=Enkel radmarkering
+30=Enkel kolumnmarkering
+31=Penna
+32=Flytta markering
+33=Rensa
+34=Fyll
+35=Slå ihop lager
+36=Skapa
+37=Rastrera
+38=Ändra ordning
+39=Lägg till behållare
+40=Lägg till lager
+41=Ta bort lager
+42=Klistra in
+43=Klipp ut
+44=Omforma
+45=Vänd horisontellt
+46=Vänd vertikalt
+47=Skanna
+48=Lägg till textlager
+49=Redigera textlager
+50=Lageregenskaper
+51=Klona lager
+52=Trollspö
+53=Lagningspensel
+54=Byt färg
+55=Klonstämpel
+56=Oskärpa
+57=Anpassad matris
+58=Automatisk kontrast
+59=Omforma markering
+60=Automatisk oskärpa
+61=Automatisk skärpa
+62=Klona
+63=Färgbalans
+64=Nyans / Mättnad
+65=Fyll
+66=Sortera ikoner
+67=Lägg till ikon
+68=Ta bort ikon
+69=Nytt filter
+70=Ta bort filter
+71=Ordna filter
+72=Tona
+73=Läs in markering
+74=Starta filterläge
+75=Avsluta filterläge
+76=Färgintervall
+77=Rastrering
+78=Filteregenskap
+79=Som markering
+80=Polygonlasso
+81=Rastrerad skugga
+82=Rektangel
+83=Ellips
+84=Rörelseoskärpa
+85=Ludd
+86=Läs in markering
+87=Filteroperation
+88=Färgtemperatur
+89=Röd/Grön/Blå
+90=Färglägg
+91=Kanal till markering
+92=Ramlinje
+
+[BrightnessContrastForm]
+0=Ljus / Kontrast
+1=Ljus:
+2=Kontrast:
+
+[ColorBalanceForm]
+0=Färgbalans
+1=Färgbalans
+2=Cyan
+3=Röd
+4=Magenta
+5=Grön
+6=Gul
+7=Blå
+8=Färgnivåer:
+9=Ton
+10=Skuggor
+11=Mellantoner
+12=Högdagrar
+13=Bevara ljusstyrka
+
+[HueSaturationForm]
+0=Nyans / Mättnad
+1=Färg:
+2=Master
+3=Röd
+4=Gul
+5=Grön
+6=Cyan
+7=Blå
+8=Magenta
+9=Nyans:
+10=Mättnad:
+11=Ljus:
+
+[GaussianBlurForm]
+0=Gaussisk oskärpa
+1=Radie:
+
+[SharpnessForm]
+0=Skärpa
+1=Skärpa:
+
+[EmbossForm]
+0=Relief
+1=Höjd:
+2=Mängd:
+3=Vinkel:
+
+[LevelsForm]
+0=Nivåer
+1=Kanal:
+2=RGB
+3=Röd
+4=Grön
+5=Blå
+6=Indatanivå:
+7=Utdatanivå:
+8=Ange svartpunkt
+9=Ange gråpunkt
+10=Ange vitpunkt
+11=Auto
+12=Resultat
+
+[CurvesForm]
+0=Kurvor
+1=Kurvor (*.ACV)|*.ACV|Inställningar (*.AMP)|*.AMP
+2=Läs in...
+3=Spara...
+4=Indata:
+5=Utdata:
+6=Kurvor (*.ACV)|*.ACV
+7=Inställningar (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Skriv ut
+1=Inga skrivare
+2=Skriv ut
+3=Egenskaper
+4=Sidorientering
+5=Porträtt
+6=Landskap
+7=Position
+13=Bildstorlek
+14=Original
+15=Anpassa till sida
+16=Anpassad
+17=Kopior
+18=Bildstorlek
+19=Bredd:
+20=Höjd:
+21=cm
+22=inches
+23=Bevara proportioner
+24=Skrivarfel!
+25=Sidstorlekar:
+26=Utskriftsupplösning:
+27=dpi
+28=Ändra storlek från centrum
+29=Fyll sidan
+
+[CanvasFormForm]
+0=Arbetsyta
+1=Pixel
+2=Procent
+3=Gamla mått
+4=Bredd:
+5=Höjd:
+6=Storlek:
+7=Nya mått
+8=Bredd:
+9=Höjd:
+10=Fästpunkt:
+11=Storlek:
+12=pixel
+13=Arbetsytans färg:
+
+[ImageSizeForm]
+0=Bildstorlek
+1=Mått:
+2=Bredd:
+3=Höjd:
+4=Pixel
+5=Procent
+6=Bevara proportioner
+7=Samplingsmetod:
+8=Storlek:
+9=Närmast
+10=Bicubic
+11=Bicubic Skarpare
+12=Bicubic Mjukare
+13=cm
+14=Inches
+15=Percent
+16=pixel/cm
+17=pixel/inch
+18=Upplösning:
+19=Storlek:
+20=Sampla om bild:
+
+[RotateForm]
+0=Rotera
+1=Vinkel:
+2=Vinkel
+3=Arbetsytans färg:
+4=Visa normal
+5=°CW
+6=°CCW
+
+[EllipseRegionFrame]
+0=Ellips
+1=Radie
+2=Kantutjämning
+
+[BrushFrame]
+0=Lägg till ny pensel
+1=Redigera pensel
+2=Ta bort pensel
+3=Lägg till ny penna
+4=Redigera penna
+5=Ta bort penna
+6=Lägg till nytt radergummi
+7=Redigera radergummi
+8=Ta bort radergummi
+
+[RulerFrame]
+0=Rensa
+
+[FillToolFrame]
+0=Tolerans:
+1=Kantutjämning
+2=Alla lager
+
+[LineFrame]
+0=Lägg till ny linje
+1=Redigera linje
+2=Ta bort linje
+
+[LayersFrame]
+0=Lägg till behållare
+1=Lägg till lager
+2=Ta bort markerade lager
+3=Skugga
+
+[EllipseOptionsForm]
+0=Ellips
+1=Diameter:
+2=Hårdhet:
+3=Vinkel:
+4=Rondör:
+5=Avstånd:
+7=Kantutjämning
+
+[LineOptionsForm]
+0=Linje
+1=Diameter:
+2=Hårdhet:
+3=Kantutjämning
+
+[ColorForm]
+0=Färg
+1= Endast palettfärger
+2=Komponenter
+3=Referens
+4=Färg
+5=Ny:
+6=Gammal:
+7=Stil 1
+8=Stil 2
+9=Stil 3
+
+[TextureForm]
+0=Textur
+1=Läs in textur
+2=Radera textur
+3=Alla format|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Minneshantering
+
+[FileMemoryOptionsFrame]
+0=Disk 1:
+1=Disk 2:
+2=Disk 3:
+3=Disk 4:
+4=Ingen
+5=Tillgängligt RAM:
+6=Max-användning för PixBuilder:
+
+[FileAssociationsForm]
+0=Filassociationer
+
+[FileAssociationsFrame]
+0=Bildfiltyper
+1=Markera alla
+2=Avmarkera alla
+3=Verifiera dessa filassociationer när PixBuilder Studio startas.
+4=Format
+5=Beskrivning
+6=Filändelser
+
+[HandToolFrame]
+0=Faktiska pixlar
+1=Anpassa till skärm
+
+[AboutForm]
+0=Om PixBuilder Studio
+1=Besök vår webbsida:
+2=Teknisk support:
+
+[CheckExtForm]
+0=PixBuilder Studio är inte längre associerat med en del av de filtyper du tidigare valt för association.
+1=Välj de filtyper du vill återassociera med PixBuilder Studio, från listan nedan.
+2=Verifiera dessa filassociationer när PixBuilder Studio startas
+3=Filändelse
+4=För närvarande associerat med
+
+[UnsharpMaskForm]
+0=Oskärpefilter
+1=Mängd:
+2=Radie:
+
+[CustomMatrixForm]
+0=Anpassad matris
+1=Förinställningar:
+2=Skala:
+3=Förskjutning:
+4=Läs in...
+5=Spara...
+6=Anpassade filter (*.acf)|*.acf
+
+[StatusMenu]
+0=Dokumentdimensioner
+1=Dokumentstorlekar
+
+[FillForm]
+0=Fyll
+1=Färg:
+2=Mönster:
+
+[LayersTree]
+0=Behållare
+1=Text
+2=RGB-färger
+3=Indexerade färger
+4=Gråskala
+5=Opacitet:
+
+[Tools]
+Hint0=Rita rektangulär markering eller flytta markering. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint1=Rita frihandsmarkering eller flytta markering. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint2=Rita elliptisk markering eller flytta markering. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint3=Klicka och dra för att flytta markering eller lager. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint4=Rita enkel kolumnmarkering eller flytta markering. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint5=Rita enkel radmarkering eller flytta markering. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint6=Vänsterklicka för att rita fri form med förgrundsfärgen. Högerklicka för att rita fri form med bakgrundsfärgen. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint7=Vänsterklicka för att måla med förgrundsfärgen. Högerklicka för att måla med bakgrundsfärgen. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint8=Klicka och dra för att radera. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint9=Klicka och dra en linje. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint10=Vänsterklicka för att fylla ett område med förgrundsfärgen. Högerklicka för att fylla ett område med bakgrundsfärgen. Använd Alt för fler alternativ.
+Hint11=Vänsterklicka för att placera texten.
+Hint12=Vänsterklicka för att välja nu förgrundsfärg. Högerklicka för att välja nu bakgrundsfärg.
+Hint13=Klicka och dra för att skapa måttlinje.
+Hint14=Markera intilliggande pixlar med liknande färg eller flytta markering.
+Hint15=Klicka och dra för att scrolla bild.
+Hint16=Klicka på det område du vill förstora.
+Hint17=Alt+klick för att definiera källa, och sedan klicka och dra för att måla. Använd Shift för fler alternativ.
+Hint18=Klicka och dra för att ändra färger. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint19=Alt+klick för att definiera en källa, och sedan klicka och dra för att måla. Använd Shift för fler alternativ.
+Hint20=Klicka för att ange vald segmentpunkt. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint21=Klicka och dra för tonad fyllning. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint22=Klicka och dra för att rita rektangel. Använd Shift, Alt och Ctrl för fler alternativ.
+Hint23=Klicka för att ange en fästpunkt. Använd Shift, Alt och Ctrl för fler alternativ.
+TransformHint=Klicka och dra för att rotera. Tryck Enter för att verkställa. Tryck Esc för att avbryta. Använd Shift, Alt och Ctrl för fler alternativ.
+RegionText=Markerat område:
+MoveText=Klicka och dra för att flytta markering.
+RegionShift=Lägg till, till befintlig markering.
+RegionAlt=Ta bort från befintlig markering.
+RegionCtrl=Klicka och dra för att flytta markering eller lager.
+RegionCtrlAlt=Klicka och dra för att flytta lager eller flytta en kopia av markering.
+SpaceText=Klicka och dra för att scrolla bild.
+AltClick=Alt+klick för att definiera en källpunkt, att använda för att reparera bilden.
+
+[NewIconForm]
+0=Lägg till ny ikon
+1=Färger
+2=Storlek
+3=True color med alfakanal (32 bitar)
+4=True color (24 bitar)
+5=256 färger (8 bitar)
+6=16 färger (4 bitar)
+7=Monochrome (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Anpassa
+13=Kvadrat
+14=32 bitar
+15=24 bitar
+16=8 bitar
+17=4 bitar
+18=1 bit
+
+[Channels]
+0=Röd
+1=Grön
+2=Blå
+3=Alfa
+
+[Masks]
+0=Filter
+1=Vill du ta bort filtret "_"?
+2=Vill du ta bort _ markerade filter?
+
+[GradientForm]
+0=Redigera toning
+1=Punkt
+2=Färg
+3=Position:
+4=Ta bort
+5=Namn:
+
+[ColorButton]
+0=Förgrundsfärg
+1=Bakgrundsfärg
+
+[GradientFrame]
+0=Linjär toning
+1=Radietoning
+2=Vinkeltoning
+3=Reflekterad toning
+4=Diamanttoning
+
+[GradientHintForm]
+0=Redigera...
+1=Lägg till...
+2=Ta bort
+
+[LayerPropertyForm]
+0=Lageregenskaper
+1=Namn:
+2=Opacitet:
+3=Lageregenskaper
+4=Skugga
+5=Aktivera skugga
+
+[ChannelsFrame]
+0=Kanaler
+1=Filter
+2=Aktivera kanalläge
+3=Aktivera filterläge
+4=Lägg till filter
+5=Ta bort filter
+6=Verkställ som markering
+7=Välj alla
+8=Blanda aktuellt filter
+9=Lägg till aktuellt filter
+10=Ta bort aktuellt filter
+11=Egenskap...
+12=Ställ in aktuellt filter
+
+[ColorRangeForm]
+0=Färgintervall
+1=Suddighet:
+2=Val
+3=Bild
+4=Kantutjämning
+5=Kan inte ta bort någon färg, eftersom endast en färg är vald nu.
+
+[MaskPropertyForm]
+0=Filteregenskap
+1=Namn:
+2=Färg:
+
+[DropShadowFrame]
+0=Skugga
+1=Färg:
+2=Vinkel:
+3=Avstånd:
+4=Spridning
+5=Storlek:
+6=Anpassa...
+7=Opacitet:
+
+[SpreadForm]
+0=Spridning
+1=Läs in spridning...
+2=Spara spridning...
+3=Indata:
+4=Utdata:
+5=Förinställningar
+6=Spridningsfiler(*.spr)|*.spr
+
+[FileInfoForm]
+0=Filinfo
+1=Filnamn:
+2=Mapp:
+3=Typ:
+4=Storlek:
+5=Datum/Tid:
+6=Dimensioner:
+7=Fil och attribut
+8=EXIF Metadata
+9=Upplösning:
+
+[RoundRectOptionsForm]
+0=Rektangelalternativ
+1=Bredd:
+2=Hårdhet:
+3=Radie:
+4=Fylld
+
+[RoundRectFrame]
+0=Lägg till rektangel
+1=Redigera rektangel
+2=Ta bort rektangel
+
+[EllipseOptionsForm2]
+0=Ellipsalternativ
+1=Bredd:
+2=Hårdhet:
+3=Fylld
+
+[EllipseFrame]
+0=Lägg till ellips
+1=Redigera ellips
+2=Ta bort ellips
+
+[MagneticToolFrame]
+0=Kantutjämning
+1=Känslighet:
+2=Frekvens:
+
+[MotionBlurForm]
+0=Rörelseoskärpa
+1=Avstånd:
+2=Vinkel:
+
+[FeatherForm]
+0=Ludd
+1=Radie:
+2=Spridning
+
+[CropToolFrame]
+0=Bevara proportioner
+1=Bredd:
+2=Höjd:
+
+[SaveSelectionForm]
+0=Spara markering
+1=Markeringsnamn:
+
+[LoadSelectionForm]
+0=Läs in markering
+1=Markeringsnamn:
+2=Operation
+3=Ny markering
+4=Lägg till, till markering
+5=Ta bort från markering
+6=Överlappa markering
+
+[PluginsForm]
+0=Tillägg
+1=Skanna...
+2=Lägg till...
+3=Upp
+4=Ner
+5=Byt namn
+6=Ta bort
+7=Hur man använder 8bf-filter i PixBuilder Studio
+
+[AddPatternForm]
+0=Lägg till mönster
+1=Mönsternamn:
+
+[PatternEditForm]
+0=Redigera mönster
+1=Lägg till mönster...
+2=Ta bort mönster
+3=Byt mönsternamn
+
+[ShortCutsForm]
+0=Tangentbortsgenvägar
+1=_1_ används redan av _2_ objekt.
+2=Acceptera och gå till konflikt
+3=Ångra ändringar
+4=_1_ äe en ogiltig genväg.
+5=Förinställningar:
+
+[ColorTemperatureForm]
+0=Färgtemperatur
+1=Temperatur:
+
+[RGBForm]
+0=Röd/Grön/Blå
+1=Röd (%):
+2=Grön (%):
+3=Blå (%):
+
+[ColorizeForm]
+0=Färglägg
+
+[SaveAsForm]
+0=Filalternativ
+
+[Updates]
+0=Sök efter uppdateringar
+1=Kontrollerar aktuell version
+2=Den nya versionen %ProductName% %ProductVersion% finns tillgänglig
+3=Du använder den senaste versionen av %ProductName%
+4=Sök automatiskt efter uppdateringar
+5=Sök efter ny version
+6=Ladda ner den nya versionen
+
+[StrokeForm]
+0=Ramlinje
+1=Ramlinje
+2=Bredd
+3=Färg
+4=Plats
+5=Innanför
+6=Mitt på
+7=Utanpå
+8=Yttre hörn

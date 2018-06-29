@@ -1,0 +1,1010 @@
+[General]
+LangName=Danish
+;TranslatorName=Jan Sepstrup
+;Contact=jan.sepstrup@gmail.com
+;TranslatorURL=http://jasmedia.com
+;LastUpdated=April 10, 2012
+Version=2.2.0
+
+[Strings]
+Ok=OK
+Cancel=Annuller
+Close=Luk
+Warning=Advarsel!
+Preview=Vis på skærm
+Error=Fejl!
+Save=Billedet er ændret. Vil du gemme ændringerne?
+Rasterize=Laget skal ændres til raster inden du kan fortsætte. Vil du ændre laget til raster?
+BigImage=Billedet er for stort.
+NoMemory=Der er ikke plads nok på disken!!!
+Yes=Ja
+No=Nej
+Information=Information
+Default=Standard
+ReadOnly=Filen "|" er skrivebeskyttet. Fjern skrivebeskyttelsen for at ændre filen. 
+ScannerError=Kunne ikke åbne TWAIN-kilden.
+Background=Baggrund
+AllFormats=Alle formater
+MaskMode=Filterlag
+Delete=Slet
+
+[Actions]
+0=Klip ud
+1=Inverter
+2=Gaussisk uskarp...
+3=Lys / Kontrast...
+4=Skarphed...
+5=Gråskala
+6=Relief...
+7=Kopiere
+8=Indsæt
+9=Rediger farvepalet...
+10=Raster i tekstlag
+11=Niveauer...
+12=Ny...
+13=Fri omformning
+14=Åbn...
+15=Luk
+16=Gem
+17=Afslut
+18=Overlappende
+19=Vinduer horisontalt
+20=Vinduer vertikalt
+21=Minimer
+22=Sorter
+23=Om
+24=Pen
+25=Linie
+26=Rektangulær markering
+27=Elliptisk markering
+28=Lasso
+29=Pipette
+30=Autoniveau-farver
+31=Kurver...
+32=Vis linealer
+33=Pensel
+34=Viskelæder
+35=Zoom
+36=Lag
+37=Værktøj
+38=Annuller
+39=Flyt
+40=Marker alt
+41=Afmarker alt
+42=Inverter markering
+43=Måleværktøj
+44=Fyld
+45=Tekst
+46=Annuller
+47=Gentag
+48=Skan...
+49=Vælg skanner...
+50=Udskrift...
+51=Arbejdsområde...
+52=Beskær
+53=Billedstørrelse...
+54=Roter...
+55=Roter 90° CW
+56=Roter 90° CCW
+57=Roter 180°
+58=Spejl horisontalt
+59=Spejl vertikalt
+60=Enkel rækkemarkering
+61=Enkel kolonnemarkering
+62=Rens
+63=Fyld
+64=Ændre navn på lag
+65=Slå lag sammen
+66=Roter
+67=Spejl horisontalt
+68=Spejl vertikalt
+69=Klone lag
+70=Åbn seneste
+71=Hjælp
+72=Hukommelseshåndtering...
+73=Lås værktøjsfelt
+74=Zoom ind
+75=Zoom ud
+76=Statusfelt
+77=Gem med preview...
+78=Tryllestav
+79=Håndværktøj
+80=Zoom
+81=Lag
+82=Byt farve
+83=Helskærm
+84=Slå sammen
+85=Klonstempel
+86=Uskarphedsfilter...
+87=Tilpasset matrice...
+89=Auto-kontrast
+90=Gentag automatisk
+91=Fuld størrelse
+92=Tilpas til skærm
+93=Ændre markering
+94=Filassociationer...
+95=Automatisk uskarp
+96=Automatisk skarphed
+97=Gem som...
+98=Farvebalance...
+99=Farvetone / Mæthed...
+100=Vinduestørrelse til billedstørrelse
+101=Fyld...
+102=Ikoner
+103=Flyt op
+104=Flyt ned
+105=Sorter ikoner
+106=Tilføj foto
+107=Fjern aktuelle foto
+108=Gradient
+109=Farveinterval...
+110=Farver
+111=Kanaler
+112=Rastrering...
+113=Vis markering
+114=Lag egenskaber...
+115=Som markering
+116=Polygonlasso
+117=Rastrer skygge
+118=Filinformation...
+119=Rektangel
+120=Skygge...
+121=Elipse
+122=Magnetlasso
+123=Bevægelsesuskarphed...
+124=Fjer...
+125=Raster i skygge i lag
+126=Beskær
+127=Gem markering...
+128=Hent markering...
+129=Filer
+130=Yderlige indstillinger...
+131=Rediger mønster...
+132=Opret mønster...
+133=Skrivebordsgenveje
+134=Farvetemperatur...
+135=Rød/Grøn/Blå...
+136=Farvelæg...
+137=Kanal til markering
+138=Kanal R
+139=Kanal G
+140=Kanal B
+141=Kanal A
+142=Åbn præsentation...
+143=Prøv PicturesToExe Deluxe...
+144=Rammefarve...
+145=Vis/skjul Paneler
+146=Slet listen
+
+[MainForm]
+1=Zoom
+2=Lag
+3=Værktøj
+4=Annuller
+5=Filer
+6=Rediger
+7=Vælg
+8=Vis
+9=Værktøj
+10=Lag
+11=Indstillinger
+12=Farver
+13=Hjælp
+14=Effekter
+15=Paneler
+16=Vindue
+17=Sprog
+18=Andre-operationer
+19=Farver
+20=Filer
+
+[NewImageForm]
+0=Ny...
+1=Navn:
+2=Bredde:
+3=Højde:
+4=Opløsning:
+5=Baggrund:
+6=Billedstørrelse:
+7=Indstillinger:
+8=Standard indstillinger:
+9=Hent indstillinger
+10=Gem indstillinger
+11=Fjern indstillinger
+12=Vil du virkelig fjerne
+13=Ukendt
+20=Hvid
+21=Forgrundsfarve
+22=Baggrundsfarve
+23=Transparent
+24=Farve...
+25=Billedet er for stort.
+26=Billede
+27=Ikon
+
+[Measurement]
+0=Pixels
+1=cm
+2=inch
+10=pixels/cm
+11=pixels/inch
+
+[EditForm]
+0=Standardindstilling for nyt dokument
+1=Standardindstilling navn:
+10=Ny standardindstilling
+11=Standardindstilling navn:
+20=Lag egenskaber
+21=Lag navn:
+30=Mønster navn:
+31=Navn:
+
+[TextForm]
+0=Rediger tekst
+1=Farve
+2=Hent tekstur
+3=Hent tekst
+4=Gem tekst
+5=Annuller
+6=Font
+7=Størrelse
+8=Fed
+9=Kursiv
+10=Understregning
+11=Overstregning
+12=Venstre justeret
+13=Centreret
+14=Højre justeret
+
+[PaletteForm]
+0=Indekserede farver
+1=Vis farvepalet
+2=Rediger farver
+3=Tilføj farve
+4=Fjern farve
+5=Hent farvepalet
+6=Gem farvepalet
+7=Farver:
+8=Raster
+9=RGB-farve
+10=Adaptiv
+11=Mørk
+12=Gråskala
+13=Spektrum
+14=System (Mac OS)
+15=System (Windows)
+16=Web
+17=Sorthvid
+18=Tilpasset
+19=16-farver
+
+[Zoom]
+0=Tilpas til skærm
+
+[JPEG]
+0=Kvallitet:
+1=Progressiv
+2=JPEG-alternativ
+3=Gråskala
+
+[PNG]
+0=Kompression:
+1=Lav
+2=Medium
+3=Høj
+4=Interlaced
+5=Transparens
+6=PNG-alternativ
+
+[GIF]
+0=Interlaced
+1=Transparens
+2=GIF-alternativ
+
+[BMP]
+0=Byte
+1=1 bit
+2=4 bits
+3=8 bits
+4=16 bits
+5=24 bits
+6=32 bits (med Alfakanal) 
+7=Komprimer (RLE)
+8=BMP-alternativ
+
+[TIFF]
+0=Kompression:
+1=Ingen
+2=JPEG
+3=Kvalitet:
+4=TIFF-alternativ
+
+[Targa]
+0=Opløsning
+1=16 bit / billedpunkt
+2=24 bit / billedpunkt
+3=32 bit / billedpunkt
+4=Komprimer (RLE)
+5=Targa-alternativ
+
+[PCX]
+0=PCX-alternativ
+
+[PBS]
+0=PBS-alternativ
+
+[SaveWithPreviewForm]
+0=Gem med standard...
+1=Original:
+2=Gem
+3=Farvepalet
+4=Standardindstillinger
+5=Rediger standardindstillinger
+6=Rediger farver
+7=Tilføj farve
+8=Fjern farve
+
+[EditSavePresetForm]
+0=Rediger standardindstillinger
+1=Ændre
+2=Tilføj
+3=Fjern
+4=Standard
+5=Gendannelse af standardindstillinger?
+
+[UndoFrame]
+0=Fortryd
+1=Gentag
+2=Opret nyt snapshot
+3=Slet aktuel status
+4=Opret nyt dokument fra aktuel status
+5=Fjern snapshot "1"?
+6=Fjern status "1"?
+7=Rens historik
+8=Nyt dokument
+
+[UndoActions]
+0=Snapshot
+1=Åbn
+2=Pensel
+3=Flyt
+4=Linie
+5=Viskelæder
+6=Farve
+7=Rektangulær markering
+8=Lasso
+9=Fjern markering
+10=Markera alle
+11=Inverter markering
+12=Inverter
+13=Indexeret farve
+14=Lys/Kontrast
+15=Gaussisk uskarp
+16=Skarp mere
+17=Gråskala
+18=Relief
+19=Niveauer
+20=Autoniveau-farver
+21=Kurver
+22=Arbejdsområde
+23=Beskær
+24=Ændre størrelse
+25=Roter
+26=Spejl horisontalt
+27=Spejl  vertikalt
+28=Elliptisk markering
+29=Enkel rækkemarkering
+30=Enkel kolonnemarkering
+31=Pen
+32=Flyt markering
+33=Rens
+34=Fyld
+35=Slå lag sammen
+36=Opret
+37=Raster
+38=Ændre sortering
+39=Tilføj til container
+40=Tilføj lag
+41=Fjern lag
+42=Indsæt
+43=Klip
+44=Omform
+45=Spejl horisontalt
+46=Spejl vertikalt
+47=Scan
+48=Tilføj tekstlag
+49=Rediger tekstlag
+50=Lag egenskaber
+51=Klone lag
+52=Tryllestav
+53=Lagningspensel
+54=Skift farve
+55=Klonstempel
+56=Uskarp
+57=Tilpasset matrice
+58=Automatisk kontrast
+59=Omform markering
+60=Automatisk uskarp
+61=Automatisk skarp
+62=Klone
+63=Farvebalance
+64=Farvetone / Mæthed
+65=Fyld
+66=Sorter ikoner
+67=Tilføj ikon
+68=Fjern ikon
+69=Nyt filter
+70=Fjern filter
+71=sorter filter
+72=Nuance
+73=Hent markering
+74=Start filtertilstand
+75=Afslut filertilstand
+76=Farveinterval
+77=Rastrering
+78=Filteregenskap
+79=Som markering
+80=Polygonlasso
+81=Rasterskygge
+82=Rektangel
+83=Ellipse
+84=Bevægelsesuskarp
+85=Fjer
+86=njdlæs markering
+87=Filteroperation
+88=Farvetemperatur
+89=Rød/Grøn/Blå
+90=Farvelæg
+91=Kanal till markering
+
+[BrightnessContrastForm]
+0=Lys / Kontrast
+1=Lys:
+2=Kontrast:
+
+[ColorBalanceForm]
+0=Farvebalance
+1=Farvebalance
+2=Cyan
+3=Rød
+4=Magenta
+5=Grøn
+6=Gul
+7=Blå
+8=Farveniveauer:
+9=Område
+10=Skygger
+11=Mellemtoner
+12=Højlys
+13=Bevar lysstyrke
+
+[HueSaturationForm]
+0=Nuance / Mæthed
+1=Farve:
+2=Master
+3=Rød
+4=Gul
+5=Grøn
+6=Cyan
+7=Blå
+8=Magenta
+9=Nuance:
+10=Mæthed:
+11=Lys:
+
+[GaussianBlurForm]
+0=Gaussisk uskarp
+1=Radius:
+
+[SharpnessForm]
+0=Skarphed
+1=Skarphed:
+
+[EmbossForm]
+0=Relief
+1=Højde:
+2=Mængde:
+3=Vinkel:
+
+[LevelsForm]
+0=Niveauer
+1=Kanal:
+2=RGB
+3=Rød
+4=Grøn
+5=Blå
+6=Inputniveau:
+7=Outputniveau:
+8=Angiv sortpunkt
+9=Angiv gråpunkt
+10=Angiv hvidpunkt
+11=Auto
+12=Resultat
+
+[CurvesForm]
+0=Kurver
+1=Kurver (*.ACV)|*.ACV|Indstillinger (*.AMP)|*.AMP
+2=Hent...
+3=Gem...
+4=Input:
+5=Output:
+6=Kurver (*.ACV)|*.ACV
+7=Indstillinger (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Udskriv
+1=Vælg printer
+2=Udskriv
+3=Egenskaber
+4=Sideorientering
+5=Portræt
+6=Landskab
+7=Position
+13=Billedstørrelse
+14=Original
+15=Tilpas til siden
+16=Tilpasset
+17=Kopier
+18=Billedstørrelse
+19=Bredde:
+20=Højde:
+21=cm
+22=inches
+23=Bevar proportioner
+24=Printerfejl!
+25=Sidestørrelse:
+26=Udskriftsopløsning:
+27=dpi
+28=Ændre størrelse fra centrum
+29=Fyld siden
+
+[CanvasFormForm]
+0=Arbejdsområde
+1=Pixel
+2=Procent
+3=Tidligere dimension
+4=Bredde:
+5=Højde:
+6=Størrelse:
+7=Ny dimension
+8=Bredde:
+9=Højde:
+10=Placering:
+11=Størrelse:
+12=pixel
+13=Arbejdsområde farve:
+
+[ImageSizeForm]
+0=Billedstørrelse
+1=Dimensioner:
+2=Bredde:
+3=Højde:
+4=Pixel
+5=Procent
+6=Bevar proportioner
+7=Metode:
+8=Størrelse:
+9=Nærmeste
+10=Bicubic
+11=Bicubic skarpere
+12=Bicubic blødere
+13=cm
+14=Inches
+15=Procent
+16=pixel/cm
+17=pixel/inch
+18=Opløsning:
+19=Størrelse:
+20=Nye billeddata:
+
+[RotateForm]
+0=Roter
+1=Vinkel:
+2=Vinkel
+3=Arbejdsområde farve:
+4=Vis normal
+5=°CW
+6=°CCW
+
+[EllipseRegionFrame]
+0=Ellipse
+1=Radius
+2=Kantudjævning
+
+[BrushFrame]
+0=Tilføj ny pensel
+1=Rediger pensel
+2=Fjern pensel
+3=Tilføj ny pen
+4=Rediger pen
+5=Fjern pen
+6=Tilføj nyt viskelæder
+7=Rediger viskelæder
+8=Fjern viskelæder
+
+[RulerFrame]
+0=Rens
+
+[FillToolFrame]
+0=Tolerance:
+1=Kantudjævning
+2=Alle lag
+
+[LineFrame]
+0=Tilføj ny linie
+1=Rediger linie
+2=Fjern linie
+
+[LayersFrame]
+0=Tilføj til container
+1=Tilføj lag
+2=Fjern markerede lag
+3=Skygge
+
+[EllipseOptionsForm]
+0=Ellipse
+1=Diameter:
+2=Hårdhed:
+3=Vinkel:
+4=Rundhed:
+5=Afstand:
+7=Kantudjævning
+
+[LineOptionsForm]
+0=Linie
+1=Diameter:
+2=Hårdhed:
+3=Kantudjævning
+
+[ColorForm]
+0=Farve
+1= Kun paletfarver
+2=Komponenter
+3=Reference
+4=Farve
+5=Ny:
+6=Gammel:
+
+[TextureForm]
+0=Tekstur
+1=Hent tekstur
+2=Slet tekstur
+3=Alle formater|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Hukommelseshåndtering
+
+[FileMemoryOptionsFrame]
+0=Disk 1:
+1=Disk 2:
+2=Disk 3:
+3=Disk 4:
+4=Ingen
+5=Tilgængeligt  RAM:
+6=Max-anvendelse for PixBuilder:
+
+[FileAssociationsForm]
+0=Filassociationer
+
+[FileAssociationsFrame]
+0=Billedfiltyper
+1=Marker alle
+2=Afmarker alle
+3=Verificer disse filassociationer når PixBuilder Studio startes.
+4=Format
+5=Beskrivelse
+6=Filendelser
+
+[HandToolFrame]
+0=Fuld størrelse
+1=Tilpas til skærm
+
+[AboutForm]
+0=Om PixBuilder Studio
+1=Besøg vores webside:
+2=Teknisk support:
+
+[CheckExtForm]
+0=PixBuilder Studio er ikke længeree associeret med en del af de filtyper du tidigere valgte for association.
+1=Vælg de filtyper du vil associere med PixBuilder Studio, fra nedenstående liste.
+2=Verificer disse filassociationer når PixBuilder Studio startes
+3=Filendelse
+4=Er nu associeret med
+
+[UnsharpMaskForm]
+0=Uskarphedsfilter
+1=Mængde:
+2=Radius:
+
+[CustomMatrixForm]
+0=Tilpasset matrice
+1=Standardindstillinger:
+2=Skala:
+3=Forskydning:
+4=Hent...
+5=Gem...
+6=Tilpasset filter (*.acf)|*.acf
+
+[StatusMenu]
+0=Dokumentdimensioner
+1=Dokumentstørrelse
+
+[FillForm]
+0=Fyld
+1=Farve:
+2=Mønster:
+
+[LayersTree]
+0=Containere
+1=Tekst
+2=RGB-farver
+3=Indexerede farver
+4=Gråskala
+5=Gennemsigtighed:
+
+[Tools]
+Hint0=Tegn rektangulær markering eller flyt markering. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint1=Tegn frihåndsmarkering eller flyt markering. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint2=Tegn elliptisk markering eller flyt markering. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint3=Klik og træk for at flytte markering eller lag. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint4=Tegn enkel kolonnemarkering eller flyt markering. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint5=Tegn enkel radmarkering eller flyt markering. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint6=Venstreklik for at tegne fri form med forgrundsfarven. Højreklik for at tegne fri form med baggrundsfarven. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint7=Venstreklik for at male med forgrundsfarven. Højreklik for at male med baggrundsfarven. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint8=Klik og træk for at bruge viskelæder. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint9=Klik og tegn en linie. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint10=Venstreklik for at fylde et område med forgrundsfarven. Højreklik for at fylde et område med baggrundsfarven. Brug Alt for flere alternativer.
+Hint11=Venstreklik for at placere teksten.
+Hint12=Venstreklik for at vælge ny forgrundsfarve. Højreklik for at vælge ny baggrundsfarve.
+Hint13=Klik og træk for at oprette målelinie.
+Hint14=Marker nærtliggende pixels med lignende farve eller flytte markering.
+Hint15=Klik og træk for at scrolle billede..
+Hint16=Klik på det område du vil forstørre.
+Hint17=Alt+klik for at definere kilden, og derefter klik og træk for at male. Brug Shift for flere alternativer.
+Hint18=Klik og træk for at ændre farver. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint19=Alt+klik for at definere en kilde, og derefter klik og træk for at male. Brug Shift for flere alternativer.
+Hint20=Klik for at angive valgt segmentpunkt. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint21=Klik og træk for gradient fyldning. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint22=Klik og træk for at tegne rektangel. Brug Shift, Alt og Ctrl for flere alternativer.
+Hint23=Klik for at angive ankerpunkt. Brug Shift, Alt og Ctrl for flere alternativer.
+TransformHint=Klik og træk for at rotere. Tryk Enter for at bekræfte. Tryk Esc for at annulere. Brug Shift, Alt og Ctrl for flere alternativer.
+RegionText=Markeret område:
+MoveText=Klik og træk for at flytte markering.
+RegionShift=Tilføj til eksisterende markering.
+RegionAlt=Fjern fra eksisterende markering.
+RegionCtrl=Klik og træk for at flytte markering eller lag.
+RegionCtrlAlt=Klik og træk for at flytte lagt eller en kopi af markering.
+SpaceText=Klik og træk for at scrolle billede.
+AltClick=Alt+klik for at definere et kildepunkt til anvendelse for reparation af billedet.
+
+[NewIconForm]
+0=Tilføj nyt ikon
+1=Farver
+2=Størrelse
+3=True color med alfakanal (32 bits)
+4=True color (24 bits)
+5=256 farver (8 bits)
+6=16 farver (4 bits)
+7=Monochrome (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Tilpasset
+13=Kvadrat
+14=32 bits
+15=24 bits
+16=8 bits
+17=4 bits
+18=1 bit
+
+[Channels]
+0=Rød
+1=Grøn
+2=Blå
+3=Alfa
+
+[Masks]
+0=Filter
+1=Vil du fjerne filtret "_"?
+2=Vil du fjerne _ markeret filter?
+
+[GradientForm]
+0=Rediger gradient
+1=Punkt
+2=Farve
+3=Position:
+4=Fjern
+5=Navn:
+
+[ColorButton]
+0=Forgrundsfarve
+1=Baggrundsfarve
+
+[GradientFrame]
+0=Liniær gradient
+1=Radial gradient
+2=Vinkel gradient
+3=Reflekteret gradient
+4=Diamant gradient
+
+[GradientHintForm]
+0=Rediger...
+1=Tilføj...
+2=Fjern
+
+[LayerPropertyForm]
+0=Lag egenskaber
+1=Navn:
+2=Gennemsigtighed:
+3=Lag egenskaber
+4=Skygge
+5=Aktiver skygge
+
+[ChannelsFrame]
+0=Kanal
+1=Filter
+2=Aktiver kanallag
+3=Aktiver filterlag
+4=Tilføj filter
+5=Fjern filter
+6=Tilføj som valgt
+7=Vælg alle
+8=Bland aktuelt filter
+9=Tilføj aktuelt filter
+10=Fratræk aktuelt filter
+11=Egenskab...
+12=Sæt aktuelt filter
+
+[ColorRangeForm]
+0=Farveinterval
+1=Udvisket:
+2=Valg
+3=Billede
+4=Kantudjævning
+5=Kan ikke fjerne nogen farver, da der kun er valgt een farve nu.
+
+[MaskPropertyForm]
+0=Filteregenskab
+1=Navn:
+2=Farve:
+
+[DropShadowFrame]
+0=Skygge
+1=Farve:
+2=Vinkel:
+3=Afstand:
+4=Spredning
+5=Størrelse:
+6=Tilpasset...
+7=Gennemsigtighed:
+
+[SpreadForm]
+0=Spredning
+1=Hent spredning...
+2=Gem spredning...
+3=Input:
+4=Output:
+5=Standardindtillinger
+6=Spredningsfiler(*.spr)|*.spr
+
+[FileInfoForm]
+0=Filinfo
+1=Filnavn:
+2=Mappe:
+3=Type:
+4=Størrelse:
+5=Dato/Tid:
+6=Dimensioner:
+7=Fil og attribut
+8=EXIF Metadata
+9=Opløsning:
+
+[RoundRectOptionsForm]
+0=Rektangelalternativ
+1=Bredde:
+2=Hårdhed:
+3=Radius:
+4=Fyld
+
+[RoundRectFrame]
+0=Tilføj rektangel
+1=Rediger rektangel
+2=Fjern rektangel
+
+[EllipseOptionsForm2]
+0=Ellipsealternativ
+1=Bredde:
+2=Hårdhed:
+3=Fyld
+
+[EllipseFrame]
+0=Tilføj ellipse
+1=Rediger ellipse
+2=Fjern ellipse
+
+[MagneticToolFrame]
+0=Kantudjævning
+1=Følsomhed:
+2=Spredning:
+
+[MotionBlurForm]
+0=Bevægelsesuskarp
+1=Afstand:
+2=Vinkel:
+
+[FeatherForm]
+0=Fjer
+1=Radius:
+2=Spredning
+
+[CropToolFrame]
+0=Bevar proportioner
+1=Bredde:
+2=Højde:
+
+[SaveSelectionForm]
+0=Gem markering
+1=Markeringsnavn:
+
+[LoadSelectionForm]
+0=Hent markering
+1=Markeringsnavn:
+2=Operation
+3=Ny markering
+4=Tilføj til markering
+5=Fjern fra markering
+6=Overlap med markering
+
+[PluginsForm]
+0=Tilføjelser
+1=Skanne...
+2=Ny tilføjelse...
+3=Op
+4=Ned
+5=Omdøb
+6=Fjern
+7=Sådan bruger man 8bf-filter i PixBuilder Studio
+
+[AddPatternForm]
+0=Tilføj mønster
+1=Mønsternavn:
+
+[PatternEditForm]
+0=Rediger mønster
+1=Tilføj mønster...
+2=Fjern mønster
+3=Omdøb mønsternavn
+
+[ShortCutsForm]
+0=Tastaturgenveje
+1=_1_ bruges allerede af _2_ objekt.
+2=Accepter og gå til konflikt
+3=Fortryd ændringer
+4=_1_ er en ugyldig genvej.
+5=Standardindstillinger:
+
+[ColorTemperatureForm]
+0=Farvetemperatur
+1=Temperatur:
+
+[RGBForm]
+0=Rød/Grøn/Blå
+1=Rød (%):
+2=Grøn (%):
+3=Blå (%):
+
+[ColorizeForm]
+0=Farvelæg
+
+[SaveAsForm]
+0=Fil muligheder
+
+[Updates]
+0=Søg efter opdateringer
+1=Vis aktuel version
+2=Den nye version %ProductName% %ProductVersion% er nu tilgængelig
+3=Du bruger den nyeste versionen af %ProductName%
+4=Søg automatiskt efter opdateringer
+5=Søg efter ny version
+6=Hent den nye version

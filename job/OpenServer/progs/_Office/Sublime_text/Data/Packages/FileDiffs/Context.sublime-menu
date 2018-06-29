@@ -1,0 +1,8 @@
+[
+   { "caption": "-" },
+   { "caption": "Меню сравнения файлов", "command": "file_diff_menu" },
+   { "caption": "Сравнить выделенное", "command": "file_diff_selections" },
+   { "caption": "Сравнить с буфером обмена", "command": "file_diff_clipboard" },
+   { "caption": "Сравнить с сохранённым", "command": "file_diff_saved" },
+   { "caption": "-" }
+]

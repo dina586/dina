@@ -1,0 +1,29 @@
+To: =?UTF-8?B?0L7Qu9C10LM=?= <mitcompany@mail.com>, =?UTF-8?B?0L7Qu9C10LM=?= <stolgradnaya@tut.by>
+Subject: =?UTF-8?B?0JfQsNGP0LLQutCwINC90LAg0L7QsdGA0LDRgtC90YvQuSDQt9Cy0L7QvdC+?=  =?UTF-8?B?0Lo=?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Thu, 15 Oct 2015 09:30:04 +0300
+Return-Path: noreply@email.com
+From: gf <noreply@email.com>
+Message-ID: <38a5e6232f9605a9cfef1ff26b475b94@orx-by>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_38a5e6232f9605a9cfef1ff26b475b94"
+
+--b1_38a5e6232f9605a9cfef1ff26b475b94
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Имя: gfТелефон: fg
+
+
+--b1_38a5e6232f9605a9cfef1ff26b475b94
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Имя: gf</p><p>Телефон: fg</p>
+
+
+
+--b1_38a5e6232f9605a9cfef1ff26b475b94--

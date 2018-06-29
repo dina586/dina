@@ -1,0 +1,1020 @@
+[General]
+LangName=Romanian
+Version=1.00
+
+[Strings]
+Ok=OK
+Cancel=Anulare
+Close=Inchide
+Warning=Atentie!
+Preview=Previzualizare
+Error=Eroare!
+Save=Imaginea a fost modificata. Salvezi modificarile?
+Rasterize=Layer-ul trebuie rasterizat inaintea procesarii. Rasterizezi Layer-ul?
+BigImage=Imaginea este prea mare
+NoMemory=Insuficient spatiu pe disk!!!
+Yes=Da
+No=Nu
+Information=Informatii
+Default=Predefinit
+ReadOnly=Fisier "|" este 'Doar in citire'. Inlatura atributul pentru suprascriere. 
+ScannerError=Imposigil de gasit o sursa TWAIN.
+Background=Fundal
+AllFormats=Toate formatele
+MaskMode= Modul Masca
+Delete=Sterge
+
+[Actions]
+0=Decupare
+1=Invers
+2=Gaussian Blur...
+3=Stralucire / Contrast...
+4=Conturare...
+5=Scala de gri
+6=Reliefare...
+7=Copiere
+8=Lipire
+9=Modificare Paleta...
+10=Rasterizare Layer Text
+11=Niveluri...
+12=Nou...
+13=Transformare Libera
+14=Deschide...
+15=Inchide
+16=Salvare
+17=Iesire
+18=Cascada
+19=Alatura Horizontal
+20=Alatura Vertical
+21=Minimizare
+22=Aranjare
+23=Despre
+24=Creion
+25=Linie
+26=Selectie Rectangulara
+27=Selectie Elliptica
+28=Lasso
+29=Pipeta
+30=Nivel Automat
+31=Curbe...
+32=Arata Rigle
+33=Pensula
+34=Guma
+35=Panou Zoom
+36=Panou Layere
+37=Panou Unelte
+38=Undo Panel
+39=Mutare
+40=Selectare Tot
+41=Deselectare
+42=Inversare Selectie
+43=Masurare
+44=Umplere cu Culoare
+45=Text
+46=Anulare
+47=Refacere
+48=Scanare...
+49=Selectare Scanner...
+50=Imprimare...
+51=Dimensiune Cadru...
+52=Decupare Selectie
+53=Marime Imagine...
+54=Rotire...
+55=Rotire 90° orar
+56=Rotire 90° anti orar
+57=Rotire 180°
+58=Oglindire Cadru Orizontal
+59=Oglindire Cadru Vertical
+60=Selectare Linie
+61=Selectare Coloana
+62=Clear
+63=Umplere
+64=Redenumire Layer
+65=Combina Layere
+66=Rotire si Oglindire
+67=Oglindire Orizontal
+68=Oglindire Vertical
+69=Duplicare Layer
+70=Deschide Recente
+71=Ajutor
+72=Setare Manager Memorie...
+73=Fixare Bare de Instrumente
+74=Zoom +
+75=Zoom -
+76=Bara de Stare
+77=Savare cu Previzualizare...
+78=Bagheta Magica
+79=Mana
+80=Zoom
+81=Retus fin
+82=Inlocuieste Culoare
+83=Mod Tot Ecranul
+84=Imagine Plata 
+85=Clonare
+86=Unsharp Mask...
+87=Matrice Personalizata...
+89=Auto Contrast
+90=Auto Repetare
+91=Pixeli Reali
+92=Ajustare la Ecran
+93=Selectie Transform
+94=Asociatie Fisiere...
+95=Blurare Rapida
+96=Conturare Rapida
+97=Salvare Ca...
+98=Balans Culoare...
+99=Tonalitate / Saturatie...
+100=Marime Fereastra La Marime Imagine
+101=Umplere...
+102=Icons
+103=Sus
+104=Jos
+105=Sortare iconuri
+106=Adauga imagine noua
+107=Stergere imagine curenta
+108=Gradient
+109=Gama de Culori...
+110=Panou Culori
+111=Panou Canale
+112=Dithering...
+113=Afisare Selectie
+114=Proprietati Layer...
+115=Ca Selectie
+116=Lasou Poligonal
+117=Rasterize Drop Shadow
+118=Info Fisier...
+119=Poligon Rotunjit
+120=Drop Shadow...
+121=Elipsa
+122=Lasou Magnetic
+123=Motion Blur...
+124=Contur...
+125=Rasterize Drop Shadow In Layer
+126=Decupare
+127=Salvare selectie...
+128=Incarca selectie...
+129=Browser Panel
+130=Setari Plugin-uri...
+131=Editare Sablon...
+132=Adauga Sablon...
+133=Scurtaturi Tastatura
+134=Temperatura de Culoare...
+135=Rusu/Verde/Albastru...
+136=Colorizare...
+137=Canal de Selectat
+138=Canal R
+139=Canal G
+140=Canal B
+141=Canal A
+142=Deschide Prezentarea...
+143=Incearca PicturesToExe Deluxe...
+144=Lovitura...
+
+[MainForm]
+1=Panou Zoom
+2=Panou Layere
+3=Panou Unelte
+4=Panou Anulare
+5=Fisier
+6=Editare
+7=Selectare
+8=Vizualizare
+9=Unelte
+10=Layer (strat)
+11=Optiuni
+12=Culori
+13=Ajutor
+14=Efecte
+15=Panouri
+16=Ferestre
+17=Limbaje
+18=Lista Anulare Operatiuni
+19=Panou Culoare
+20=Browser Panel
+
+[NewImageForm]
+0=Nou...
+1=Nume:
+2=Latime:
+3=Imaltime:
+4=Rezolutie:
+5=Fundal:
+6=Marime Imagine:
+7=Parametri:
+8=Presetari:
+9=Incarca Presetare
+10=Salvare Presetare
+11=Sterge Presetare
+12=Sigur vrei sa stergi?
+13=Fara Titlu
+20=Alb
+21=Culoare Primplan
+22=Culoare Fundal
+23=Transparent
+24=Culoare...
+25=Imaginea este prea mare.
+26=Imagine
+27=Icon
+
+[Measurement]
+0=pixeli
+1=cm
+2=inchi
+10=pixel / cm
+11=pixel / inch
+
+[EditForm]
+0=Presetare document nou
+1=Nume presetare:
+10=Presetare noua
+11=Nume presetare:
+20=Proprietati Layer
+21=Nume Layer:
+30=Nume Sablon
+31=Nume:
+
+[TextForm]
+0=Editare text
+1=Culoare
+2=Incarca textura
+3=Incarca text
+4=Salvare text
+5=Anulare
+6=Nume Font
+7=Marime Font
+8=Bold
+9=Italic
+10=Underline
+11=Strikeout
+12=Aliniere stinga
+13=Aliniere centru
+14=Aliniere dreapta
+
+[PaletteForm]
+0=Indexare culoare
+1=Vizualizare paleta
+2=Editare culoare
+3=Adauga culoare
+4=Sterge culoare
+5=Incarca paleta
+6=Salvare paleta
+7=Culori:
+8=Dithering
+9=Culori RGB
+10=Adaptive
+11=Fond negru
+12=Scala de gri
+13=Spectrum
+14=System (Mac OS)
+15=System (Windows)
+16=Web
+17=Negru si Alb
+18=Personalizat
+19=16 culori
+
+[Zoom]
+0=Potriveste la ecran
+
+[JPEG]
+0=Calitate:
+1=Progresiv
+2=Optiuni JPEG
+3=Scala de gri
+4=Salvare Exif-data
+
+[PNG]
+0=Compresie:
+1=Jos
+2=Mediu
+3=Inalt
+4=Intretesut
+5=Transparent
+6=Optiuni PNG
+
+[GIF]
+0=Intretesut
+1=Transparent
+2=Optiuni GIF
+
+[BMP]
+0=Biti
+1=1 bit
+2=4 biti
+3=8 biti
+4=16 biti
+5=24 biti
+6=32 biti (cu Alpha channel) 
+7=Compres (RLE)
+8=Optiuni BMP
+
+[TIFF]
+0=Compresie:
+1=Necomprimat
+2=JPEG
+3=Calitate:
+4=Optiuni TIFF
+
+[Targa]
+0=Rezolutie
+1=16 biti / pixel
+2=24 biti / pixel
+3=32 biti / pixel
+4=Compresie (RLE)
+5=Optiuni Targa
+
+[PCX]
+0=Optiuni PCX
+
+[PBS]
+0=Optiuni PBS
+
+[SaveWithPreviewForm]
+0=Salvare cu Previzualizare...
+1=Original:
+2=Salvare
+3=Paleta
+4=Presetare
+5=Editare presetari
+6=Editare culori
+7=Adauga culori
+8=Sterge culori
+
+[EditSavePresetForm]
+0=Editare presetari
+1=Inlocuire
+2=Adaugare
+3=Sterge
+4=Presetari prestabilite
+5=Rstaurare presetari?
+
+[UndoFrame]
+0=Anulare
+1=Resfacere
+2=Creare Snapshot nou
+3=Sterge Starea curenta
+4=Creare Document Nou din Starea curenta
+5=Sterge Snapshot "1"?
+6=Sterge State "1"?
+7=Sterge Istoricul
+8=Document Nou
+
+[UndoActions]
+0=Snapshot
+1=Deschide
+2=Pensula
+3=Mutare
+4=Linie
+5=Guma
+6=Galeata
+7=Selectie Rectangulara
+8=Lasou
+9=Deselectare
+10=Selectare Tot
+11=Inversare Selectie
+12=Invers
+13=Indexare Culoare
+14=Stralucire/Contrast
+15=Gaussian Blur
+16=Contur
+17=Scala de Gri
+18=Relief
+19=Niveluri
+20=Niveluri Auto
+21=Curves
+22=Marime cadru
+23=Decupare
+24=Redimensionare Imagine
+25=Rotire
+26=Oglindire Cadru Orizontal
+27=Oglindire Cadru Vertical
+28=Selectie Elliptica
+29=Selectie Linie
+30=Selectie Coloana
+31=Creion
+32=Mutare Selectie
+33=Curata
+34=Umplere
+35=Combina Layere
+36=Creare
+37=Rasterizare
+38=Schimba Ordinea
+39=Adauga Container
+40=Adauga Layer
+41=Sterge Layer
+42=Lipire
+43=Decupare
+44=Transformare
+45=Oglindire Orizontala
+46=Oglindire Verticala
+47=Scanare
+48=Adauga Layer Text
+49=Editare Layer Text
+50=Proprietati Layer
+51=Duplicare Layer
+52=Bagheta Magica
+53=Pensula Retusare
+54=Inlocuire Culori
+55=Clonare Stamp
+56=Unsharp Mask
+57=Matrice Personalizata
+58=Auto Contrast
+59=Transform Selectie
+60=Blur Rapid
+61=Sharp Rapid
+62=Duplicare
+63=Balans Culori
+64=Tonalitate / Saturatie
+65=Umplere
+66=Sortare Iconuri
+67=Adauga Icon
+68=Sterge Icon
+69=Masca Noua
+70=Stergere Masca
+71=Rearanjare Masti
+72=Gradient
+73=Incarca Selectie
+74=Intra in Mod Masca
+75=Iesire din Mod Masca
+76=Gama de Culori
+77=Dithering
+78=Proprietati Masca
+79=Ca Selectie
+80=Poligonal Lasou
+81=Rasterizare Drop Shadow
+82=Poligon Round
+83=Elipsa
+84=Motion Blur
+85=Contur
+86=Incarca Selectia
+87=Operatiune cu Masca
+88=Temperatura de Culoare
+89=Rosu/Verde/Albastru
+90=Colorizare
+91=Canal de Selectie
+92=Strivire
+
+[BrightnessContrastForm]
+0=Stralucire / Contrast
+1=Stralucire:
+2=Contrast:
+
+[ColorBalanceForm]
+0=Balans de Culoare
+1=Balans de Culoare
+2=Cyan
+3=Rosu
+4=Magenta
+5=Verde
+6=Galben
+7=Albastru
+8=Niveluri de Culori:
+9=Balans de Ton
+10=Umbre
+11=Tonuri medii
+12=Stralucire
+13=Pastrare Luminozitatea
+
+[HueSaturationForm]
+0=Tonalitate / Saturatie
+1=Culoare:
+2=Master
+3=Rosu
+4=Galben
+5=Verde
+6=Cyans
+7=Albastru
+8=Magenta
+9=Tonalitae:
+10=Saturatie:
+11=Luminozitate:
+
+[GaussianBlurForm]
+0=Gaussian Blur
+1=Raza:
+
+[SharpnessForm]
+0=Conturare
+1=Conturare:
+
+[EmbossForm]
+0=Relief
+1=Inaltine:
+2=Cantitate:
+3=Unghi:
+
+[LevelsForm]
+0=Niveluri
+1=Canale:
+2=RGB
+3=Rosu
+4=Verde
+5=Albastru
+6=Nivel Intrare:
+7=Nivel Iesire:
+8=Setare punct negru
+9=Setare punct gri
+10=Setare punct alb
+11=Auto
+12=Rezultat
+
+[CurvesForm]
+0=Curves
+1=Curves (*.ACV)|*.ACV|Map settings (*.AMP)|*.AMP
+2=Incarca...
+3=Salvare...
+4=Intrare:
+5=Iesire:
+6=Curves (*.ACV)|*.ACV
+7=Map settings (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Imprimare
+1=Nu exista imprimante
+2=Imprimare
+3=Proprietati
+4=Orientare Pagina
+5=Portret
+6=Peisaj
+7=Pozitie
+13=Dimensiune Imagine
+14=Original
+15=Potriveste la Pagina
+16=Personalizat
+17=Copie
+18=Dimensiune Imagine
+19=Latime:
+20=Inaltime:
+21=cm
+22=inchi
+23=Mentine Proportiile
+24=Eroare de Imprimanta!
+25=Marime Pagina:
+26=Rezolutie Imprimanta:
+27=dpi
+28=Redimensionare pe Centru
+29=Umple Pagina
+
+[CanvasFormForm]
+0=Marime Cadru
+1=Pixeli
+2=Procent
+3=Dimensiuni Vechi
+4=Latime:
+5=Inaltime:
+6=Marime:
+7=Dimensiuni Noi
+8=Latime:
+9=Inaltime:
+10=Ancora:
+11=Marime:
+12=pixeli
+13=Extindere Culoare Cadru:
+
+[ImageSizeForm]
+0=Marime Imagine
+1=Dimensiuni:
+2=Latime:
+3=Inaltime:
+4=Pixeli
+5=Procent
+6=Mentine Proportiile
+7=Medona Resampling:
+8=Marime:
+9=Nearest
+10=Bicubic
+11=Bicubic Sharper
+12=Bicubic Smoother
+13=cm
+14=Inchi
+15=Procent
+16=pixeli/cm
+17=pixeli/inch
+18=Rezolutie:
+19=Marime:
+20=Resample Imagine:
+
+[RotateForm]
+0=Rotire
+1=Unghi:
+2=Unghi
+3=Extensie Culoare:
+4=Afisare Normal
+5=°Orar
+6=°AntiOrar
+
+[EllipseRegionFrame]
+0=Elipsa
+1=Raza
+2=Antialiasing
+
+[BrushFrame]
+0=Adauga Pensula Noua
+1=Editare Pensula
+2=Sterge Pensula
+3=Adauga Creion Nou
+4=Editare Creion
+5=Sterge Creion
+6=Adauga Guma Noua
+7=Editare Guma
+8=Sterge Guma
+
+[RulerFrame]
+0=Curata
+
+[FillToolFrame]
+0=Toleranta:
+1=Antialiasing
+2=Toate Layerele
+
+[LineFrame]
+0=Adauga Linie Noua
+1=Editare Linie
+2=Sterge Linie
+
+[LayersFrame]
+0=Adauga Container
+1=Adauga Layer
+2=Sterge Layerul Selectat
+3=Drop Shadow
+
+[EllipseOptionsForm]
+0=Elipsa
+1=Diametru:
+2=Duritate:
+3=Unghi:
+4=Curbura:
+5=Spatiere:
+7=Antialiasing
+
+[LineOptionsForm]
+0=Linie
+1=Diametru:
+2=Duritate:
+3=Antialiasing
+
+[ColorForm]
+0=Culoare
+1=Doar paleta de Culori
+2=Componente
+3=Referinte
+4=Culoare
+5=Nou:
+6=Vechi:
+7=Style 1
+8=Style 2
+9=Style 3
+
+[TextureForm]
+0=Textura
+1=Incarca Textura
+2=Anulare Textura
+3=Toate Formatele|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Diskul pentru Memoria Virtuala
+
+[FileMemoryOptionsFrame]
+0=Disk 1:
+1=Disk 2:
+2=Disk 3:
+3=Disk 4:
+4=Niciunul
+5=RAM Disponibil:
+6=Maximul folosit de PixBuilder:
+
+[FileAssociationsForm]
+0=Asociere la Fisiere
+
+[FileAssociationsFrame]
+0=Tip Fisier Imagine
+1=Selectare Tot
+2=Deselectare Tot
+3=Verifica asocierea cind porneste PixBuilder Studio
+4=Format
+5=Descriere
+6=Extensii Fisier
+
+[HandToolFrame]
+0=Pixeli Reali
+1=Potrivire la Ecran
+
+[AboutForm]
+0=Despre PixBuilder Studio
+1=Viziteaza Website-ul nostru:
+2=Suport Tehnic:
+
+[CheckExtForm]
+0=PixBuilder Studio nu este asociat la nici un tip de fisier din cele afisate.
+1=Din lista, selecteaza fisierele care vor fi asociate la PixBuilder Studio.
+2=Verifica asocierea fisierelor cind porneste PixBuilder Studio
+3=Extensie
+4=Asociere curenta cu
+
+[UnsharpMaskForm]
+0=Unsharp Mask
+1=Valoare:
+2=Raza:
+
+[CustomMatrixForm]
+0=Matrice Personalizata
+1=Presetari:
+2=Scala:
+3=Interval:
+4=Incarca...
+5=Salvare...
+6=Filtre Personalizate (*.acf)|*.acf
+
+[StatusMenu]
+0=Dimensiuni Document
+1=Marime Document
+
+[FillForm]
+0=Umplere
+1=Culoare:
+2=Pattern:
+
+[LayersTree]
+0=Container
+1=Text
+2=Culori RGB
+3=Culori Indexate
+4=Scala de Gri
+5=Opacitate:
+
+[Tools]
+Hint0=Draw rectangular selection or move selection outline. Use Shift, Alt and Ctrl for additional options.
+Hint1=Draw freeform selection or move selection outline. Use Shift, Alt and Ctrl for additional options.
+Hint2=Draw elliptical selection or move selection outline. Use Shift, Alt and Ctrl for additional options.
+Hint3=Click and drag to move selection or layer. Use Shift, Alt and Ctrl for additional options.
+Hint4=Draw single column selection or move selection outline. Use Shift, Alt and Ctrl for additional options.
+Hint5=Draw single row selection or move selection outline. Use Shift, Alt and Ctrl for additional options.
+Hint6=Left click for draw freeform using foreground color. Right click for draw freeform using background color. Use Shift, Alt and Ctrl for additional options.
+Hint7=Left click to paint using foreground color. Right click to paint using background color. Use Shift, Alt and Ctrl for additional options.
+Hint8=Click and drag to erase. Use Shift, Alt and Ctrl for additional options.
+Hint9=Click and drag to draw line. Use Shift, Alt and Ctrl for additional options.
+Hint10=Left click to fill a region with the foreground color. Right click to fill with the background color. Use Alt for additional options.
+Hint11=Left click to place the text.
+Hint12=Left click to choose new foreground color. Right click to choose new background color.
+Hint13=Click and drag to create measure line.
+Hint14=Click to select adjacent pixels of similar color or move selection.
+Hint15=Click and drag to scroll image.
+Hint16=Click over the area you want to enlarge.
+Hint17=Alt+click to define a source, and then click and drag to paint. Use Shift for additional options.
+Hint18=Click and drag to replace colors. Use Shift, Alt and Ctrl for additional options.
+Hint19=Alt-click to define a source, and then click and drag to paint. Use Shift for additional options.
+Hint20=Click to set a selection segment point. Use Shift, Alt and Ctrl for additional options.
+Hint21=Click and drag to fill with gradient. Use Shift, Alt and Ctrl for additional options.
+Hint22=Click and drag to draw a rounded rectangle. Use Shift, Alt and Ctrl for additional options.
+Hint23=Click to set the starting fastening point. Use Shift, Alt and Ctrl for additional options.
+TransformHint=Click and drag to rotate. Hit enter to commit. Hit escape to cancel. Use Shift, Alt and Ctrl for additional options.
+RegionText=Selected area:
+MoveText=Click and drag to move selection.
+RegionShift=Add to existing selection.
+RegionAlt=Subtract from existing selection.
+RegionCtrl=Click and drag to move selection or layer.
+RegionCtrlAlt=Click and drag to move layer or move a copy of selection.
+SpaceText=Click and drag to scroll image.
+AltClick=Alt-click to define a source point to be used to repair the image.
+
+[NewIconForm]
+0=Adauga icon nou
+1=Culori
+2=Marime
+3=Culori Reale cu canal alpha (32 bits)
+4=Culori Reale (24 bits)
+5=256 Culori (8 bits)
+6=16 Culori (4 bits)
+7=Monocrom (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Personalizat
+13=Patrat
+14=32 bits
+15=24 bits
+16=8 bits
+17=4 bits
+18=1 bit
+
+[Channels]
+0=Rosu
+1=Verde
+2=Albastru
+3=Alpha
+
+[Masks]
+0=Masca
+1=Stergi masca "_"?
+2=Stergi _ masca selectata?
+
+[GradientForm]
+0=Editare Gradient
+1=Punct
+2=Culoare
+3=Pozitie:
+4=Sterge
+5=Nume:
+
+[ColorButton]
+0=Culoare Primplan
+1=Culoare Fundal
+
+[GradientFrame]
+0=Gradient Liniar
+1=Gradient Radial
+2=Gradient Oblic
+3=Gradient Reflectat
+4=Gradient Diamant
+
+[GradientHintForm]
+0=Editare...
+1=Adaugare...
+2=Stergere
+
+[LayerPropertyForm]
+0=Proprietati Layer
+1=Nume:
+2=Opacitate:
+3=Proprietati Layer
+4=Drop Shadow
+5=Drop Shadow Activat
+
+[ChannelsFrame]
+0=Panou Canale
+1=Panou Masca
+2=Intra in Mod Canal
+3=Intra in Mod Masca
+4=Adauga Masca
+5=Sterge Masca
+6=Aplica la Selectie
+7=Selectare Tot
+8=Imbinare Masca Curenta
+9=Adauga Masca Curenta
+10=Scoate Masca Curenta
+11=Proprietati...
+12=Setare Masca Curenta
+
+[ColorRangeForm]
+0=Gama Culori
+1=Fuzziness:
+2=Selectie
+3=Imagine
+4=Antialiasing
+5=Nu pot extrage nici o culoare, deoarece doar o culoare este selectata.
+
+[MaskPropertyForm]
+0=Proprietati Masca
+1=Nume:
+2=Culori:
+
+[DropShadowFrame]
+0=Drop Shadow
+1=Culori:
+2=Unghi:
+3=Distanta:
+4=Raspindire
+5=Marime:
+6=Personalizat...
+7=Opacitate:
+
+[SpreadForm]
+0=Spread
+1=Incarca Spread...
+2=Salvare Spread...
+3=Intrare:
+4=Iesire:
+5=Presetare
+6=Fisiere Spread(*.spr)|*.spr
+
+[FileInfoForm]
+0=Info Fisiere
+1=Nume Fisiere:
+2=Folder:
+3=Tip:
+4=Marime:
+5=Data, Timp:
+6=Dimensiune:
+7=Fisiere si Atribute
+8=EXIF Metadata
+9=Rezolutie:
+
+[RoundRectOptionsForm]
+0=Optiuni Poligon Rotunjit
+1=Latime:
+2=Duritate:
+3=Raza:
+4=Cimp
+
+[RoundRectFrame]
+0=Adauga Poligon Rotunjit
+1=Editare Poligon Rotunjit
+2=terge Poligon Rotunjit
+
+[EllipseOptionsForm2]
+0=Optiuni Elipsa
+1=Latime:
+2=Duritate:
+3=Cimp
+
+[EllipseFrame]
+0=Adauga Elipsa
+1=Editare Elipsa
+2=Stergere Elipsa
+
+[MagneticToolFrame]
+0=Antialiasing
+1=Sensibilitate:
+2=Frecventa:
+
+[MotionBlurForm]
+0=Motion Blur
+1=Distanta:
+2=Unghi:
+
+[FeatherForm]
+0=Selectie Feather
+1=Raza Feather
+2=Imprastiere
+
+[CropToolFrame]
+0=Mentine Proportiile
+1=Latime:
+2=Inaltime:
+
+[SaveSelectionForm]
+0=Salvare Selectie
+1=Nume Selectie:
+
+[LoadSelectionForm]
+0=Incarca Selectie
+1=Name Selectie:
+2=Operatie
+3=Selectie Noua
+4=Adauga la Selectie
+5=Extrage din Selectie
+6=Intersectare cu Selectia
+
+[PluginsForm]
+0=Pluginuri
+1=Scan...
+2=Adauga plugin...
+3=Sus
+4=Jos
+5=Redenumire
+6=Sterge
+7=Cum se folosesc filtre 8bf in PixBuilder Studio
+
+[AddPatternForm]
+0=Adauga sablon
+1=Nume Sablon:
+
+[PatternEditForm]
+0=Editare sabloane
+1=Adauga Sablon...
+2=Sterge Sablon
+3=RedenumireSablon
+
+[ShortCutsForm]
+0=Shortcuturi de Tastatura
+1=_1_ este deja folosit de _2_ .
+2=Acepta si mergi la Conflict
+3=Anulare Schimbari
+4=_1_ shortcut invalid.
+5=Presets:
+
+[ColorTemperatureForm]
+0=Temperatura de Culoare
+1=Temperatura:
+
+[RGBForm]
+0=Rosu/Verde/Albastru
+1=Rosu (%):
+2=Verde (%):
+3=Albastru (%):
+
+[ColorizeForm]
+0=Colorizare
+
+[SaveAsForm]
+0=Optiuni Fisier
+
+[Updates]
+0=Verifica Update
+1=Verific versiunea curenta
+2=Versiune noua de %ProductName% %ProductVersion% este disponibila
+3=Folosesti ultima versiune de %ProductName%
+4=Autoverificare update
+5=Verifica pentru versiune noua
+6=Download versiune noua
+
+[StrokeForm]
+0=Lovitura
+1=Lovitura
+2=Latine
+3=Culoare
+4=Locatie
+5=Interior
+6=Centru
+7=Exterior
+8=Colt exterior

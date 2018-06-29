@@ -1,0 +1,1023 @@
+[General]
+Translator=ZityiSoft
+LangName=Hungarian
+Version=1.00
+
+[Strings]
+Ok=OK
+Cancel=Mégse
+Close=Bezárás
+Warning=Figyelem!
+Preview=Elõkép
+Error=Hiba!
+Save=A kép módosítva lett. Menti a változásokat?
+Rasterize=A réteget raszterizálni kell a mûvelet elött. Raszterizálja a réteget?
+BigImage=A kép túl nagy
+NoMemory=Nincs elegendõ lemezterület!!!
+Yes=&Igen
+No=&Nem
+Information=Információ
+Default=Alapérték
+ReadOnly=A(z) "|" fájl 'írásvédett' attribútummal rendelkezik. Távolítsa el az attribútumot a fájl újraírásához.
+ScannerError=A TWAIN forrás nem nyitható meg.
+Background=Háttér
+AllFormats=Minden formátum
+MaskMode=Maszk mód
+Delete=Törlés
+
+[Actions]
+0=Kivágás
+1=Invertálás
+2=Gauss-életlenítés...
+3=&Fényesség / Kontraszt...
+4=Élesség...
+5=Szürkeárnyalatos
+6=Domborítás...
+7=Másolás
+8=Beillesztés
+9=Színpaletta szerkesztése...
+10=Szövegréteg raszterizálása
+11=&Szintek...
+12=Új...
+13=Szabad alakítás
+14=Megnyitás...
+15=Bezárás
+16=Mentés
+17=&Kilépés
+18=Lépcsõzetes elrendezés
+19=Egymás alatt
+20=Egymás mellett
+21=Kis méret
+22=Rendezés
+23=Információk
+24=Ceruza
+25=Vonal
+26=Téglalap kijelölõ
+27=Ellipszis alakú kijelölés
+28=Lasszó
+29=Pipetta
+30=Automatikus szintek
+31=&Görbék...
+32=&Vonalzók mutatása
+33=Ecset
+34=Radír
+35=Nagyítás panel
+36=Rétegek panel
+37=Eszközök panel
+38=Visszavonás panel
+39=Mozgató eszköz
+40=Mind kijelöli
+41=Nincs kijelölés
+42=Fordított kijelölés
+43=Mérõeszköz
+44=Színkitöltõ eszköz
+45=Szöveg eszköz
+46=Visszavonás
+47=Ismételt végrehajtás
+48=Beolvasás...
+49=Szkenner választás...
+50=Nyomtatás...
+51=&Rajzvászon mérete...
+52=Kiválasztott rész vágása
+53=Ké&pméret...
+54=Forgatás...
+55=Elforgatás 90 fokkal jobbra
+56=Elforgatás 90 fokkal balra
+57=Elforgatás 180 fokkal
+58=Rajzvászon vízszintes tükrözése
+59=Rajzvászon függõleges tükrözése
+60=Egysoros kijelölõ
+61=Egyoszlopos kijelölõ
+62=Törlés
+63=Kitöltés
+64=Réteg átnevezése
+65=Rétegek egyesítése
+66=Forgatás
+67=Vízszintes tükrözés
+68=Függõleges tükrözés
+69=Réteg másolása
+70=Legutóbbi megnyitása
+71=Súgó
+72=Memóriakezelõ beállítások...
+73=Eszköztárak zárolása
+74=Nagyítás
+75=Kicsinyítés
+76=Állapotsor
+77=Mentés elõképpel...
+78=Varázspálca
+79=Kéz eszköz
+80=Nagyító eszköz
+81=Javító ecset eszköz
+82=Színcsere eszköz
+83=Teljes képernyõ mód
+84=Rétegek összeolvasztása
+85=Klónozó bélyegzõ
+86=Életlen maszk...
+87=Testreszabott mátrix...
+89=Automatikus kontraszt
+90=Automatikus ismétlés
+91=Valós méret
+92=Átméretezés képernyõhöz
+93=Kije&lölés átalakítása
+94=Fájltársítások...
+95=Gyors életlenítés
+96=Gyors élesítés
+97=Mentés másként...
+98=Színegyensúly...
+99=Színárnyalat / Telítettség...
+100=Ablak igazítása a kép méretéhez
+101=Kitöltés...
+102=Ikonok
+103=Fel
+104=Le
+105=Ikonok rendezése
+106=Új kép hozzáadása
+107=Jelenlegi kép törlése
+108=Színátmenet
+109=Színtartomány...
+110=Szín panel
+111=Csatorna panel
+112=Összemosás...
+113=Kijelölés megjelenítése
+114=Rétegtulajdo&nságok...
+115=Kijelölésként
+116=Sokszög lasszó
+117=Vetett árnyék raszterizálása
+118=&Fájlinformáció...
+119=Lekerekített téglalap
+120=&Vetett árnyék...
+121=Ellipszis
+122=Mágneses lasszó
+123=Bemozdulás...
+124=&Lágy perem...
+125=Vetett árnyék raszterizálása a rétegben
+126=Vágás
+127=Kijelölés men&tése...
+128=Kijelölés betöltése...
+129=Böngészõ panel
+130=Beépülõ beállítások...
+131=Mintázat szerkesztése...
+132=Minta hozzáadása...
+133=Billentyûparancsok
+134=Színhõmérséklet...
+135=Piros/Zöld/Kék...
+136=Színezés...
+137=Csatorna kiválasztása
+138=R csatorna
+139=G csatorna
+140=B csatorna
+141=A csatorna
+142=Prezentáció megnyitása...
+143=A PicturesToExe Deluxe kipróbálása...
+144=Ecsetvonás...
+145=Panelek megjelenítése/rejtése
+146=Legutóbbi törlése
+
+[MainForm]
+1=Nagyítás panel
+2=Rétegek panel
+3=Eszközök panel
+4=Visszavonás panel
+5=Fájl
+6=Szerkesztés
+7=Kijelölés
+8=Nézet
+9=Eszközök
+10=Réteg
+11=Beállítások
+12=Színek
+13=Súgó
+14=Effektusok
+15=Panelek
+16=Ablakok
+17=Nyelv
+18=Visszavonás lista mûveletek
+19=Szín panel
+20=Böngészõ panel
+
+[NewImageForm]
+0=Új...
+1=&Név:
+2=Szélesség:
+3=Magasság:
+4=Felbontás:
+5=Háttér:
+6=Képméret:
+7=Paraméterek
+8=Elõbeállított minták:
+9=Minta betöltése
+10=Minta mentése
+11=Minta törlése
+12=Valóban törölni szeretné?
+13=Névtelen
+20=Fehér
+21=&Festõszín
+22=&Háttérszín
+23=Átlátszó
+24=Szín...
+25=A kép túl nagy.
+26=Kép
+27=Ikon
+
+[Measurement]
+0=Képpont
+1=cm
+2=Hüvelyk
+10=képpont / cm
+11=képpont / hüvelyk
+
+[EditForm]
+0=Új dokumentum minta
+1=Elõbeállított minta neve:
+10=Új elõbeállított minta
+11=Elõbeállított minta neve:
+20=Réteg tulajdonságok
+21=Réteg neve:
+30=Mintázat neve
+31=&Név:
+
+[TextForm]
+0=Szöveg
+1=Szín
+2=Textúra betöltése
+3=Szöveg betöltése
+4=Szöveg mentése
+5=Visszavonás
+6=Betûtípus neve
+7=Betûméret
+8=Félkövér
+9=Dõlt
+10=Aláhúzott
+11=Áthúzás
+12=Balra zárás
+13=Középre igazítás
+14=Jobbra zárás
+
+[PaletteForm]
+0=Indexelt szín
+1=Színpaletta nézet
+2=Szín szerkesztése
+3=Szín hozzáadása
+4=Szín törlése
+5=Paletta betöltése
+6=Paletta mentése
+7=&Színek:
+8=Összemosás
+9=RGB szín
+10=Alkalmazkodó
+11=Feketetest
+12=Szürkeárnyalatos
+13=Színkép
+14=Rendszer (Mac OS)
+15=Rendszer (Windows)
+16=Web
+17=Fekete-fehér
+18=Egyéni
+19=16 szín
+
+[Zoom]
+0=Átméretezés képernyõhöz
+
+[JPEG]
+0=Minõség:
+1=Progresszív
+2=JPEG opciók
+3=Szürkeárnyalatos
+4=Exif-adat mentése
+
+[PNG]
+0=&Tömörítés:
+1=Gyenge
+2=Közepes
+3=Jó
+4=&Váltottsoros
+5=Átlátszóság
+6=PNG opciók
+
+[GIF]
+0=&Váltottsoros
+1=Átlátszóság
+2=GIF opciók
+
+[BMP]
+0=Bit
+1=1 bites
+2=4 bites
+3=8 bites
+4=16 bites
+5=24 bites
+6=32 bit (Alfa csatornával)
+7=Tömörítés (RLE)
+8=BMP-beállítások
+
+[TIFF]
+0=&Tömörítés:
+1=Nincs
+2=JPEG
+3=Minõség:
+4=TIFF opciók
+
+[Targa]
+0=Felbontás
+1=16 bit / képpont
+2=24 bit / képpont
+3=32 bit / képpont
+4=Tömörítés (RLE)
+5=Targa beállításai
+
+[PCX]
+0=PCX opciók
+
+[PBS]
+0=PBS opciók
+
+[SaveWithPreviewForm]
+0=Mentés elõnézettel...
+1=Eredeti:
+2=Mentés
+3=Színskála
+4=Elõbeállított minták
+5=Elõbeállított minták szerkesztése
+6=Szín szerkesztése
+7=Szín hozzáadása
+8=Szín törlése
+
+[EditSavePresetForm]
+0=Elõbeállított minták szerkesztése
+1=Csere
+2=&Hozzáadás
+3=Törlés
+4=Alapértelmezett elõbeállított minták
+5=Visszaállítja az elõbeállított mintákat?
+
+[UndoFrame]
+0=Visszavonás
+1=Ismételt végrehajtás
+2=Új pillanatkép létrehozása
+3=Jelenlegi állapot törlése
+4=Új dokumentum létrehozása a jelenlegi állapotból
+5=Törli a(z) "1" pillanatfelvételt?
+6=Törli a(z) "1" osztályt?
+7=Elõzmények törlése
+8=Új dokumentum
+
+[UndoActions]
+0=Pillanatfelvétel
+1=Megnyitás
+2=Ecset eszköz
+3=Áthelyezés
+4=Vonal eszköz
+5=Radír
+6=Festékesvödör
+7=Téglalap kijelölõ
+8=Lasszó
+9=Kijelölés megszüntetése
+10=Mind kijelöli
+11=Fordított kijelölés
+12=Invertálás
+13=Indexelt szín
+14=Fényerõ / Kontraszt
+15=Gauss-életlenítés
+16=Élesség
+17=Szürkeárnyalatos
+18=Domborítás
+19=Szintek
+20=Automatikus szintek
+21=Görbék
+22=Rajzvászon mérete
+23=Vágás
+24=Kép átméretezése
+25=Forgatás
+26=Rajzvászon vízszintes tükrözése
+27=Rajzvászon függõleges tükrözése
+28=Ellipszis alakú kijelölés
+29=Egysoros kijelölõ
+30=Egyoszlopos kijelölõ
+31=Ceruza
+32=Kijelölés áthelyezése
+33=Törlés
+34=Kitöltés
+35=Rétegek egyesítése
+36=Létrehozás
+37=Raszterizálás
+38=Rendelés módosítása
+39=Tároló hozzáadása
+40=Réteg hozzáadása
+41=Réteg törlése
+42=Beillesztés
+43=Kivágás
+44=Átalakítás
+45=Vízszintes tükrözés
+46=Függõleges tükrözés
+47=Ellenõrzés
+48=Szövegréteg hozzáadása
+49=Szövegréteg szerkesztése
+50=Rétegtulajdonságok
+51=Réteg másolása
+52=Varázspálca
+53=Javító ecset
+54=Színcsere
+55=Klónozó bélyegzõ
+56=Életlen maszk
+57=Testreszabott mátrix
+58=Automatikus kontraszt
+59=Kijelölés átalakítása
+60=Gyors életlenítés
+61=Gyors élesítés
+62=Másolat
+63=Színegyensúly
+64=Színárnyalat / Telítettség
+65=Kitöltés
+66=Ikonok rendezése
+67=Ikon hozzáadása
+68=Ikon törlése
+69=Új maszk
+70=Maszk törlése
+71=Maszkok újrarendezése
+72=Színátmenet
+73=Kijelölés betöltése
+74=Maszk mód megadása
+75=Maszk mód bezárása
+76=Színtartomány
+77=Összemosás
+78=Maszk tulajdonság
+79=Kijelölésként
+80=Sokszög lasszó
+81=Vetett árnyék raszterizálása
+82=Lekerekített téglalap
+83=Ellipszis
+84=Bemozdulás
+85=Lágy perem
+86=Kijelölés betöltése
+87=Maszk mûvelet
+88=Színhõmérséklet
+89=Piros/Zöld/Kék
+90=Színezés
+91=Csatorna kiválasztása
+92=Ecsetvonás
+
+[BrightnessContrastForm]
+0=Fényesség / Kontraszt
+1=&Fényesség:
+2=Kontraszt:
+
+[ColorBalanceForm]
+0=Színegyensúly
+1=Színegyensúly
+2=Cián
+3=Vörös
+4=Bíbor
+5=Zöld
+6=Sárga
+7=Kék
+8=Szín &szintek:
+9=Tónus egyensúly
+10=Árnyékok
+11=Középtónus
+12=Csúcsfények
+13=Fényintenzitás megõrzése
+
+[HueSaturationForm]
+0=Színárnyalat / Telítettség
+1=Szín:
+2=Fõ
+3=Vörösök
+4=Sárgák
+5=Zöldek
+6=Ciánok
+7=Kékek
+8=Bíborok
+9=Színezet:
+10=&Telítettség:
+11=Fényesség:
+
+[GaussianBlurForm]
+0=Gauss-életlenítés
+1=&Sugár:
+
+[SharpnessForm]
+0=Élesség
+1=É&lesség
+
+[EmbossForm]
+0=Domborítás
+1=Magasság:
+2=&Mérték:
+3=&Szög:
+
+[LevelsForm]
+0=Szintek
+1=Csatorna:
+2=RGB
+3=Vörös
+4=Zöld
+5=Kék
+6=Be&meneti szintek:
+7=Kimeneti szintek:
+8=Fekete pont beállítása
+9=Szürke pont beállítása
+10=Fehér pont beállítása
+11=Automatikus
+12=Eredmény
+
+[CurvesForm]
+0=Görbék
+1=Görbék (*.ACV)|*.ACV|Leképezési beállítások (*.AMP)|*.AMP
+2=&Betöltés...
+3=Mentés...
+4=&Bemenet:
+5=&Kimenet:
+6=Görbék (*.ACV)|*.ACV
+7=Leképezési beállítások (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Nyomtatás
+1=Nincs nyomtató
+2=Nyomtatás
+3=Tulajdonságok
+4=Tájolás
+5=Álló
+6=Fekvõ
+7=Pozíció
+13=Képméret
+14=Eredeti
+15=Oldalméretnyi
+16=Egyéni
+17=Példányszám
+18=Képméret
+19=Szélesség:
+20=Magasság:
+21=cm
+22=hüvelyk
+23=&Oldalarány megtartása
+24=Nyomtatóhiba!
+25=Lapméretek:
+26=Nyomtató felbontás:
+27=dpi
+28=Átméretezés a központtól
+29=A lap kitöltése
+
+[CanvasFormForm]
+0=Rajzvászon mérete
+1=Képpont
+2=Százalék
+3=Régi méretek
+4=Szélesség:
+5=Magasság:
+6=&Méret:
+7=Új méretek
+8=Szélesség:
+9=Magasság:
+10=Szerkesztõpont:
+11=&Méret:
+12=Képpont
+13=Rajzvászonbõvítés színe:
+
+[ImageSizeForm]
+0=Képméret
+1=Méretek:
+2=Szélesség:
+3=Magasság:
+4=Képpont
+5=Százalék
+6=&Oldalarány megtartása
+7=Kép újraalkotása
+8=&Méret:
+9=Legközelebbi
+10=Kettõs köbös
+11=Kettõs köbös élesebb
+12=Kettõs köbös simább
+13=cm
+14=hüvelyk
+15=Százalék
+16=képpont/cm
+17=képpont/hüvelyk
+18=Felbontás:
+19=&Méret:
+20=&Kép újrarajzolás:
+
+[RotateForm]
+0=Forgatás
+1=&Szög:
+2=&Szög
+3=Vászonbõvítés színe:
+4=Normál megjelenítés
+5=°CW
+6=°CCW
+
+[EllipseRegionFrame]
+0=Ellipszis
+1=Sugár
+2=Élsimítás
+
+[BrushFrame]
+0=Új ecset hozzáadása
+1=Ecset szerkesztése
+2=Ecset törlése
+3=Új ceruza hozzáadása
+4=Ceruza szerkesztése
+5=Ceruza törlése
+6=Új radír hozzáadása
+7=Radír szerkesztése
+8=Radír törlése
+
+[RulerFrame]
+0=Törlés
+
+[FillToolFrame]
+0=Tûréshatár:
+1=Élsimítás
+2=Összes réteg
+
+[LineFrame]
+0=Új vonal hozzáadása
+1=Vonal szerkesztése
+2=Sor törlése
+
+[LayersFrame]
+0=Tároló hozzáadása
+1=Réteg hozzáadása
+2=Kiválasztott rétegek törlése
+3=Vetett árnyék
+
+[EllipseOptionsForm]
+0=Ellipszis forma
+1=Átmérõ:
+2=Keménység:
+3=&Szög:
+4=&Kerekség:
+5=&Köz:
+7=Élsimítás
+
+[LineOptionsForm]
+0=Vonalas forma
+1=Átmérõ:
+2=Keménység:
+3=Élsimítás
+
+[ColorForm]
+0=Színes forma
+1=Csak a paletta színei
+2=Komponensek
+3=Referencia
+4=Szín
+5=Új:
+6=Régi:
+7=1. stílus
+8=2. stílus
+9=3. stílus
+
+[TextureForm]
+0=Textúra
+1=Textúra betöltése
+2=Textúra törlése
+3=Minden formátum|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Memóriakezelõ lemezek
+
+[FileMemoryOptionsFrame]
+0=1. lemez:
+1=2. lemez:
+2=3. lemez:
+3=4. lemez:
+4=Nincs
+5=Elérhetõ memória:
+6=Max használat a PixBuilder-el:
+
+[FileAssociationsForm]
+0=Fájltársítások
+
+[FileAssociationsFrame]
+0=Kép fájltípusok
+1=Mind kijelöli
+2=Nincs kijelölés
+3=Ellenõrizze ezeket a fájltársításokat a PixBuilder Studio indításakor
+4=Formátum
+5=Leírás
+6=Fájlkiterjesztések
+
+[HandToolFrame]
+0=Aktuális képpontok
+1=Képernyõhöz méretezés
+
+[AboutForm]
+0=A PixBuilder Studio névjegye
+1=Látogasson el a weboldalunkra:
+2=Terméktámogatás:
+
+[CheckExtForm]
+0=A PixBuilder Studio már nincs társítva az elõzõleg társításra kiválasztott némely fájltípussal.
+1=A lenti listáról, válassza ki azokat a fájltípusokat, amelyeket újra társítani szeretne a PixBuilder Studio-val.
+2=Ellenõrizze ezeket a fájltársításokat a PixBuilder Studio indításakor
+3=Kiterjesztés
+4=Jelenleg társítva ezzel:
+
+[UnsharpMaskForm]
+0=Életlen maszk
+1=&Mérték:
+2=&Sugár:
+
+[CustomMatrixForm]
+0=Testreszabott mátrix
+1=&Készletek:
+2=Mé&retezés:
+3=Eltolás:
+4=&Betöltés...
+5=Mentés...
+6=Egyéni szûrõk (*.acf)|*.acf
+
+[StatusMenu]
+0=&A dokumentum méretei
+1=Do&kumentum méretek
+
+[FillForm]
+0=Kitöltés
+1=Szín:
+2=Mintázat:
+
+[LayersTree]
+0=Tároló
+1=Szöveg
+2=RGB szín
+3=Indexelt színek
+4=Szürkeárnyalatos
+5=Fedettség:
+
+[Tools]
+Hint0=Téglalap alakú kijelölés létrehozása vagy a kijelölés körvonalának áthelyezése. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint1=Rajzolja meg a szabadkézi kijelölés határait, vagy helyezze át a kijelölés határvonalát. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint2=Ellipszis alakú kijelölés létrehozása vagy a kijelölés körvonalának áthelyezése. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint3=Kattintson és húzza az egeret a kiválasztott rész vagy réteg mozgatásához. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint4=Egyoszlopos kijelölés létrehozása vagy a kijelölés körvonalának áthelyezése. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint5=Egysoros kijelölés létrehozása vagy a kijelölés körvonalának áthelyezése. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint6=Bal kattintás a szabadkézi rajzhoz az elõtérszín használatával. Jobb kattintás a szabadkézi rajzhoz a háttérszín használatával. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint7=Kattintson bal gombbal az elõtérszínnel való festéshez. Jobb kattintás a háttérszínnel való festéshez. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint8=Kattintson és húzza az egeret a törléshez. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint9=Vonal rajzolásához kattintson és húzza az egeret. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint10=Kattintson bal gombbal a terület elõtérszínnel való kitöltéséhez. Jobb kattintás a háttérszínnel való kitöltéshez. Kiegészítõ opciókért, használja az Alt billentyût.
+Hint11=Bal kattintás a szöveg elhelyezéséhez.
+Hint12=Bal kattintás az új elõtérszín kiválasztásához. Jobb kattintás az új háttérszín kiválasztásához.
+Hint13=Kattintson és húzza az egeret a mérõvonal létrehozásához.
+Hint14=Kattintson a hasonló színek szomszédos képpontjainak kiválasztásához vagy a kijelölt rész mozgatásához.
+Hint15=Kattintson és húzza az egeret a kép görgetéséhez.
+Hint16=Kattintson a nagyítandó területre.
+Hint17=Az Alt billentyû lenyomásával kattintson egy forrás meghatározásához, majd a festéshez kattintson és húzza az egeret. Kiegészítõ opciókért, használja a Shift billentyût.
+Hint18=A színek cseréjéhez kattintson és húzza az egeret. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint19=Az Alt billentyû lenyomásával kattintson egyet a forrás megadásához, majd a festéshez kattintson és húzza az egeret. Kiegészítõ opciókért, használja a Shift billentyût.
+Hint20=Kattintson a kijelölésrészlet megadásához. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint21=Kattintson és húzza az egeret a színátmenettel való kitöltéshez. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint22=A lekerekített téglalap rajzolásához kattintson és húzza az egeret. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+Hint23=Kattintson az elsõ rögzítési pont beállításához. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+TransformHint=Kattintson és húzza az egeret az elforgatáshoz. Nyomja meg az Enter-t a jóváhagyáshoz vagy az ESC gombot a megszakításhoz. Kiegészítõ opciókért, használja a Shift, Alt és Ctrl billentyûket.
+RegionText=&Kijelölt területek
+MoveText=Kattintson és húzza az egeret a kijelölt rész mozgatásához.
+RegionShift=Hozzáadás a létezõ kijelöléshez.
+RegionAlt=Kivonás a létezõ kijelölésbõl.
+RegionCtrl=Kattintson és húzza az egeret a kiválasztott rész vagy réteg mozgatásához.
+RegionCtrlAlt=Kattintson és húzza az egeret a réteg vagy a kiválasztott rész másolatának mozgatásához.
+SpaceText=Kattintson és húzza az egeret a kép görgetéséhez.
+AltClick=A kép javításához szolgáló forráspont megadásához az Alt gomb nyomva tartása mellett kattintson az egérrel.
+
+[NewIconForm]
+0=Új ikon hozzáadása
+1=Színek
+2=Méret
+3=True color alfa-csatornával (32 bites)
+4=True Color (24 bites)
+5=256 színû (8 bites)
+6=16 színû (4 bites)
+7=Fekete-fehér (1 bites)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Egyéni
+13=Négyzet
+14=32 bites
+15=24 bites
+16=8 bites
+17=4 bites
+18=1 bites
+
+[Channels]
+0=Vörös
+1=Zöld
+2=Kék
+3=Alfa
+
+[Masks]
+0=Maszk
+1=Valóban törli a(z) "_" maszkot?
+2=Valóban törli a(z) _ kiválasztott maszkot?
+
+[GradientForm]
+0=Színátmenet szerkesztése
+1=Pont
+2=Szín
+3=Pozíció:
+4=Törlés
+5=&Név:
+
+[ColorButton]
+0=&Festõszín
+1=&Háttérszín
+
+[GradientFrame]
+0=Lineáris színátmenet
+1=Sugaras színátmenet
+2=Szög színátmenet
+3=Visszavert színátmenet
+4=Rombusz színátmenet
+
+[GradientHintForm]
+0=Szerkesztés...
+1=Hozzáadás...
+2=Törlés
+
+[LayerPropertyForm]
+0=Rétegtulajdonságok
+1=&Név:
+2=Fedettség:
+3=Rétegtulajdonságok
+4=Vetett árnyék
+5=Vetett árnyék engedélyezve
+
+[ChannelsFrame]
+0=Csatornák panel
+1=Maszk panel
+2=Csatorna mód megadása
+3=Maszk mód megadása
+4=Maszk hozzáadása
+5=Maszk törlése
+6=Alkalmaz kijelölésként
+7=Mind kijelöli
+8=Jelenlegi maszk egyesítése
+9=A jelenlegi maszk hozzáadása
+10=Az aktuális maszk kivonása
+11=Tulajdonság...
+12=A jelenlegi maszk beállítása
+
+[ColorRangeForm]
+0=Színtartomány
+1=&Elmosódottság:
+2=Kijelölés
+3=Kép
+4=Élsimítás
+5=Nem lehet színt elvenni, mert csak egy szín van teljesen kijelölve.
+
+[MaskPropertyForm]
+0=Maszk tulajdonság
+1=&Név:
+2=Szín:
+
+[DropShadowFrame]
+0=Vetett árnyék
+1=Szín:
+2=&Szög:
+3=Távolság:
+4=Kiterjesztés
+5=&Méret:
+6=Egyéni...
+7=Fedettség:
+
+[SpreadForm]
+0=Kiterjesztés
+1=Spread betöltése...
+2=Spread mentése...
+3=&Bemenet:
+4=&Kimenet:
+5=Készletek
+6=Spread fájlok(*.spr)|*.spr
+
+[FileInfoForm]
+0=Fájlinformáció
+1=Fájlnév:
+2=Mappa:
+3=Típus:
+4=&Méret:
+5=Dátum és idõ:
+6=Méretek:
+7=Fájl és attribútumok
+8=EXIF metaadat
+9=Felbontás:
+
+[RoundRectOptionsForm]
+0=Lekerekített téglalap beállítások
+1=Szélesség:
+2=Keménység:
+3=&Sugár:
+4=Kitöltve
+
+[RoundRectFrame]
+0=Lekerekített téglalap hozzáadása
+1=Lekerekített téglalap szerkesztése
+2=Lekerekített téglalap törlése
+
+[EllipseOptionsForm2]
+0=Ellipszis beállítások
+1=Szélesség:
+2=Keménység:
+3=Kitöltve
+
+[EllipseFrame]
+0=Ellipszis hozzáadása
+1=Ellipszis szerkesztése
+2=Ellipszis törlése
+
+[MagneticToolFrame]
+0=Élsimítás
+1=Érzékenység:
+2=&Rácssûrûség:
+
+[MotionBlurForm]
+0=Bemozdulás
+1=Távolság:
+2=&Szög:
+
+[FeatherForm]
+0=Kijelölés peremének lágyítása
+1=Lágy perem &sugara:
+2=Kiterjesztés
+
+[CropToolFrame]
+0=Oldalarány megtartása
+1=Szélesség:
+2=Magasság:
+
+[SaveSelectionForm]
+0=Kijelölés mentése
+1=Kijelölés neve:
+
+[LoadSelectionForm]
+0=Kijelölés betöltése
+1=Kijelölés neve:
+2=Mûvelet
+3=Új kijelölés
+4=Hozzáadás a kijelöléshez
+5=Kivonás a kijelölésbõl
+6=Keresztezés kijelöléssel
+
+[PluginsForm]
+0=Beépülõ modulok
+1=Ellenõrzés...
+2=Új beépülõ...
+3=Fel
+4=Le
+5=Átnevezés
+6=Törlés
+7=Hogyan használhatok 8bf szûrõket a PixBuilder Studio-ban?
+
+[AddPatternForm]
+0=Minta hozzáadása
+1=Minta neve:
+
+[PatternEditForm]
+0=Minták szerkesztése
+1=Minta hozzáadása...
+2=Minta törlése
+3=Minta átnevezése
+
+[ShortCutsForm]
+0=Billentyûparancsok
+1=A(z) _1_  már használatban van a(z) _2_ elem által.
+2=Elfogadás és ugrás a konfliktusra
+3=Módosítások visszavonása
+4=_1_  érvénytelen parancsikon.
+5=Elõbeállított minták:
+
+[ColorTemperatureForm]
+0=Színhõmérséklet
+1=Hõmérséklet:
+
+[RGBForm]
+0=Piros/Zöld/Kék
+1=Piros (%):
+2=Zöld (%):
+3=Kék (%):
+
+[ColorizeForm]
+0=Színezés
+
+[SaveAsForm]
+0=Fájl opciók
+
+[Updates]
+0=Frissítések ellenõrzése
+1=Az aktuális verzió ellenõrzése
+2=Egy új %ProductName% %ProductVersion% verzió érhetõ el
+3=Jelenleg a %ProductName% szoftver legújabb verzióját használja 
+4=Frissítések automatikus ellenõrzése
+5=Új verzió ellenõrzése
+6=Az új verzió letöltése
+
+[StrokeForm]
+0=Ecsetvonás
+1=Ecsetvonás
+2=Szélesség
+3=Szín
+4=Hely
+5=Belül
+6=Középen
+7=Kívül
+8=Külsõ sarok

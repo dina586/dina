@@ -1,0 +1,168 @@
+@charset "utf-8";
+body{
+	margin:auto;
+	padding:0;
+	background-color:#A5A5A5;
+	font-family: Arial, sans-serif;
+	font-size:12px;
+}
+a{
+	color:#6C266C;
+}
+.container{
+	width:981px;
+	margin:30px auto;
+	padding:0;
+	overflow:hidden;
+}
+#content_left{
+	width:230px;
+	float:left;
+	overflow:hidden;
+}
+
+#content_left_top{
+	background:url('../images/recent_files_bg.jpg') no-repeat bottom;
+	background-color:#FFF;
+	height:355px;
+}
+#content_left_bottom{
+	background:url('../images/contact_support_bg.jpg') no-repeat;
+	margin-top:15px;
+	padding:15px 0;
+	text-align:center;
+	width:230px;
+	height:143px;
+	font-weight:700;
+	color:#333;
+}
+#content_left_bottom h3{
+	color:#6C266C;
+	margin:8px 0;
+}
+#content_left_bottom p{
+	line-height:20px;
+	margin-top:5px;
+}
+#content_left_bottom span{
+	color:#6C266C;
+}
+#content_right{
+	width:736px;
+	float:right;
+	overflow:hidden;
+}
+#content_right_top{
+	height:258px;
+	background:url('../images/content_bg.jpg') no-repeat right bottom;
+	background-color:#FFF;	
+}
+#content_right_bottom{
+	margin-top:15px;
+	height:270px;
+	background:url('../images/tutorials_bg.jpg') no-repeat;
+	background-color:#FFF;	
+}
+#content_right_bottom table{
+
+
+}
+#content_right_bottom .videoTitle{
+	color:#4E4E4E;
+	font-weight:700;
+	
+}
+
+.purchase_btn {
+	width: 130px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	font-size: 14px;
+	font-weight:500;
+}
+
+/*history*/
+.history_title{
+	background-color:#6C266C;
+	color:#FFF;
+	padding-left:15px;
+	width: 215px;
+	font-size:16px;
+	height:55px;
+}
+
+.history_title .left {
+	float: left;
+	width: 185px;
+	height: 55px;
+	line-height:55px;
+}
+.history_title .right {
+	float: left;
+	width: 30px;
+	padding-top:18px;
+	height: 37px;
+	text-align:left;
+	
+}
+
+.open_file{
+	font-weight: 700;
+	color:#4E4E4E;
+	padding:20px 0 3px 15px;
+	
+}
+.open_file a{
+	text-decoration:none;
+}
+.open_file .small_icon{
+	width:140px;
+	height:16px;
+	background:url('../images/icon_folder_open.png') no-repeat;
+	padding-left:20px;
+}
+
+
+.file_history{
+	background:url('../images/icon_pdf.png') no-repeat;
+	background-position:left center;
+	font-weight:700;
+	color:#4E4E4E;
+	padding-left:20px;
+	line-height:20px;	
+	text-decoration:none;
+}
+.rect_int{
+	color:#AFAFAF;
+}
+.history_list{
+	list-style:none;
+	margin:0;
+	padding:5px 0 0 15px;
+}
+.history_list li{
+	padding:3px 0 3px 20px;
+}
+.history_list a{
+	text-decoration: none;
+	color:#333;	
+}
+img{
+	border:0;
+}
+.noneline {
+	text-decoration: none;
+}
+.clearfix:after
+{
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.clearfix
+{
+	display:none;
+}

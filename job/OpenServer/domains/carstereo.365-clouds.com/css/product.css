@@ -1,0 +1,15 @@
+.row-fluid .span4 .block-100{
+  /*  float: left;
+    width: 30%;
+    margin-left: 2%;*/
+}
+.row-fluid .span4 .color-red{
+    color:#ff0000; 
+    font-size: 22px;
+}
+.row-fluid .p{
+    font-size: 18px;
+}
+.row-fluid p{
+    font-size: 14px;
+}

@@ -1,0 +1,1332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="ru">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+		<title>NATURALSTONE</title>
+		<script type="text/javascript" async="" src="http://mc.yandex.ru/metrika/watch.js"></script>
+		
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		
+		
+
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/images/favicon.ico">
+		<link rel="SHORTCUT ICON" href="/images/favicon.ico">
+		<link type="text/css" href="//fonts.googleapis.com/css?family=Roboto:100,300&amp;subset=latin,cyrillic-ext" rel="stylesheet">
+		
+		<link rel="stylesheet" href="../source/jquery.fancybox.css">
+		<link rel="stylesheet" href="../css/jquery.bxslider.css">
+		<link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+		<!--<link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">-->
+                <link rel="stylesheet" href="../css/system.css">
+                <link rel="stylesheet" href="../css/main.css">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+         <!--       <script src="../js/jquery.js" type="text/javascript"></script>-->
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://callbackhunter.com/_hunter/?hcode=1dc0fa2c068a036db17851cf08a3354d&amp;session_id=P38J7axoe8cDL5Uk&amp;url=http%3A%2F%2Fnaturalstone.by%2F&amp;param=1" async="" charset="UTF-8"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+               
+		<script type="text/javascript" src="../bootstrap/js/bootstrap.js" ></script>
+		<!--<script type="text/javascript" src="../bootstrap/js/bootstrap.min.js" ></script>-->
+                
+		<script type="text/javascript" src="../js/jquery.form.min.js" ></script>
+	<!--	<script type="text/javascript" src="../lib/jquery-1.10.2.min.js" ></script> -->
+		<!--<script type="text/javascript" src="../lib/jquery.mousewheel.pack.js?v=3.1.3" ></script>-->
+		<script type="text/javascript" src="../js/jquery.jcarousel.min.js" ></script>
+		<script type="text/javascript" src="../source/jquery.fancybox.js" ></script>
+		<script type="text/javascript" src="../js/jquery.countdown.js" ></script>
+		<script type="text/javascript" src="../js/jquery.countdown-ru.js" ></script>
+		<script type="text/javascript" src="../js/main.jquery.js" ></script>
+		
+	</head>
+	<body>
+		<div class="modal fade" id="modal_request_form" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+                    <div class="modal-dialog" role="document">
+                      <div class="modal-content l-form l-form_application form-group">
+                            <div class="modal-header">
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                              <p class="modal-title l-form_title" id="exampleModalLabel">Оставьте заявку</p>
+                            </div>
+                            <div class="modal-body">
+                            <form id="a-request_modal-dialog" action="send_modal-dialog.php" method="post">	
+                                <div id="a-response_form_modal-dialog">                                    
+                                    <div class="l-form_label_sndok" >
+                                        Cообщение успешно отправлено!<br/> Спасибо за внимание.
+                                    </div>
+                                </div>
+                                <div id="a-request_form_modal-dialog">
+                                    <div class="l-form_progressimg">
+                                        <img src="images/ap_s/img/loader.gif" />
+                                    </div>
+                                    <input placeholder="Ваше имя" class="l-form_input form-control" type="text" name="name" id="recipient-name">
+                                    <br/>
+                                    <input placeholder="Контактый телефон"  title="Это поле обязательное для заполнения" type="text" class="form-control l-form_input" name="phone"id="recipient-phone" >
+                                   
+                                <button type="submit" class="l-form_button  btn btn-default">                                   
+                                    <span class="l-form_button_title">Отправить заявку</span>
+                                </button>        
+                                </div>
+                                
+                            </form>
+                                
+                            </div>
+                            <div class="modal-footer">
+                                
+                              <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                              <!--<button type="button" class="btn btn-primary">Send message</button>-->
+                            </div>
+                      </div>
+                    </div>
+		</div>
+           
+        <div class="g-container">
+            <div class="main_menu_wrap">
+                <nav class="navbar navbar-static-top navbar-default" role="navigation">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <button class="navbar-toggle" data-toggle="collapse" data-target="#yw2" type="button">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+						<div class = "main_menu_contacts">
+                            <div class="md-trigger">
+                                <a class = "main_menu_contacts_phone" href = "tel:+375 29 117 67 67">+375&nbsp;29&nbsp;117&nbsp;67&nbsp;67</a><br/>
+                                <a id="modal_request_form_button" class = "main_menu_contacts_order button-1 btn" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Заказать&nbsp;звонок</a>
+                            </div>                  
+                        </div>
+                        <div class="collapse navbar-collapse" id="yw2">
+                            <ul id="yw1" class="nav navbar-nav spisok1" role="menu">
+                                <li><a href="#em1" onclick="return scrollTo('em1');">Наши услуги</a></li>
+                                <li><a href="#em2"  onclick="return scrollTo('em2');">Преимущества</a></li>
+                                <li><a href="#em3"  onclick="return scrollTo('em3');">Сертификаты</a></li>
+                                <li><a href="#em4"  onclick="return scrollTo('em4');">Галерея работ</a></li>
+                                <li><a href="#em5"  onclick="return scrollTo('em5');">Виды камня</a></li>
+                                <li><a href="#em6"  onclick="return scrollTo('em6');">Отзывы</a></li>
+                                <li><a href="#em7"  onclick="return scrollTo('em7');">Контакты</a></li>
+                                <!--<li><a href="#elm6" onclick="return scrollTo('elm6');" class=""></a></li>
+                                <li><a href="#elm7" onclick="return scrollTo('elm7');" class=""></a></li>-->  
+                                
+                            </ul>
+                        </div> 
+                        
+                                
+                    </div>
+                </nav>                
+            </div>
+            
+            <div class="g-clear_fix"></div>
+                       
+            
+            <div class="logo_area">		
+				<div class="site_width">                    
+                    <header>
+                        <a href = "/">
+                            <img src = "/images/logo.png" alt = ""/>
+                        </a>
+                    </header>                    
+                    <div class="logo_area_content">
+                        <p class = "logo_area_content1">Изделия из натурального камня<br/>
+                            <span class = "logo_area_content2">любой сложности по индивидуальному заказу</span></p>                    
+                        <p class = "logo_area_content3">Продажа мрамора, гранита, оникса в Беларуси</p>
+                    </div>
+                    
+                    <div class="logo_area_order" id="modal_request_logo_area_order" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Получить консультацию</div>
+                    
+                    <div class="logo_area_icons">
+                        <figure>
+                            <img src="images/ico1-1.png"  alt="Монтаж без стыков"/>
+                            <figcaption>Монтаж без стыков</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="images/ico1-2.png" alt="Камень проверен на радиоактивность"/>
+                            <figcaption>Камень проверен <br/>на радиоактивность</figcaption>
+                        </figure>
+                        <figure>
+                            <img src="images/ico1-3.png" alt="Гарантия 2 года"/>
+                            <figcaption>Гарантия 2 года</figcaption>
+                        </figure>
+                    </div>
+                    <div class="g-clear_fix"></div>
+                    <div class="scroll-1"><img src="images/scroll.png" alt="скрол" /></div>
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            <div class="production" id="em1">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Изготавливаем<br/>и выполняем отделочные работы<br/> из натурального камня</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="l-font_slider1">
+                            <div class="l-content_width">
+                                <div class="l-content_block l-block_height" id="production-slider">
+                                    <ul>
+                                        <li><a class="fancybox" href="images/slide1-5_1.jpg" data-fancybox-group="gallery" title="входные группы">
+                                            <img alt="входные группы" src="images/slide1-5.jpg" alt="входные группы"/>
+                                            </a>
+                                            <br/>
+                                            <p class="l-block_title">входные группы</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-6_1.jpg" data-fancybox-group="gallery" title="благоустройство территорий">
+                                            <img alt="благоустройство территорий" src="images/slide1-6.jpg" alt="благоустройство территорий"/>
+                                            </a>
+                                            <br/>
+                                            <p class="l-block_title">благоустройство территорий</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-1_1.jpg" data-fancybox-group="gallery" title="лестницы и ступени">
+                                            <img alt="лестницы и ступени" src="images/slide1-1.jpg" alt="лестницы и ступени"/>
+                                            </a><br/>
+                                            <p class="l-block_title">лестницы и ступени</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-2_1.jpg" data-fancybox-group="gallery" title="полы и стены">
+                                            <img alt="полы и стены" src="images/slide1-2.jpg" alt="полы и стены"/>
+                                            </a><br/>
+                                            <p class="l-block_title">полы и стены</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-3_1.jpg" data-fancybox-group="gallery" title="столешницы">
+                                            <img alt="столешницы" src="images/slide1-3.jpg" alt="столешницы"/>
+                                            </a><br/>
+                                            <p class="l-block_title">столешницы</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-4_1.jpg" data-fancybox-group="gallery" title="ванные комнаты">
+                                            <img alt="ванные комнаты" src="images/slide1-4.jpg" alt="ванные комнаты"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-5_1.jpg" data-fancybox-group="gallery" title="ванные комнаты">
+                                            <img alt="ванные комнаты" src="images/slide1-5.jpg" alt="ванные комнаты"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-6_1.jpg" data-fancybox-group="gallery" title="благоустройство территорий">
+                                            <img alt="ванные комнаты" src="images/slide1-6.jpg" alt="благоустройство территорий"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-7_1.jpg" data-fancybox-group="gallery" title="столешницы">
+                                            <img alt="ванные комнаты" src="images/slide1-7.jpg" alt="столешницы"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-8_1.jpg" data-fancybox-group="gallery" title="ванные комнаты">
+                                            <img alt="ванные комнаты" src="images/slide1-8.jpg" alt="ванные комнаты"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-9_1.jpg" data-fancybox-group="gallery" title="полы и стены">
+                                            <img alt="ванные комнаты" src="images/slide1-9.jpg" alt="полы и стены"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-10_1.jpg" data-fancybox-group="gallery" title="ванные комнаты">
+                                            <img alt="ванные комнаты" src="images/slide1-10.jpg" alt="ванные комнаты"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-11_1.jpg" data-fancybox-group="gallery" title="полы и стены">
+                                            <img alt="ванные комнаты" src="images/slide1-11.jpg" alt="полы и стены"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-12_1.jpg" data-fancybox-group="gallery" title="лестницы и ступени">
+                                            <img alt="ванные комнаты" src="images/slide1-12.jpg" alt="лестницы и ступени"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-13_1.jpg" data-fancybox-group="gallery" title="лестницы и ступени">
+                                            <img alt="ванные комнаты" src="images/slide1-13.jpg" alt="лестницы и ступени"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-14_1.jpg" data-fancybox-group="gallery" title="ванные комнаты">
+                                            <img alt="ванные комнаты" src="images/slide1-14.jpg" alt="ванные комнаты"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-15_1.jpg" data-fancybox-group="gallery" title="лестницы и ступени">
+                                            <img alt="ванные комнаты" src="images/slide1-15.jpg" alt="лестницы и ступени"/>
+                                            </a><br/>
+                                            <p class="l-block_title">ванные комнаты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/images5_1.jpg" data-fancybox-group="gallery" title="подоконники">
+                                            <img alt="подоконники" src="images/images5.jpg" alt="подоконники"/>
+                                            </a><br/>
+                                            <p class="l-block_title">подоконники</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/images6_1.jpg" data-fancybox-group="gallery" title="сауны и хамамы">
+                                            <img alt="сауны и хамамы" src="images/images6.jpg" alt="сауны и хамамы"/>
+                                            </a><br/>
+                                            <p class="l-block_title">сауны и хамамы</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/images7_1.jpg" data-fancybox-group="gallery" title="накрывки и накрывочные плиты">
+                                            <img alt="накрывки и накрывочные плиты" src="images/images7.jpg" alt="накрывки и накрывочные плиты"/>
+                                            </a><br/>
+                                            <p class="l-block_title">накрывки и накрывочные плиты</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/images8_1.jpg" data-fancybox-group="gallery" title="камины">
+                                            <img alt="камины" src="images/images8.jpg" alt="камины"/>
+                                            </a><br/>
+                                            <p class="l-block_title">камины</p>
+                                        </li>						
+                                        <li><a class="fancybox" href="images/images9_1.jpg" data-fancybox-group="gallery" title="фонтаны">
+                                            <img alt="фонтаны" src="images/images9.jpg" alt="фонтаны"/>
+                                            </a><br/>
+                                            <p class="l-block_title">фонтаны</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/images10_1.jpg" data-fancybox-group="gallery" title="бассейны">
+                                            <img alt="бассейны" src="images/images10.jpg" alt="бассейны"/>
+                                            </a><br/>
+                                            <p class="l-block_title">бассейны</p>
+                                        </li>						
+                                        <li><a class="fancybox" href="images/slide1-11_1.jpg" data-fancybox-group="gallery" title="колонны и другие архитектурные элементы">
+                                            <img alt="колонны и другие архитектурные элементы" src="images/images11.jpg" alt="колонны и другие архитектурные элементы"/>
+                                            </a><br/>
+                                            <p class="l-block_title">колонны и другие архитектурные<br> элементы</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-12_1.jpg" data-fancybox-group="gallery" title="фасады зданий любого типа">
+                                            <img alt="фасады зданий любого типа" src="images/images12.jpg" alt="фасады зданий любого типа"/>
+                                            </a><br/>
+                                            <p class="l-block_title">фасады зданий любого типа</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-5_1.jpg" data-fancybox-group="gallery" title="входные группы">
+                                            <img alt="входные группы" src="images/slide1-5.jpg" alt="входные группы"/>
+                                            </a><br/>
+                                            <p class="l-block_title">входные группы</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-6_1.jpg" data-fancybox-group="gallery" title="благоустройство территорий">
+                                            <img alt="благоустройство территорий" src="images/slide1-6.jpg" alt="благоустройство территорий"/>
+                                            </a><br/>
+                                            <p class="l-block_title">благоустройство территорий</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-1_1.jpg" data-fancybox-group="gallery" title="лестницы и ступени">
+                                            <img alt="лестницы и ступени" src="images/slide1-1.jpg" alt="лестницы и ступени"/>
+                                            </a><br/>
+                                            <p class="l-block_title">лестницы и ступени</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-2_1.jpg" data-fancybox-group="gallery" title="полы и стены">
+                                            <img alt="полы и стены" src="images/slide1-2.jpg" alt="полы и стены"/>
+                                            </a><br/>
+                                            <p class="l-block_title">полы и стены</p>
+                                        </li>
+                                    </ul>
+                                    
+                                </div>
+                                
+                                    <div class="j-controls-direction">
+                                        <a class="j-prev j-production_prew jcarousel-prev" href="">Prev</a>
+                                        <a class="j-next j-production_next jcarousel-next" href="">Next</a>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+            <div class="promo" id="em2">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Почему выгодно стать нашим<br/>клиентом</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" src="images/ico3-1.png" alt="Собственное производство"/>                            
+                                </div>
+                            </div >
+                            <p class="b-promo_title">Собственное производство</p>
+                            <span class="b-promo_description">Стоимость изделий ниже относительно<br/>цен конкурентов</span>                        
+                        </div >
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" src="images/ico3-2.png" alt="Прямые поставки камня из карьеров"/>                            
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Прямые поставки камня<br>из карьеров</p>
+                            <span class="b-promo_description">Нет перебоев в поставках камня.<br/>На складе всегда в наличии более 4 000 м²</span>
+                        </div>
+                                           
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Соблюдаем сроки" src="images/ico3-3.png"/>                            
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Соблюдаем сроки</p>
+                            <span class="b-promo_description">Сроки изготовления - от 1 дня</span>
+                        </div>
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Используем нерадиоактивный камень" src="images/ico3-4.png"/>                            
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Используем<br/>нерадиоактивный камень</p>
+                            <span class="b-promo_description">Подтверждено протоколами испытаний<br/>на радионуклиды и сертификатами<br/>соответствия по ГОСТ 9479-2011</span>
+                        </div>
+                        
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Пожизненный срок службы" src="images/ico3-5.png"/>                            
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Пожизненный срок службы</p>
+                            <span class="b-promo_description">Эксплуатационные и физико-механические<br/>характеристики соответствуют ТР 2009/013/BY<br/>и ГОСТ 9479-2011</span>
+                        </div>
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Принимаем заказы" src="images/ico3-6.png"/>                            
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Принимаем заказы на<br/>любые объемы</p>
+                            <span class="b-promo_description">От одной плитки до нескольких тысяч<br/>квадратных метров</span>
+                        </div>
+                        
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Используем современное оборудование" src="images/ico3-7.png"/>                            
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Используем современное оборудование<br/>с числовым программным управлением</p>
+                            <span class="b-promo_description">Немецкого и итальянского производства</span>
+                        </div>
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Команда профессионалов" src="images/ico3-8.png"/>                           
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Команда профессионалов<br/>с опытом работы более 10 лет</p>
+                            <span class="b-promo_description">Обеспечиваем качественное производство<br/>изделий и монтаж без видимых швов</span>
+                        </div>
+                        
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Безопасно доставляем" src="images/ico3-9.png"/>                           
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Безопасно доставляем по<br/>всей Республике Беларусь</p>
+                            <span class="b-promo_description">Используем анти ударную упаковку и<br/>специально оборудованный транспорт</span>
+                        </div>
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Разрабатываем дизайн-проект изделия" src="images/ico3-10.png"/>                           
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Разрабатываем дизайн-<br/>проект изделия</p>
+                            <span class="b-promo_description">Вы увидите как будет выглядеть ваш заказ<br/>еще до его реализации</span>
+                        </div>
+                        
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="Широкий ассортимент" src="images/ico3-11.png"/>                           
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Широкий ассортимент</p>
+                            <span class="b-promo_description">Природного камня, изделий и вариантов<br/>внутренней и внешней облицовки</span>
+                        </div>
+                        <div class="b-promo">
+                            <div class="b-promo_picture">
+                                <div class="b-picture_sguare">
+                                    <img class="b-picture" alt="послегарантийное обслуживание" src="images/ico3-12.png"/>                           
+                                </div>
+                            </div>
+                            <p class="b-promo_title">Предоставляем<br/>послегарантийное обслуживание</p>
+                            <span class="b-promo_description">Шлифовка, восстановление,нанесение<br/>специальных покрытий</span>
+                        </div>
+                   </div> 
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            <div class="request">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Вы дизайнер, архитектор<br/>или торговый представитель?</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="l-form form-group">
+                            <p class="l-form_title">У нас есть для вас специальные<br/>условия сотрудничества,<br/>
+                                <span class="l-form_title_span">оставьте заявку чтобы получить<br/>коммерческое предложение</span></p>
+                            <form id="a-request" action="send.php" method="post">	
+                                <div id="a-response_form">
+                                    <label class="l-form_label_to">Заявка на получение <br/>комерчесского предложения<br/></label>
+                                    <div class="l-form_label_sndok" >
+                                        Cообщение успешно отправлено!<br/> Спасибо за внимание.
+                                    </div>
+                                </div>
+                                <div id="a-request_form">
+                                    <div class="l-form_progressimg">
+                                        <img src="images/ap_s/img/loader.gif" />
+                                    </div>
+                                    <input placeholder="Ваше имя" class="l-form_input form-control" type="text" name="name">
+                                    <br/>
+                                    <input placeholder="Контактый телефон"  title="Это поле обязательное для заполнения" type="text" class="form-control l-form_input edit_f" name="phone" >
+                                    <br/>
+                                    <input placeholder="Ваш Email" class="form-control l-form_input edit_f" type="text" name="email">
+                                    <br/>    				   	
+                                    <button type="submit" class="l-form_button  btn btn-default">                                   
+                                            <span class="l-form_button_title">Получить<br/>
+                                                <span>коммерческое предложение</span>
+                                            </span>
+                                    </button>               
+
+                                    <h2 class="l-form_button_comment">Мы гарантируем конфиденциальность Ваших данных, они не будут переданы третьим лицам.</h2>	
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+				</div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+            <div class="certificate" id="em3">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Качество подтверждено<br/>сертификатами и Рекомендациями</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="l-content_width l-certificate">
+                            <div class="l-content_block l-certificate_height" id="certificate-slider">
+                                <ul>
+                                    <li>  
+                                        <a href="images/sertificat6_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат6" src="images/sertificat6.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat7_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат7" src="images/sertificat7.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat8_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат8" src="images/sertificat8.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat1_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат1" src="images/sertificat1.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat2_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат2" src="images/sertificat2.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat3_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат3" src="images/sertificat3.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat4_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат4" src="images/sertificat4.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat5_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат5" src="images/sertificat5.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat6_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат6" src="images/sertificat6.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat7_1.png"" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат7" src="images/sertificat7.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat8_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат8" src="images/sertificat8.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat1_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат1" src="images/sertificat1.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat2_1.png data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат2" src="images/sertificat2.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat3_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat3.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat9_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat9.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat10_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat10.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat11_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block"  alt="сертификат3" src="images/sertificat11.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat12_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat12.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat13_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat13.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat14_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat14.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat15_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat15.png"/>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="images/sertificat16_1.png" data-fancybox-group="gallery" class="fancybox">
+                                            <img class="j-content_block" alt="сертификат3" src="images/sertificat16.png"/>
+                                        </a>
+                                    </li>
+                                </ul>
+                                </div> 
+                                <div class="j-controls-direction">
+                                    <a class="j-prev j-certificate_prew jcarousel-prev" href="">prev</a>
+                                    <a class="j-next j-certificate_next jcarousel-next" href="">next</a>
+                                </div>
+                               
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+           <div class="gallery" id="em4">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                            <h1 class = "l-page_title">Галерея наших работ</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="l-font_slider2">
+                            <div class="l-content_width">
+                                <div class="l-content_block l-gallery_height" id="gallery-slider">
+                                    <ul>
+                                        <li><a class="fancybox" href="images/slide2-17_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-17.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-18_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-18.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-1_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-1.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-2_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-2.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-3_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-3.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-4_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-4.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide1-2_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-5.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-6_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-6.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>						
+                                        <li><a class="fancybox" href="images/slide2-7_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-7.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>	
+                                        <li><a class="fancybox" href="images/slide2-8_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-8.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-9_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-9.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-10_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-10.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-11_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-11.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-12_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-12.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-13_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-13.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-14_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-14.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>						
+                                        <li><a class="fancybox" href="images/slide2-15_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-15.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>	
+                                        <li><a class="fancybox" href="images/slide2-16_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-16.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>						
+                                        <li><a class="fancybox" href="images/slide2-17_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-17.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>	
+                                        <li><a class="fancybox" href="images/slide2-18_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-18.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-19_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-19.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-20_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-20.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-21_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-21.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-22_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-22.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-23_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-23.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-24_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-24.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-25_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-25.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-26_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-26.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-27_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-27.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-28_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-28.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-29_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-29.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-30_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-30.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-31_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-31.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-32_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-32.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-33_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-33.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-34_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-34.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-35_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-35.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-36_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-36.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-37_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-37.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-38_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-38.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-39_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-39.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-40_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-40.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-41_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-41.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-42_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-42.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-43_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-43.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-44_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-44.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-45_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-45.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-46_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-46.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-47_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-47.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-48_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-48.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-49_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-49.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-50_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-50.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-51_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-51.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-52_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-52.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-53_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-53.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-54_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-54.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-55_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-55.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-56_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-56.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-57_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-57.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-58_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-58.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-59_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-59.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-60_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-60.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-61_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-61.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-62_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-62.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-63_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-63.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-64_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-64.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-65_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-65.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-66_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-66.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-67_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-67.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-68_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-68.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-69_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-69.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-70_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-70.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-71_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-71.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-72_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-72.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-73_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-73.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-74_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-74.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-75_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-75.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-76_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-76.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-77_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-77.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-78_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-78.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-79_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-79.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-80_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-80.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-81_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-81.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-82_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-82.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-83_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-83.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-84_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-84.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-85_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-85.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-86_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-86.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-87_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-87.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-88_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-88.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+										<li><a class="fancybox" href="images/slide2-89_1.jpg" data-fancybox-group="gallery" title="изготовление">
+                                            <img alt="изготовление" src="images/slide2-89.jpg"/></a>
+                                            <p class="l-block_title">изготовление</p>
+                                        </li>
+                                        <li><a class="fancybox" href="images/slide2-90_1.jpg" data-fancybox-group="gallery" title="отделка">
+                                            <img alt="отделка" src="images/slide2-90.jpg"/></a>
+                                            <p class="l-block_title">отделка</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                
+                                <div class="j-controls-direction">
+                                    <a class="j-prev j-production_prew jcarousel-prev" href="">prev</a>
+                                    <a class="j-next j-production_next jcarousel-next" href="">next</a>
+                                </div>                                
+                            </div>
+                        </div>
+                    
+                        <div class="l-page_title_wrap l-page_title_gallery">
+                                <h1 class = "l-page_title l-title_wrap">Хотите такой же результат?</h1>
+                        </div>
+                        <div class="l-form_pic l-form form-group">
+                            <div class="l-title_margin">
+                                <span class="l-form_title_span">Оставьте заявку на бесплатный выезд<br/>дизайнера на объект и получите 3D<br/>визуализацию проекта в подарок!</span>
+                            </div>
+                            <form action="send_gallery.php" method="post" id="a-gallery">	
+                                <div id="a-response_form_gallery">
+                                    <label class="l-form_label_to" >Заявка на получение<br/> комерчесского предложения</label>
+                                    <div class="l-form_label_sndok" >
+                                            Cообщение успешно отправлено!<br/> Спасибо за внимание.
+                                    </div>
+                                </div>
+                                <div id="a-request_form_gallery">
+                                    <div class="l-form_progressimg">
+                                        <img src="ap_s/img/loader.gif" border="0">
+                                    </div>
+                                    <input placeholder="Ваше имя" class="form-control  l-form_input" type="text" name="name"/><br/>
+                                    <input placeholder="Контактый телефон"  title="Это поле обязательное для заполнения" type="text" class="form-control l-form_input"  name="phone"/>
+                                    <br/>    				   	
+                                    <input placeholder="Ваш Email"   class="form-control l-form_input" type="text" name="email"/><br/>
+                                    <button type="submit" class="l-form_button btn btn-default" >
+                                        <div class="l-form_button_title">Оставить заявку</div>
+                                        <h2 class="l-form_button_comment">Мы гарантируем конфиденциальность Ваших данных, они не будут переданы третьим лицам.</h2>
+                                    </button>  
+                                </div>
+                            </form>	
+
+                        </div>
+                    </div>
+				</div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+            <div class="stone" id="em5">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">С какими видами камня<br/>
+                            <span class="l-page_title_span">мы работаем и предлагаем для реализации</span></h1>
+                    </div>
+                    <div class="l-content">
+                            <div class="l-device md-trigger" data-modal="modal-mramor">
+                                <img alt="Мрамор" src="images/ico7-11.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Мрамор" src="images/ico7-12.png" kasperskylab_antibanner="on"/>                                
+                                <p class="l-device_descrip">Мрамор</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-granit">
+                                <img alt="Гранит" src="images/ico7-21.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Гранит" src="images/ico7-22.png" kasperskylab_antibanner="on"/>                                
+                                <p class="l-device_descrip">Гранит</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-onix">
+                                <img alt="Оникс" src="images/ico7-31.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Оникс" src="images/ico7-32.png" kasperskylab_antibanner="on"/>                                
+                                <p class="l-device_descrip">Оникс</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-travertin">
+                                <img alt="Травертин" src="images/ico7-41.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Травертин" src="images/ico7-42.png" kasperskylab_antibanner="on"/>                                
+                                <p class="l-device_descrip">Травертин</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-slanec">
+                                <img alt="Сланец" src="images/ico7-51.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Сланец" src="images/ico7-52.png" kasperskylab_antibanner="on"/>                                
+                                <p class="l-device_descrip">Сланец</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-izvest">
+                                <img alt="Известняк" src="images/ico7-61.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Известняк" src="images/ico7-62.png" kasperskylab_antibanner="on"/>                                
+                                <p class="l-device_descrip">Известняк</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-kvarcit">
+                                <img alt="Кварцит" src="images/ico7-71.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Кварцит" src="images/ico7-72.png" kasperskylab_antibanner="on"/>
+                                <p class="l-device_descrip">Кварцит</p>
+                            </div>
+                            <div class="l-device md-trigger" data-modal="modal-iscust">
+                                <img alt="Искусственный камень" src="images/ico7-81.png" kasperskylab_antibanner="on"/>
+								<img class="l-device-stone_img" alt="Искусственный камень" src="images/ico7-82.png" kasperskylab_antibanner="on"/>
+                                <p class="l-device_descrip l-device-stone_descrip">Искусственный камень</p>
+                            </div>   
+                    </div>
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+            <div class="offer">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Специальное предложение</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="c-block">
+                            <div class="b-offer b-countdown" id="j-countdown"> </div>
+                                <div class="g-clear_fix"></div>
+                            <div class="b-offer_price">
+                                <div class="b-offer_price-new">1 499 000 <span>BYR</span></div>
+                                <div class="b-offer_price-old"><div class="b-offer_price-old_back">2 170 000</div> <div class="b-offer_price-old_mony">BYR</div></div>                            
+                            </div>
+                        </div>
+                        
+                        <div class="c-block">
+                            <div class="l-form_pic l-form form-group">
+                                <p class="l-form_title">ПОСПЕШИТЕ ЗАКАЗАТЬ<br/>ГРАНИТ 
+                                    <strong>IСЕ BLUE</strong><br/>
+                                    <span class="l-form_title_span">до конца акции по специальной цене</span>
+                                </p>
+                                    <form id="a-offer" action="send_offer.php" method="post">
+                                        <div id="a-response_form_offer">
+                                            <label class="l-form_label_to">Заявка на получение<br/> комерчесского предложения</label>
+                                            <div class="l-form_label_sndok">
+                                                    Cообщение успешно отправлено!<br/> Спасибо за внимание.
+                                            </div>
+                                        </div>
+                                        <div id="a-request_form_offer">
+                                            <div class="l-form_progressimg">
+                                                <img src="ap_s/img/loader.gif"/>
+                                            </div>
+                                            <input placeholder="Ваше имя"  class="form-control  l-form_input" type="text" name="name"/>
+                                            <br/>
+                                            <input placeholder="Контактый телефон"  title="Это поле обязательное для заполнения" type="text" class="form-control l-form_input" name="phone"/>
+                                            <br/> 
+                                            <input placeholder="Ваш Email" class="form-control l-form_input" type="text" name="email"/>
+                                            <br />
+                                            <button type="submit" class="l-form_button btn btn-default">
+                                                <div class="l-form_button_title">Оставить заявку</div>
+
+                                                <h2 class="l-form_button_comment">Мы гарантируем конфиденциальность Ваших данных, они не будут переданы третьим лицам.</h2>
+                                            </button>
+                                        </div>
+                                    </form>
+                            </div>
+                        </div>
+                        <div class="offer_bg"><img src="images/offer_bg.png" alt=""></div>
+                    </div>
+				</div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            <div class="work">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Схема работы с нами</h1>
+                    </div>	
+                        <div class="l-content">
+                                <div class="l-device l-work_width">
+                                    <img alt="Позвоните нам" src="images/punkt1.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Позвоните нам или</div>
+                                    <!--<a class="button-p1 md-trigger" data-modal="modal-zvonok">Оставьте заявку</a>-->
+                                </div>
+                                <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                            
+                                <div class="l-device l-work_width">
+                                    <img alt="Консультация менеджера" src="images/punkt2.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Консультация менеджера</div>
+                                </div>
+                               <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                             
+                                <div class="l-device l-work_width">
+                                    <img alt="Предварительный расчёт" src="images/punkt3.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Предварительный расчёт</div>
+                                </div>
+                                <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                            
+                                <div class="l-device l-work_width">
+                                    <img alt="Выезд на замер" src="images/punkt4.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Выезд на замер</div>
+                                </div>
+                                <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                                                
+                                <div class="l-device l-work_width">
+                                    <img alt="Согласование эскиза" src="images/punkt5.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Согласование эскиза и подписание договора</div>
+                                </div>
+                                <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                            
+                                <div class="l-device l-work_width">
+                                    <img alt="Производство" src="images/punkt6.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Производство</div>
+                                </div>
+                                <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                            
+                                <div class="l-device l-work_width">
+                                    <img alt="Доставка и монтаж" src="images/punkt7.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Доставка и монтаж</div>
+                                </div>
+                                <div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>
+                            
+                                <div class="l-device l-work_width">
+                                    <img alt="Послегарантийное обслуживание" src="images/punkt8.png" kasperskylab_antibanner="on">
+                                    <div class="l-work_descrip">Послегарантийное обслуживание</div>
+                                </div>
+                                <!--<div class="l-device_line"><img alt="line" src="images/line.png" kasperskylab_antibanner="on"></div>-->
+                            
+                        </div>
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+            <div class="opinion" id="em6">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Отзывы наших клиентов</h1>
+                    </div>
+                    <div class="l-content">
+                    <div class="l-opinion_block">
+                        <div class="c-opinion_small"><img src="images/foto_work1.jpg" alt="client"></div>
+                        <div class="c-opinion_big">
+                            <p class="c-opinion_big_title">столешница<br/>
+                                <span class="c-opinion_big_descrip">из искусственного камня</span>
+                            </p>
+                            <div class="hr"></div>
+                            <p class="c-opinion_big_text">Спасибо большое сотрудникам компании!<br/>
+                            Помогли с выбором материала. Выполнили сроки, по качеству<br/>
+                            вопросов не было. После установки столешницы кухня была<br/> 
+                            чистой. Я осталась довольна,рекомендую заказывать столешницы<br/>
+                            в компании "Сварок-мастер"!</p>
+                        </div>
+                    </div>
+                        <div class="l-content_width">   
+                            <div class="l-content_opinion_block l-block_height" id="opinion-slider">
+                                <ul>
+                                    <li>                                        
+                                       <img src="images/work1.png" alt="client">
+                                    </li>
+                                    
+                                    <li>
+                                        <img src="images/work2.png" alt="client">
+                                    </li>
+                                    <li>
+                                        <img src="images/work3.png" alt="client">
+                                    </li>
+                                    <li>
+                                        <img src="images/work4.png" alt="client">
+                                    </li>
+                                    <li>
+                                        <img src="images/work5.png" alt="client">
+                                    </li>
+                                    <li>
+                                        <img src="images/work6.png" alt="client">
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                                <div class="j-controls-direction">
+                                    <a class="j-prev j-production_prew jcarousel-prev" href="">Prev</a>
+                                    <a class="j-next j-production_next jcarousel-next" href="">Next</a>
+                                </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="g-clear_fix"></div>
+            
+            
+            <div class="contact" id="em7">
+                <div class="site_width">
+                    <div class="l-page_title_wrap">
+                        <h1 class = "l-page_title">Контакты</h1>
+                    </div>
+                    <div class="l-content">
+                        <div class="l-content_width_contact">
+                            <div class="c-block">
+                                <p class="l-contact_wrap">
+                                    г. Минск,<br/>
+                                    ул. Сурганова, 57Б-152,<br/>
+                                    ТЦ «Европа»
+                                </p>
+                            </div>
+                            <div class="c-block">
+                                <p class="l-contact_addr">
+                                    График работы: с 8:30 до 18:30<br/>
+                                    Тел./факс: +375 17 292 62 84<br/>
+                                    +375 17 399 86 20<br/>
+                                    Моб.тел.: + 375 29 117 47 47<br/>
+                                    Email: info@svarokmaster.by
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>           
+                
+            </div>
+            <div class="g-clear_fix"></div>
+            <div class="map">
+                <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=6pHFjUUj1g3UdUIBTdAxPJZ1CSd976FL&width=100%&height=100%&lang=ru_RU&sourceType=constructor"></script>
+			</div>
+            <footer>
+                <div class="site_width">
+                    
+                        <div class="c-block">
+                            <img kasperskylab_antibanner="on" class="logo2" src="images/logo2.png">
+                        </div>
+                        <div class="c-block">
+                            <div class="b-footer_title">Остались вопросы?<br/>
+                                <a id="modal_request-footer_form_button" class="b-footer_button" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Задайте их менеджеру</a>
+                            </div>
+                        </div>
+                    
+                </div>
+            </footer>
+            
+            
+        </div>    
+        
+    </body>
+    
+</html>

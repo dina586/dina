@@ -1,0 +1,25 @@
+To: dino4ka586@gmail.com
+Subject: Replacement login information for admin at drupal-7.51
+X-PHP-Originating-Script: 0:system.mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Sender: drupal7@localhost.by
+From: drupal7@localhost.by
+
+admin,
+
+A request to reset the password for your account has been made at
+drupal-7.51.
+
+You may now log in by clicking this link or copying and pasting it to your
+browser:
+
+http://drupal-7.51/user/reset/1/1476799971/WDFYG6mY6vVm3pw4gkyJ8JxXflnTQmqanqjC5gDxBO0
+
+This link can only be used once to log in and will lead you to a page where
+you can set your password. It expires after one day and nothing will happen
+if it's not used.
+
+--  drupal-7.51 team

@@ -1,0 +1,357 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+menu, article, section, nav, footer, figure, var {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	font-weight:normal;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section{
+  display:block;
+}
+body {
+	line-height: 1;
+}
+
+ol, ul, menu{
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+:focus {
+	outline: 0;
+}
+
+ins {
+	text-decoration: none;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html {
+	overflow-y: scroll;
+	font-size: 100.01%;
+}
+b, strong {
+font-weight:bold;
+}
+button:hover {
+cursor:pointer;
+}
+a {
+text-decoration:underline;
+outline: none;
+}
+a:link {
+outline: none;
+}
+a:hover {
+text-decoration:none;
+}
+
+var {
+font-style:normal;
+}
+
+/*Add new font
+@font-face {
+    font-family: ;
+    src: local(""),
+         url('')
+}
+*/
+/*
+Usage of border-radius
+border-radius: px;
+-moz-border-radius: px;
+-webkit-border-radius: px;
+-khtml-border-radius: px;
+behavior: url('/css/PIE.htc');
+*/
+
+/*
+Usage of box-shadow
+-webkit-box-shadow: 0px 0px 0px #;
+-moz-box-shadow: 0px 0px 0px #;
+box-shadow: 0px 0px 0px #;
+behavior: url('/css/PIE.htc');
+*/
+/*
+IE 7 HACK
+*:first-child+html {
+}
+*/
+/*
+Site prefix
+a- ajax
+b- block
+�- column 
+d- data
+g- global
+j- javascript
+k- keeper
+l- layouts
+r- reset
+*/
+body {
+font-family: Tahoma, Tahoma, Geneva, sans-serif;
+font-size: 12px;
+line-height: 16px;
+}
+p {
+font-family: Tahoma, Tahoma, Geneva, sans-serif;
+font-size: 12px;
+line-height: 16px;
+}
+a {
+font-family: Tahoma, Tahoma, Geneva, sans-serif;
+font-size: 16px;
+color: #43ac6a;
+}
+
+a:hover {
+text-decoration: none;
+}
+h1 {
+font-size: 14px;
+font-family: Helvetica, sans-serif;
+text-align: center;
+font-weight: bold;
+border-bottom: 1px solid #000;
+padding: 0 0 20px 0;
+margin: 0 0 20px 0;
+}
+h2 {
+font-size: 12px;
+font-weight: bold;
+margin: 20px 0 15px;
+}
+.g-clear_fix {
+clear: both;
+}
+table {
+width: 100%;
+margin: 0 0 15px 0;
+}
+table tr {
+border: 1px solid #ccc;
+}
+
+table td, table th {
+padding: 3px 5px;
+border: 1px solid #d7d7d7;
+font-size: 13px;
+vertical-align: middle;
+}
+td.medicall_cell {
+width: 200px;
+}
+/*ul li {
+list-style-type: U+26ABrgb(255,0,0);
+}
+*/
+ul li {
+list-style-type: disc;
+}
+ol li {
+list-style-type: decimal;
+}
+ul, ol {
+margin: 0 0 20px 0;
+}
+.g-container {
+}
+.g-logo {
+float: left;
+width: 190px;
+height: 149px;
+}
+.g-header_block {
+float: right;
+margin-top: 40px;
+width: 300px;
+}
+.g-header_block p {
+font-family: sans-serif;
+font-size: 16px;
+}
+.g-header_block p.header_color{ 
+color: #00b070;
+}
+.g-content p, .l-underline {
+font-size: 12px;
+line-height: 16px;
+margin: 0 0 15px 0;
+text-align: justify;
+}
+.g-footer {
+text-align: center;
+margin: 30px 0 0 0;
+}
+.g-footer a {
+text-decoration: none;
+}
+.g-footer p.powered {
+font-size: 8px;
+margin: 15px 0 0;
+}
+/*
+ * Docs data header
+ */
+
+.b-header_row {
+float: left;
+width: 100%;
+margin: 0 0 15px 0;
+}
+.b-name_label {
+width: 40px;
+}
+.b-name_decoration {
+width: 400px;
+}
+.b-birth_label {
+width: 80px;
+}
+.b-birth_decoration {
+width: 182px;
+}
+.b-address_label {
+width: 50px
+}
+.b-address_decoration {
+width: 652px
+}
+.b-city_label {
+width: 30px;
+}
+.b-city_decoration {
+width: 280px;
+}
+.b-state_label {
+width: 35px
+}
+.b-state_decoration {
+width: 210px;
+}
+.b-zip_label {
+width: 25px;
+}
+.b-zip_decoration {
+width: 122px;
+}
+.b-phone_label {
+width: 40px
+}
+.b-phone_decoration {
+width: 200px;
+}
+.b-emergency_label {
+width: 150px;
+}
+.b-emergency_decoration {
+width: 312px;
+}
+.b-email_label {
+width: 35px;
+}
+.b-email_decoration {
+width: 350px;
+}
+.b-referred_label {
+width: 70px;
+}
+.b-referred_decoration{
+width: 247px;
+}
+.b-med_list span {
+display: block;
+}
+.b-med_list table tr, .b-med_list table td {
+border: none;
+}
+.b-med_list table .b-med_img {
+width: 25px;
+}
+/*
+ * Content
+ */
+/*
+ *Footer
+ */
+.b-footer_signature, .b-footer_date {
+height: 80px;
+}
+.b-footer_date .l-underline {
+padding-top: 50px;
+}
+.b-footer_signature .l-underline {
+padding-top: 65px;
+}
+/*
+ * layouts
+ */
+.l-left {
+float: left;
+}
+.l-right {
+float: right;
+}
+
+.l-inline_block {
+vertical-align: top;
+display: inline-block;
+zoom:1;
+*display: inline;
+}
+.l-align_center {
+text-align: center;
+}
+.l-align_left {
+text-align: left;
+}
+.l-align_right {
+text-align: right;
+}
+.l-nowrap {
+white-space: nowrap;
+}
+.l-two_blocks {
+margin: 40px 0 0 0;
+}
+.l-two_blocks .l-left {
+width: 300px;
+}
+.l-two_blocks .l-right {
+width: 300px;
+}
+.l-underline {
+	width: 100%;
+	border-bottom: 1px solid #000;
+	margin: 0px;
+}

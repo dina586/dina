@@ -1,0 +1,27 @@
+[
+    {
+        "caption": "Опции",
+        "mnemonic": "n",
+        "id": "preferences",
+        "children":
+        [
+            {
+                "caption": "Настройки плагинов",
+                "mnemonic": "P",
+                "id": "package-settings",
+                "children":
+                [
+                    {
+                        "caption": "Сравнение файлов",
+                        "children":
+                        [
+                            { "command": "open_file", "args": {"file": "${packages}/FileDiffs/FileDiffs.sublime-settings"}, "caption": "Настройки - По умолчанию" },
+                            { "command": "open_file", "args": {"file": "${packages}/User/FileDiffs.sublime-settings"}, "caption": "Настройки - Пользовательские" },
+                            { "caption": "-" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1039 @@
+[General]
+LangName=Spanish
+Version=1.00
+
+[Strings]
+Ok=OK
+Cancel=Cancelar
+Close=Cerrar
+Warning=¡Atención!
+Preview=Vista previa
+Error=¡Error!
+Save=La imagen ha cambiado ¿Quiere guardar los cambios?
+Rasterize=La capa debe ser rasterizada antes de continuar ¿Rasterizo la capa?
+BigImage=La imagen es demasiado grande
+NoMemory=¡Espacio de disco insuficiente!
+Yes=Sì
+No=No
+Information=Información
+Default=Por defecto
+ReadOnly=El archivo "|"  es de sólo lectura. Quite este atributo para reescribir el nuevo archivo. 
+ScannerError=No se puede abrir el origen TWAIN.
+Unreg=Questa funzione è disponibile soltanto nella versione registrata
+Background=Fondo
+AllFormats=Todos los formatos
+MaskMode=Modo Máscara
+Delete=Borrar
+
+[Actions]
+0=Cortar
+1=Invertir
+2=Desenfoque gaussiano...
+3=Luminosidad/Contraste...
+4=Nitidez...
+5=Escala de grises
+6=Relieve...
+7=Copiar
+8=Pegar
+9=Editar paleta...
+10=Rasterizar capa de texto
+11=Niveles...
+12=Nuevo...
+13=Transformación libre
+14=Abrir...
+15=Cerrar
+16=Guardar
+17=Salir
+18=Cascada
+19=Mosaico horizontal
+20=Mosaico vertical
+21=Minimizar
+22=Organizar
+23=Acerca de...
+24=Lápiz
+25=Línea
+26=Marco rectangular
+27=Elipse
+28=Lazo
+29=Cuentagotas
+30=Niveles automáticos
+31=Curvas...
+32=Mostrar regla
+33=Pincel
+34=Goma
+35=Panel de Zoom
+36=Panel de capas
+37=Panel de herramientas
+38=Panel de deshacer
+39=Herramienta mover
+40=Seleccionar todo
+41=No seleccionar nada
+42=Selección inversa
+43=Herramienta de medida
+44=Herramienta bote de pintura
+45=Herramienta texto
+46=Deshacer
+47=Rehacer
+48=Escanear...
+49=Seleccionar escáner...
+50=Imprimir...
+51=Tamaño del lienzo...
+52=Recortar selección
+53=Tamaño de imagen...
+54=Rotar...
+55=Rotar 90° en sentido agujas del reloj
+56=Rotar 90° en sentido inverso agujas del reloj
+57=Rotar 180°
+58=Voltear lienzo horizontal
+59=Voltear lienzo vertical
+60=Seleccionar fila
+61=Seleccionar columna
+62=Borrar
+63=Rellenar
+64=Renombrar capa
+65=Combinar capas
+66=Rotar
+67=Voltear horizontal
+68=Voltear vertical
+69=Duplicar capa
+70=Abrir reciente
+71=Ayuda
+72=Configuración de administración de memoria...
+73=Bloquear barra de herramientas
+74=Zoom +
+75=Zoom -
+76=Mostrar barra de estado
+77=Guardar con vista previa...
+78=Varita mágica
+79=Herramienta mano
+80=Herramienta Zoom
+81=Herramienta pincel corrector
+82=Herramienta sustituir color
+83=Modo pantalla completa
+84=Acoplar imagen
+85=Tampón clonador
+86=Máscara de enfoque...
+87=Configurar matriz...
+88=Registrar
+89=Contraste automático
+90=Repetir automáticamente
+91=Píxeles actuales
+92=Adaptar a la pantalla
+93=Transformar selección
+94=Asociaciones de archivos...
+95=Desenfoque rápido
+96=Nitidez rápida
+97=Guardar como...
+98=Equilibrio de color...
+99=Tonalidad/Saturación...
+100=Adaptar a la ventana
+101=Rellenar...
+102=Iconos
+103=Mover arriba
+104=Mover abajo
+105=Ordenar iconos
+106=Añadir nueva imagen
+107=Borrar imagen actual
+108=Gradiente
+109=Gama de colores...
+110=Panel de color
+111=Panel de Canales
+112=Mezcla de colores...
+113=Mostrar selección
+114=Propiedades de la capa...
+115=Como selección
+116=Lazo poligonal
+117=Rasterizar sombra
+118=Información del archivo...
+119=Rectángulo redondeado
+120=Sombra...
+121=Elipse
+122=Lazo magnético
+123=Desenfoque...
+124=Difuminar borde
+125=Rasterizar sombra en la capa
+126=Recortar
+127=Guardar selección...
+128=Cargar selección...
+129=Panel de navegador
+130=Configurar Plug-In
+131=Editar modelo...
+132=Añadir modelo...
+133=Teclado rápido
+134=Temperatura de color...
+135=Rojo/verde/azul...
+136=Colorear...
+137=Seleccionar Canal
+138=Canal R
+139=Canal G
+140=Canal B
+141=Canal A
+142=Abrir presentación...
+143=Probar PicturesToExe Deluxe...
+144=Enmarcar...
+
+[MainForm]
+1=Panel de Zoom
+2=Panel de capa
+3=Panel de herramientas
+4=Panel de deshacer
+5=Archivo
+6=Editar
+7=Seleccionar
+8=Ver
+9=Herramientas
+10=Capa
+11=Opciones
+12=Colores
+13=Ayuda
+14=Efectos
+15=Paneles
+16=Ventanas
+17=Idioma
+18=Deshacer operaciones de la lista 
+19=Panel de color
+20=Panel de navegador
+
+[NewImageForm]
+0=Nuevo...
+1=Nombre:
+2=Ancho:
+3=Alto:
+4=Resolución:
+5=Fondo:
+6=Tamaño de imagen:
+7=Parámetros:
+8=Ajustes preestablecidos:
+9=Cargar ajustes
+10=Guardar ajustes
+11=Borrar ajustes
+12=¿Seguro que quiere borrar
+13=Sin título
+20=Blanco
+21=Color de primer plano
+22=Color de fondo
+23=Transparente
+24=Color...
+25=La imagen es demasiado grande
+26=Imagen
+27=Icono
+
+[Measurement]
+0=píxel
+1=cm
+2=pulgadas
+10=píxel/cm
+11=píxel/pulgada
+
+[EditForm]
+0=Ajustes preestablecidos del nuevo documento 
+1=Nombre de ajustes preestablecidos:
+10=Nuevo ajuste preestablecido
+11=Nombre de ajustes preestablecidos:
+20=Propiedades de la capa
+21=Nombre de la capa:
+30=Nombre modelo
+31=Nombre:
+
+[TextForm]
+0=Editar texto
+1=Color
+2=Cargar textura
+3=Cargar texto
+4=Guardar texto
+5=Deshacer
+6=Nombre de la fuente
+7=Tamaño de la fuente
+8=Bold
+9=Italic
+10=Subrayado
+11=Tachado
+12=Alinear a la izquierda
+13=Alinear al centro
+14=Alinear a la derecha
+
+[PaletteForm]
+0=Color indexado
+1=Ver paleta
+2=Editar color
+3=Añadir color
+4=Borrar color
+5=Cargar paleta
+6=Guardar paleta
+7=Colores:
+8=Mezcla de colores
+9=Colores RGB
+10=Adaptación
+11=Negro
+12=Escala de grises
+13=Espectro
+14=Sistema (Mac OS)
+15=Sistema (Windows)
+16=Web
+17=Blanco y negro
+18=Personalizar
+19=16 colores
+
+[Zoom]
+0=Adaptar a la pantalla
+
+[JPEG]
+0=Calidad:
+1=Progresivo
+2=Opciones JPEG
+3=Escala de grises
+4=Guardar datos Exif
+
+[PNG]
+0=Compresión:
+1=Baja
+2=Media
+3=Alta
+4=Entrelazado
+5=Transparencia
+6=Opciones PNG
+
+[GIF]
+0=Entrelazado
+1=Transparencia
+2=Opciones GIF
+
+[BMP]
+0=Bits
+1=1 bit
+2=4 bits
+3=8 bits
+4=16 bits
+5=24 bits
+6=32 bits (con Canal Alpha)
+7=Compresión (RLE)
+8=Opciones BMP
+
+[TIFF]
+0=Compresión:
+1=Nada
+2=JPEG
+3=Calidad:
+4=Opciones TIFF
+
+[Targa]
+0=Resolución
+1=16 bits / píxel
+2=24 bits / píxel
+3=32 bits / píxel
+4=Compresión (RLE)
+5=Opciones Targa
+
+[PCX]
+0=Opciones PCX
+
+[PBS]
+0=Opciones PBS
+
+[SaveWithPreviewForm]
+0=Guardar con vista previa...
+1=Original:
+2=Guardar
+3=Paleta
+4=Ajustes preestablecidos
+5=Editar ajustes preestablecidos
+6=Modificar color
+7=Añadir color
+8=Borrar color
+
+[EditSavePresetForm]
+0=Editar ajustes preestablecidos
+1=Sustituir
+2=Añadir
+3=Borrar
+4=Ajustes preestablecidos por defecto
+5=¿Reestablecer ajustes preestablecidos?
+
+[UndoFrame]
+0=Deshacer
+1=Rehacer
+2=Crear nueva instantánea
+3=Borrar estado actual
+4=Crear nuevo documento desde el estado actual
+5=¿Desea borrar instantánea 1 ?
+6=¿Desea borrar el estado 1 ?
+7=Borrar historial
+8=Nuevo documento
+
+[UndoActions]
+0=Instantánea
+1=Abrir
+2=Herramienta pincel
+3=Mover
+4=Herramienta línea
+5=Goma
+6=Bote de pintura
+7=Marco rectangular
+8=Lazo
+9=Desmarcar
+10=Seleccionar todo
+11=Invertir selección
+12=Invertir
+13=Color indexado
+14=Luminosidad/Contraste
+15=Desenfoque gaussiano
+16=Nitidez
+17=Escala de grises
+18=Relieve
+19=Niveles
+20=Niveles automáticos
+21=Curvas
+22=Dimensiones del lienzo
+23=Recortar
+24=Redimensionar imagen
+25=Rotar
+26=Voltear lienzo horizontal
+27=Voltear lienzo vertical
+28=Selección elíptica
+29=Seleccionar fila
+30=Seleccionar columna
+31=Lápiz
+32=Mover selección
+33=Borrar
+34=Rellenar
+35=Combinar capas
+36=Crear
+37=Rasterizar
+38=Cambiar orden
+39=Añadir contenedor
+40=Añadir capa
+41=Borrar capa
+42=Pegar
+43=Cortar
+44=Transformar
+45=Voltear horizontal
+46=Voltear vertical
+47=Escanear
+48=Añadir capa de texto
+49=Editar capa de texto
+50=Propiedades de capa
+51=Duplicar capa
+52=Varita mágica
+53=Pincel corrector
+54=Sustituir color
+55=Tampón clonador
+56=Máscara de enfoque
+57=Configurar matriz
+58=Contraste automático
+59=Trasformar selección
+60=Desenfoque rápido
+61=Nitidez rápida
+62=Duplicar
+63=Equilibrio de color
+64=Tonalidad/Saturación
+65=Rellenar
+66=Ordenar iconos
+67=Añadir icono
+68=Borrar icono
+69=Nueva máscara
+70=Borrar máscara
+71=Reordenar máscaras
+72=Gradiente
+73=Cargar selección
+74=Entrar modo máscara
+75=Salir modo máscara
+76=Gama de colores
+77=Mezcla de colores
+78=Propiedades de la máscara
+79=Como selección
+80=Lazo poligonal
+81=Rasterizar sombra
+82=Rectángulo redondeado
+83=Elipse
+84=Desenfoque
+85=Difuminar borde
+86=Cargar selección
+87=Modalidad máscara
+88=Temperatura de Color
+89=Rojo/Verde/Azul
+90=Colorear
+91=Canal a elección
+92=Trazo
+
+[BrightnessContrastForm]
+0=Luminosidad/Contraste
+1=Luminosidad:
+2=Contraste:
+
+[ColorBalanceForm]
+0=Equilibrio de color
+1=Equilibrio de color
+2=Cian
+3=Rojo
+4=Magenta
+5=Verde
+6=Amarillo
+7=Azul
+8=Niveles de color:
+9=Equilibrio de tono
+10=Sombra
+11=Medios tonos
+12=Luces
+13=Mantener luminosidad
+
+[HueSaturationForm]
+0=Tonalidad/Saturación
+1=Color:
+2=Patrón
+3=Rojos
+4=Amarillos
+5=Verdes
+6=Cianes
+7=Azules
+8=Magentas
+9=Tonalidad:
+10=Saturación:
+11=Luminosidad:
+
+[GaussianBlurForm]
+0=Desenfoque gaussiano
+1=Radio:
+
+[SharpnessForm]
+0=Nitidez
+1=Nitidez:
+
+[EmbossForm]
+0=Relieve
+1=Altura:
+2=Cantidad:
+3=Ángulo:
+
+[LevelsForm]
+0=Niveles
+1=Canal:
+2=RGB
+3=Rojo
+4=Verde
+5=Azul
+6=Niveles de entrada:
+7=Niveles de salida:
+8=Establecer punto negro
+9=Establecer punto gris
+10=Establecer punto blanco
+11=Automático
+12=Resultado
+
+[CurvesForm]
+0=Curvas
+1=Curvas (*.ACV)|*.ACV|Configuración mapa (*.AMP)|*.AMP
+2=Cargar...
+3=Guardar...
+4=Entrada:
+5=Salida:
+6=Curvas (*.ACV)|*.ACV
+7=Configuración mapa (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Imprimir
+1=No hay impresora disponible
+2=Imprimir
+3=Propiedades
+4=Orientación página
+5=Vertical
+6=Horizontal
+7=Posición
+13=Tamaño de la imagen
+14=Original
+15=Adaptar a la página
+16=Personalizar
+17=Copias
+18=Tamaño de la imagen
+19=Ancho:
+20=Alto:
+21=cm
+22=pulgadas
+23=Mantener proporción
+24=¡Error de impresión!
+25=Formato de la página:
+26=Resolución de impresión:
+27=ppp (dpi)
+28=Redimensionar desde el centro
+29=Llenar la página
+
+[CanvasFormForm]
+0=Tamaño del lienzo
+1=Píxeles
+2=Porcentaje
+3=Dimensiones anteriores
+4=Largo:
+5=Alto:
+6=Tamaño:
+7=Dimensiones nuevas
+8=Largo:
+9=Alto:
+10=Anclaje:
+11=Tamaño:
+12=Píxeles
+13=Color del lienzo:
+
+[ImageSizeForm]
+0=Tamaño de la imagen
+1=Dimensiones:
+2=Largo:
+3=Alto:
+4=Píxeles
+5=Porcentaje
+6=Mantener proporciones
+7=Método de remuestreo:
+8=Tamaño:
+9=Más cercano
+10=Bicúbico
+11=Bicúbico nítido
+12=Bicúbico suave
+13=cm
+14=pulgadas
+15=Porcentaje
+16=píxeles/cm
+17=píxeles/pulgada
+18=Resolución:
+19=Tamaño:
+20=Redimensionar imagen:
+
+[RotateForm]
+0=Rotar
+1=Ángulo:
+2=Ángulo
+3=Color del lienzo:
+4=Mostrar normal
+5=sentido agujas del reloj
+6=sentido inverso agujas del reloj
+in senso antiorario
+
+[EllipseRegionFrame]
+0=Elipse
+1=Radio
+2=Antialiasing
+
+[BrushFrame]
+0=Añadir nuevo pincel
+1=Editar pincel
+2=Borrar pincel
+3=Añadir nuevo lápiz
+4=Editar lápiz
+5=Borrar lápiz
+6=Añadir nueva goma
+7=Editar goma
+8=Borrar goma
+
+[RulerFrame]
+0=Borrar
+
+[FillToolFrame]
+0=Tolerancia:
+1=Antialiasing
+2=Todas las capas
+
+[LineFrame]
+0=Añadir nueva línea
+1=Editar línea
+2=Borrar línea
+
+[LayersFrame]
+0=Añadir contenedor
+1=Añadir capa
+2=Borrar capas seleccionadas
+3=Sombra
+
+[EllipseOptionsForm]
+0=Clase de elipse
+1=Diámetro:
+2=Dureza:
+3=Ángulo:
+4=Redondez:
+5=Espacio:
+7=Antialiasing
+
+[LineOptionsForm]
+0=Clase de línea
+1=Diámetro:
+2=Dureza:
+3=Antialiasing
+
+[ColorForm]
+0=Clase de color
+1=Sólo paleta de colores
+2=Componentes
+3=Referencia
+4=Color
+5=Nuevo:
+6=Anterior:
+7=Estilo 1
+8=Estilo 2
+9=Estilo 3
+
+[TextureForm]
+0=Textura
+1=Cargar textura
+2=Borrar Textura
+3=Todos los formatos|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Administrador de memoria de discos
+
+[FileMemoryOptionsFrame]
+0=Disco 1:
+1=Disco 2:
+2=Disco 3:
+3=Disco 4:
+4=Nada
+5=Memoria RAM disponible:
+6=Máximo usado por PixBuilder:
+
+[FileAssociationsForm]
+0=Asociaciones de archivos 
+
+[FileAssociationsFrame]
+0=Tipos de archivos de imagen
+1=Seleccionar todo
+2=Eliminar todo
+3=Verificar esta asociación de archivos al iniciar PixBuilder Studio
+4=Formato
+5=Descripción
+6=Extensiones de archivos
+
+[HandToolFrame]
+0=Píxeles actuales
+1=Adaptar a la pantalla
+
+[AboutForm]
+0=Acerca de PixBuilder Studio
+1=Visitar la página Web:
+2=Soporte técnico:
+3=Versione non registrata
+4=Registrato a nome di:	
+
+[CheckExtForm]
+0=PixBuilder Studio ya no está asociado a algunos tipos de archivos que anteriormente usted había asociado.
+1=De la siguiente lista, por favor, seleccione los tipos de archivos que desea volver a asociar con PixBuilder Studio.
+2=Verificar esta asociación al iniciar PixBuilder Studio
+3=Extension
+4=Actualmente asociado con   
+
+[UnsharpMaskForm]
+0=Máscara de enfoque
+1=Cantidad:
+2=Radio:
+
+[CustomMatrixForm]
+0=Personalizar matriz
+1=Ajustes preestablecidos:
+2=Escala:
+3=Compensación:
+4=Cargar...
+5=Guardar...
+6=Filtros personalizados (*.acf)|*.acf
+
+[NagForm]
+0=Versione non registrata
+1=Fare clic qui per registrare on-line
+2=Registrato a nome di:
+3=Copyright (c) 2004 - 2005 by WnSoft. Tutti i diritti riservati.
+4=&Inserire la chiave
+5=&Se avete perduto la chiave
+6=&Continua...
+7=La chiave di registrazione è stata inserita con successo! Fare clic sul pulsante "OK", uscire e riavviare PixBuilder Studio. 
+Mess1=Se avete perduto la chiave di registrazione o se questa non funziona con questa versione di PixBuilder Studio, scrivere a orders@wnsoft.com, precisando: 
+Mess2=1. Nome e cognome.
+Mess3=2. Il numero d'ordine (ID) o l'indirizzo e-mail utilizzato quando è stato effettuato l'ordine.
+Mess4=Attenzione! Non possiamo madarvi una nuova chiave di registrazione senza queste informazioni.
+Mess5=Inviare la richiesta di una nuova chiave a orders@wnsoft.com 
+
+[StatusMenu]
+0=Formato documento
+1=Tamaño documento
+
+[FillForm]
+0=Rellenar
+1=Color:
+2=Modelo:
+
+[LayersTree]
+0=Contenedor
+1=Texto
+2=Colores RGB
+3=Colores indexados
+4=Escala de grises
+5=Opacidad:
+
+[Tools]
+Hint0=Trace una selección rectangular o modifique el contorno. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint1=Trace una selección libre o modifique el contorno. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint2=Trace una selección elíptica o modifique el contorno. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint3=Haga clic y arrastre para mover la selección o la capa. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint4=Seleccione una sola columna o modifique el contorno. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint5=Seleccione una sola línea o modifique el contorno. Use Shift, Alt y las teclas Ctrl para ver opciones adicionales
+Hint6=Haga clic izquierdo para dibujar de forma libre con color de primer plano. Haga clic derecho para dibujar de forma libre con color de fondo. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint7=Haga clic izquierdo para pintar con color de primer plano. Haga clic derecho para pintar con color de fondo. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint8=Haga clic y arrastre para borrar. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint9=Haga clic y arrastre para dibujar la línea. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint10=Haga clic izquierdo para rellenar una región con el color de primer plano. Haga clic derecho para llenar con el color de fondo. Usa la tecla Alt para ver opciones adicionales.
+Hint11=Haga clic izquierdo para colocar el texto.
+Hint12=Haga clic izquierdo para elegir color de primer plano. Haga clic derecho para elegir el color de fondo.
+Hint13=Haga clic y arrastre para crear la línea de medida.
+Hint14=Haga clic para seleccionar los píxeles adyacentes de color similar o mover la selección.
+Hint15=Haga clic y arrastre para desplazarse por la imagen.
+Hint16=Haga clic sobre el área que desea ampliar.
+Hint17=Alt + clic para definir un origen, a continuación, haga clic y arrastre para pintar. Use Shift para opciones adicionales.
+Hint18=Haga clic y arrastre para reemplazar los colores. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint19=Alt + clic para definir un punto de origen, a continuación, haga clic y arrastre para pintar. Use Shift para opciones adicionales.
+Hint20=Haga clic para establecer un punto del segmento de selección. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint 21=Clic e trascina per un gradiente. Usare Maiusc, Alt e Ctrl per opzioni addizionali
+Hint 22=Clic e trascina per disegnare un rettangolo. Usare Maiusc, Alt e Ctrl per opzioni addizionali
+Hint23=Haga clic para establecer el punto de inicio. Usar Shift, Alt y Ctrl para opciones adicionales.
+TransformHint=Haga clic y arrastre para girar. Pulsa Intro para confirmar. Pulsa ESC para cancelar. Use Shift, Alt y Ctrl para opciones adicionales.
+RegionText=Área seleccionada:
+MoveText=Haga clic y arrastre para mover la selección.
+RegionShift=Añadir a la selección existente.
+RegionAlt=Quitar de la selección.
+RegionCtrl=Haga clic y arrastre para mover una selección o una capa.
+RegionCtrlAlt=Haga clic y arrastre para mover una capa o mover una copia de la selección.
+SpaceText=Haga clic y arrastre para desplazarse por la imagen.
+AltClick=Alt + clic para definir un punto de origen a ser usado para reparar la imagen.
+Hint21=Haga clic y arrastre para llenar con el gradiente. Use Shift, Alt y Ctrl para opciones adicionales.
+Hint22=Haga clic y arrastre para dibujar un rectángulo redondeado. Use Shift, Alt y Ctrl para opciones adicionales.
+
+[NewIconForm]
+0=Añadir nuevo icono
+1=Colores
+2=Tamaño
+3=Color verdadero con Canal Alpha (32 bits)
+4=Color verdadero (24 bits)
+5=256 colores (8 bits)
+6=16 colores (4 bits)
+7=Monocromo (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Personalizar
+13=Cuadrado
+14=32 bits
+15=24 bits
+16=8 bits
+17=4 bits
+18=1 bit
+
+[Channels]
+0=Rojo
+1=Verde
+2=Azul
+3=Alpha
+
+[Masks]
+0=Máscara
+1=¿Quiere borrar la máscara "_"?
+2=¿Quiere borrar _ la máscara seleccionada?
+
+[GradientForm]
+0=Editar Gradiente
+1=Punto
+2=Color
+3=Posición:
+4=Borrar
+5=Nombre:
+
+[ColorButton]
+0=Color de primer plano
+1=Color de fondo
+
+[GradientFrame]
+0=Gradiente lineal
+1=Gradiente radial
+2=Gradiente oblicuo
+3=Gradiente reflejado
+4=Gradiente de diamante
+
+[GradientHintForm]
+0=Editar...
+1=Añadir...
+2=Borrar
+
+[LayerPropertyForm]
+0=Propiedades de la capa
+1=Nombre:
+2=Opacidad:
+3=Propiedades de la capa
+4=Sombra
+5=Sombra activada
+
+[ChannelsFrame]
+0=Panel de Canales
+1=Panel de máscaras
+2=Entrar modo Canal
+3=Entrar modo máscara
+4=Añadir máscara
+5=Borrar máscara
+6=Aplicar como selección
+7=Seleccionar todo
+8=Combinar máscara actual
+9=Añadir máscara actual
+10=Restar máscara actual
+11=Propiedad...
+12=Establecer máscara actual
+
+[ColorRangeForm]
+0=Gama de colores
+1=Tolerancia:
+2=Selección
+3=Imagen
+4=Antialiasing
+5=No es posible eliminar ningún color, porque sólo un color está seleccionado.
+
+[MaskPropertyForm]
+0=Propiedades de la máscara
+1=Nombre:
+2=Color:
+
+[DropShadowFrame]
+0=Sombra
+1=Color:
+2=Ángulo:
+3=Distancia:
+4=Forma
+5=Tamaño:
+6=Personalizar...
+7=Opacidad:
+
+[SpreadForm]
+0=Forma
+1=Cargar
+2=Guardar
+3=Entrada:
+4=Salida:
+5=Predefinidos
+6=Tipos de archivos(*.spr)|*.spr
+
+[FileInfoForm]
+0=Información del archivo
+1=Nombre del archivo:
+2=Carpeta:
+3=Tipo:
+4=Tamaño:
+5=Fecha y hora:
+6=Dimensiones:
+7=Atributos
+8=Metadatos EXIF
+9=Resolución:
+
+[RoundRectOptionsForm]
+0=Opciones del rectángulo redondeado
+1=Largo:
+2=Dureza:
+3=Radio:
+4=Relleno
+
+[RoundRectFrame]
+0=Añadir rectángulo redondeado
+1=Editar rectángulo redondeado
+2=Borrar rectángulo redondeado
+
+[EllipseOptionsForm2]
+0=Opciones de la elipse
+1=Largo:
+2=Dureza:
+3=Relleno
+
+[EllipseFrame]
+0=Añadir elipse
+1=Editar elipse
+2=Borrar elipse
+
+[MagneticToolFrame]
+0=Antialiasing
+1=Sensibilidad:
+2=Frecuencia:
+
+[MotionBlurForm]
+0=Desenfoque
+1=Distancia:
+2=Ángulo:
+
+[FeatherForm]
+0=Seleccionar contorno
+1=Radio del contorno:
+2=Diferencia
+
+[CropToolFrame]
+0=Mantener proporción
+1=Largo:
+2=Alto:
+
+[SaveSelectionForm]
+0=Guardar selección
+1=Nombre de la selección:
+
+[LoadSelectionForm]
+0=Cargar selección
+1=Nombre de la selección:
+2=Operación
+3=Nueva selección
+4=Añadir a la selección
+5=Quitar de la selección
+6=Intersectar con la selección
+
+[PluginsForm]
+0=Plug-in
+1=Escanear...
+2=Añadir plug-in...
+3=Arriba
+4=Abajo
+5=Renombrar
+6=Borrar
+7=Cómo usar filtros 8bf en PixBuider Studio
+
+[AddPatternForm]
+0=Añadir
+1=Nombre modelo:
+
+[PatternEditForm]
+0=Editar
+1=Añadir
+2=Borrar
+3=Renombrar
+
+[ShortCutsForm]
+0=Atajos de teclado
+1=_1_ está ya en uso por _2_
+2=Aceptar e ir al conflicto
+3=Deshacer cambios
+4=_1_ es un atajo no válido.
+5=Ajustes preestablecidos:
+
+[ColorTemperatureForm]
+0=Temperatura de Color:
+1=Temperatura:
+
+[RGBForm]
+0=Rojo/Verde/Azul
+1=Rojo (%):
+2=Verde (%):
+3=Azul (%):
+
+[ColorizeForm]
+0=Colorear
+[SaveAsForm]
+0=Opciones del archivo
+[Updates]
+0=Buscar actualizaciones
+1=Comprobando la última versión
+2=La nueva versión de %ProductName% %ProductVersion% está disponible
+3=Usted está usando la última versión de %ProductName%
+4=Auto-comprobando actualizaciones
+5=Buscar nueva versión
+6=Descargar la nueva versión
+[StrokeForm]
+0=Trazo
+1=Trazo
+2=Ancho
+3=Color
+4=Situación
+5=Interior
+6=Centro
+7=Exterior
+8=Esquina exterior

@@ -1,0 +1,42 @@
+To: =?UTF-8?B?0JTQsNGA0LDQs9Cw0L3QvtCy0Ys=?= <pdaraganov@yahoo.com>
+Subject: =?UTF-8?B?0KHQvtC+0LHRidC10L3QuNC1INGBINGB0LDQudGC0LAgLSB5dQ==?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Mon, 2 Nov 2015 13:45:03 +0300
+From: =?UTF-8?B?0JTQsNGA0LDQs9Cw0L3QvtCy0Ys=?= <noreply@email.com>
+Reply-To: fyuj <yu@vv.ty>
+Message-ID: <2ee19fc80c3a3a634e0dd76b0c4e22b1@daraganovy>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.8 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ee19fc80c3a3a634e0dd76b0c4e22b1"
+Content-Transfer-Encoding: 8bit
+
+--b1_2ee19fc80c3a3a634e0dd76b0c4e22b1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Иия: fyuj
+
+Тема: yu
+
+Email: yu@vv.ty
+
+Сообщение: {MESSAGE}
+
+
+--b1_2ee19fc80c3a3a634e0dd76b0c4e22b1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p><strong>Иия: </strong>fyuj</p>
+
+<p><strong>Тема:</strong> yu</p>
+
+<p><strong>Email:</strong> yu@vv.ty</p>
+
+<p><strong>Сообщение:</strong> {MESSAGE}</p>
+
+
+
+--b1_2ee19fc80c3a3a634e0dd76b0c4e22b1--

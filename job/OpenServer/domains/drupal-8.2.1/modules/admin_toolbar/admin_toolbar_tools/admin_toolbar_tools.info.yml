@@ -1,0 +1,13 @@
+name: Admin Toolbar Extra Tools
+# core: 8.x
+description: Adds menu links to the Admin Toolbar.
+package: Administration
+type: module
+dependencies:
+  - admin_toolbar
+
+# Information added by Drupal.org packaging script on 2016-09-23
+version: '8.x-1.17+5-dev'
+core: '8.x'
+project: 'admin_toolbar'
+datestamp: 1474662240

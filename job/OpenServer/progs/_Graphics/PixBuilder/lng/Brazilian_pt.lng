@@ -1,0 +1,1020 @@
+[General]
+LangName=Brazilian_pt
+Version=1.00
+
+[Strings]
+Ok=OK
+Cancel=Cancelar
+Close=Fechar
+Warning=Aviso!
+Preview=Previsualizar
+Error=Erro!
+Save=Imagem foi alterada. Deseja salvar as mudanças?
+Rasterize=A imagem precisa ser rasterizada antes. Rasterizar a camada?
+BigImage=Imagem muito grande
+NoMemory=Espaço em diso insuficiente!!!
+Yes=Sim
+No=Não
+Information=Informação
+Default=Padrão
+ReadOnly=Arquivo "|" com atributo 'Somente Leitura'. Remover atributo para substituir este arquivo. 
+ScannerError=Inexistente origem TWAIN.
+Background=Segundo Plano
+AllFormats=Todos os formatos
+MaskMode=Modo Máscara
+Delete=Excluir
+
+[Actions]
+0=Cortar
+1=Inverter
+2=Mancha Gaussiana...
+3=Brilho / Contraste...
+4=Aguçar...
+5=Acinzentado
+6=Realçar...
+7=Copiar
+8=Colar
+9=Editar Paleta...
+10=Rasterizar Camada Texto
+11=Níveis...
+12=Novo...
+13=Trasnformar Livre
+14=Abrir...
+15=Fechar
+16=Salvar
+17=Sair
+18=Cascata
+19=Organizar Horizontal
+20=Organizar Vertical
+21=Minimizar
+22=Organizar
+23=Sobre
+24=Lápis
+25=Linha
+26=Máscara Retangular
+27=Máscara Elíptica
+28=Laço
+29=Conta-Gotas
+30=Níveis automáticos
+31=Curvas...
+32=Exibir Réguas
+33=Pincel
+34=Borracha
+35=Painel Ampliar
+36=Painel Camadas
+37=Painel Ferramentas
+38=Painel Desfazer
+39=Ferramenta Mover
+40=Selecionar Tudo
+41=Remover Seleção
+42=Inverter Seleção
+43=Ferramenta Medição
+44=Preenchimento de Cores
+45=Ferramenta Texto
+46=Desfazer
+47=Refazer
+48=Digitalizar...
+49=Selecionar Scanner...
+50=Imprimir...
+51=Tamanho da Tela...
+52=Recortar Seleção
+53=Tamanho da Imagem...
+54=Girar...
+55=Girar 90° Esquerda
+56=Girar 90° Direita
+57=Girar 180°
+58=Inverter Canvas Horizontal
+59=Inverter Canvas Vertical
+60=Seleção Linha Simples
+61=Seleção Coluina Simples
+62=Limpar
+63=Preencher
+64=Renomear Camada
+65=Combinar Camada
+66=Girar
+67=Virar Horizontal
+68=Virar Vertical
+69=Duplicar Camada
+70=Abrir Recente
+71=Ajuda
+72=Configurações de Memória...
+73=Bloquear Ferramentas
+74=Afastar Zoom
+75=Aproximar Zoom
+76=Barra de Informações
+77=Salvar Com Prévisualizar...
+78=Varinha Mágica
+79=Ferramenta Manual
+80=Ferramenta Zoom
+81=Pincel de Correção
+82=Substituir Cores
+83=Modo Tela Cheia
+84=Agrupar
+85=Clonar Área
+86=Máscara Desaguçar...
+87=Matriz Personalizada...
+89=Contraste Automático
+90=Repetir Automático
+91=Pixels Atuais
+92=Ajustar à Tela
+93=Transformar Seleção
+94=Associar Extensão...
+95=Mancha Rápida
+96=Aguçamento Rápido
+97=Salvar como...
+98=Ajustar Cores...
+99=Matriz / Saturação...
+100=Tamanho da Janela para Tamanho da Imagem
+101=Preencher...
+102=Icones
+103=Mover acima
+104=Mover abaixo
+105=Organizar ícones
+106=Adicionar imagem
+107=Excluir imagem atual
+108=Gradiente
+109=Intervalo de Cores...
+110=Painel de Cores
+111=Painel de Canais
+112=Adicionar Ruído...
+113=Exibir Selecção
+114=Propriedades da Camada...
+115=Seleção
+116=Laço Poligonal
+117=Rasterizar Sombra
+118=Informações...
+119=Retângulo Arredondado
+120=Sombra...
+121=Elipse
+122=Laço Magnético
+123=Mancha Borrada...
+124=Difusão...
+125=Rasterizar Sombra na Camada
+126=Recortar
+127=Salvar seleção...
+128=Carregar seleção...
+129=Painel de Exibição
+130=Configurar Extensões...
+131=Editar Preenchimento...
+132=Adicionar Preenchimento...
+133=Atalhos do Teclado
+134=Temperatura de Cores...
+135=(R)Vermelho/(G)Verde/(B)Azul...
+136=Colorir...
+137=Canal para Seleção
+138=Canal R
+139=Canal G
+140=Canal B
+141=Canal A
+142=Abrir Apresentação...
+143=Experimente PicturesToExe Deluxe...
+144=Esboço...
+
+[MainForm]
+1=Painel de Ampliação
+2=Painel de Camadas
+3=Painel de Ferramentas
+4=Painel Desfazer
+5=Arquivo
+6=Editar
+7=Selecionar
+8=Exibir
+9=Ferramentas
+10=Camadas
+11=Opções
+12=Cores
+13=Ajuda
+14=Efeitos
+15=Painéis
+16=Janelas
+17=Idioma
+18=Lista de Desfazer
+19=Painel de Cores
+20=Painel de Exibição
+
+[NewImageForm]
+0=Novo...
+1=Nome:
+2=Largura:
+3=Altura:
+4=Resolução:
+5=Segundo Plano:
+6=Tamanho da Imagem:
+7=Parâmetros:
+8=Predefinidos:
+9=Carregar Predefinido
+10=Salvar Predefinido
+11=Excluir Predefinido
+12=Deseja realmente excluir
+13=Sem Nome
+20=Branco
+21=Cor Primeiro Plano
+22=Cor Segundo Plano
+23=Transparente
+24=Cores...
+25=Imagem muito grande.
+26=Imagem
+27=Icone
+
+[Measurement]
+0=pixels
+1=cm
+2=polegadas
+10=pixels / cm
+11=pixels / pol
+
+[EditForm]
+0=Novo documento predefinido
+1=Nome do Predefinido:
+10=Novo predefinido
+11=Nome do Predefinido:
+20=Propriedade da camada
+21=Nome da camada:
+30=Nome do preenchimento
+31=Nome:
+
+[TextForm]
+0=Editar texto
+1=Cor
+2=Carregar textura
+3=Carregar texto
+4=Salvar texto
+5=Desfazer
+6=Nome da fonte
+7=Tamanho da fonte
+8=Negrito
+9=Itálico
+10=Sublinhado
+11=Riscado
+12=Ajusdar à esquerda
+13=Centralizar
+14=Ajusdar à direita
+
+[PaletteForm]
+0=Cor indexada
+1=Exibir paleta
+2=Editar cor
+3=Adicionar cor
+4=Excluir cor
+5=Carregar paleta
+6=Salvar paleta
+7=Cores:
+8=Ruído
+9=Cores RGB
+10=Adaptado
+11=Corpo negro
+12=Escala de cinza
+13=Espectro
+14=Sistema (Mac OS)
+15=Sistema (Windows)
+16=Web
+17=Preto && Branco
+18=Personalizado
+19=16 cores
+
+[Zoom]
+0=Ajustar à tela
+
+[JPEG]
+0=Qualidade:
+1=Progressivo
+2=Opções JPEG
+3=Acinzentado
+4=Salvar dados-Exif
+
+[PNG]
+0=Compressão:
+1=Baixa
+2=Média
+3=Alta
+4=Entrelaçado
+5=Transparente
+6=Opções PNG
+
+[GIF]
+0=Entrelaçado
+1=Transparente
+2=Opções GIF
+
+[BMP]
+0=Bits
+1=1 bit
+2=4 bits
+3=8 bits
+4=16 bits
+5=24 bits
+6=32 bits (com canal Alpha) 
+7=Compressão (RLE)
+8=Opções BMP
+
+[TIFF]
+0=Compressão:
+1=Nehnum
+2=JPEG
+3=Qualidade:
+4=Opções TIFF
+
+[Targa]
+0=Resolução
+1=16 bits / pixel
+2=24 bits / pixel
+3=32 bits / pixel
+4=Compressão (RLE)
+5=Opções Targa
+
+[PCX]
+0=Opções PCX
+
+[PBS]
+0=Opções PBS
+
+[SaveWithPreviewForm]
+0=Salvar Com Preview...
+1=Original:
+2=Salvar
+3=Paleta
+4=Predefinido
+5=Editar predefinido
+6=Editar cor
+7=Adicionar cor
+8=Excluir cor
+
+[EditSavePresetForm]
+0=Editar predefinido
+1=Substituir
+2=Adicionar
+3=Excluir
+4=Predefinido padrão
+5=Restaurar predefinido?
+
+[UndoFrame]
+0=Desfazer
+1=Refazer
+2=Criar Novo Snapshot
+3=Excluir Situação Atual
+4=Criar Novo Documento do Atual
+5=Excluir Snapshot "1"?
+6=Excluir "1"?
+7=Limpar Histórico
+8=Novo Documento
+
+[UndoActions]
+0=Snapshot
+1=Abrir
+2=Pincel
+3=Mover
+4=Linha
+5=Apagar
+6=Recipiente de Tinta
+7=Seleção Retangular
+8=Laço
+9=Deselecionar
+10=Selecionar Tudo
+11=Inverter Seleção
+12=Inverter
+13=Cores Indexadas
+14=Brilho/Contraste
+15=Mancha Gaussiana
+16=Aguçar
+17=Acinzentar
+18=Realçar
+19=Níveis
+20=Auto Níveis
+21=Curvas
+22=Tamanho da tela
+23=Cortar
+24=Redefinir imagem
+25=Girar
+26=Virar Tela Horizontal
+27=Virar Tela Vertical
+28=Seleção Elíptica
+29=Seleção Linha Simples
+30=Seleção Coluna Simples
+31=Lápis
+32=Mover Seleção
+33=Limpar
+34=Preencher
+35=Combinar Camadas
+36=Criar
+37=Rasterizar
+38=Ordenar Mudança
+39=Adicionar Recipiente
+40=Adicionar Camada
+41=Excluir Camada
+42=Colar
+43=Cortar
+44=Transformar
+45=Virar Horizontal
+46=Viar Vertical
+47=Digitalizar
+48=Adicionar Camada Texto
+49=Editar Camada Texto
+50=Propriedades da Camada
+51=Duplicar Camada
+52=Varinha Mágica
+53=Pincel Correção
+54=Substituir Cor
+55=Duplicar Área
+56=Desaguçar Máscara
+57=Matriz Personalizada
+58=Constraste Automático
+59=Transformar Seleção
+60=Mancha Rápida
+61=Aguçar Rápido
+62=Duplicar
+63=Balancear Cores
+64=Matiz / Saturação
+65=Preencher
+66=Organizar ìcones
+67=Adicionar Ícones
+68=Excluir Ícones
+69=Nova Máscara
+70=Excluir Máscara
+71=Reorganizar Máscara
+72=Gradiente
+73=Carregar Seleção
+74=Iniciar Modo Máscara
+75=Encerrar Modo Máscara
+76=Margem de Cores
+77=Ruído
+78=Propriedades da Máscara
+79=Seleção
+80=Laço Poligonal
+81=Rasterizar Sombra
+82=Retângulo Arred
+83=Elipse
+84=Mancha Borrada
+85=Difusão
+86=Carregar Seleção
+87=Operações Máscara
+88=Temperatura das Cores
+89=Verm/Verd/Azul
+90=Colorir
+91=Canal para Seleção
+92=Esboço
+
+[BrightnessContrastForm]
+0=Brilho / Contraste
+1=Brilho:
+2=Contraste:
+
+[ColorBalanceForm]
+0=Ajustar Cores
+1=Ajustar Cores
+2=Ciano
+3=Vermelho
+4=Magenta
+5=Verde
+6=Amarelo
+7=Azul
+8=Nível de Cores:
+9=Ajuste de Tonalidade
+10=Sombras
+11=MeioTons
+12=Luzes
+13=Preservar Luminosidade
+
+[HueSaturationForm]
+0=Matiz / Saturação
+1=Cores:
+2=Principal
+3=Vermelhos
+4=Amarelos
+5=Verdes
+6=Cianos
+7=Azuis
+8=Magentas
+9=Matiz:
+10=Saturação:
+11=Luminosidade:
+
+[GaussianBlurForm]
+0=Mancha Gaussiana
+1=Raio:
+
+[SharpnessForm]
+0=Aguçamento
+1=Aguçamento:
+
+[EmbossForm]
+0=Destacar
+1=Altura:
+2=Valor:
+3=Ângulo:
+
+[LevelsForm]
+0=Níveis
+1=Canais:
+2=RGB
+3=(R)Vermelho
+4=(G)Verde
+5=(B)Azul
+6=Níveis Iniciais:
+7=Nívies Finais:
+8=Definir ponto negro
+9=Definir ponto cinza
+10=Definir ponto branco
+11=Auto
+12=Resultado
+
+[CurvesForm]
+0=Curvas
+1=Curvas (*.ACV)|*.ACV|Mapa de Ajustes(*.AMP)|*.AMP
+2=Carregar...
+3=Salvar...
+4=Entrada:
+5=Saída:
+6=Curvas (*.ACV)|*.ACV
+7=Mapa de Ajustes (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Imprimir
+1=Sem impressoras
+2=Imprimir
+3=Propriedades
+4=Orientação do Papel
+5=Retrato
+6=Paisagem
+7=Posição
+13=Tamanho da Imagem
+14=Original
+15=Ajustar à Página
+16=Personalizar
+17=Cópias
+18=Tamanho da Imagem
+19=Largura:
+20=Altura:
+21=cm
+22=polegadass
+23=Manter Proporção
+24=Erro de Impressão!
+25=Tamanho da Página:
+26=Resolutionda impressora:
+27=dpi
+28=Redimensionar do Centro
+29=Preencher a Página
+
+[CanvasFormForm]
+0=Tamanho da Folha
+1=Pixels
+2=Porcentagem
+3=Dimensões Antigas
+4=Largura:
+5=Altura:
+6=Tamanho:
+7=Novas Dimensões
+8=Largura:
+9=Altura:
+10=Âncora:
+11=Tamanho:
+12=pixels
+13=Extensão das Cores:
+
+[ImageSizeForm]
+0=Tamanho da Imagem
+1=Dimensões:
+2=Largura:
+3=Altura:
+4=Pixels
+5=Porcentagem
+6=Manter Proporcões
+7=Método de Resjuste:
+8=Size:
+9=Proximidade
+10=Bicúbico
+11=Aguçar Bicóbico
+12=Suavizar Bicúbico
+13=cm
+14=Polegadas
+15=Porcentagem
+16=pixels/cm
+17=pixels/pol
+18=Resolução:
+19=Tamanho:
+20=Redefinir Imagem:
+
+[RotateForm]
+0=Girar
+1=Ângulo:
+2=Ângulo
+3=Extensão das Cores:
+4=Exibir Normal
+5=°DI
+6=°ES
+
+[EllipseRegionFrame]
+0=Elipse
+1=Raio
+2=Suavização
+
+[BrushFrame]
+0=Novo Pincel
+1=Editar Pincel
+2=Ecluir Pincel
+3=Novo Lápis
+4=Editar Lápis
+5=Excluir Lápis
+6=Nova Borracha
+7=Editar Borracha
+8=Excluir Borracha
+
+[RulerFrame]
+0=Clear
+
+[FillToolFrame]
+0=Tolerância:
+1=Suavização
+2=Todas as Camadas
+
+[LineFrame]
+0=Nova Linha
+1=Editar Linha
+2=Excluir Linha
+
+[LayersFrame]
+0=Adicionar Recipiente
+1=Adicionar Camada
+2=Excluir Camada Selecionada
+3=Sombra
+
+[EllipseOptionsForm]
+0=Janela de Elipses
+1=Diametro:
+2=Rigidez:
+3=Ângulo:
+4=Circunferência:
+5=Espaçamento:
+7=Suavização
+
+[LineOptionsForm]
+0=Janela de Linhas
+1=Diametro:
+2=Rigidez:
+3=Suavização
+
+[ColorForm]
+0=Janela de Cores
+1=Paleta de Cores Apenas
+2=Componentes
+3=Referencia
+4=Cor
+5=Nova:
+6=Antiga:
+7=Estilo 1
+8=Estilo 2
+9=Estilo 3
+
+[TextureForm]
+0=Textura
+1=Carregar Textura
+2=Limpar Textura
+3=Todos os Formatos|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Gerenciar Memória de Disco
+
+[FileMemoryOptionsFrame]
+0=Disco 1:
+1=Disco 2:
+2=Disco 3:
+3=Disco 4:
+4=Nenhum
+5=RAM Disponível:
+6=Máximo usado pelo PixBuilder:
+
+[FileAssociationsForm]
+0=Associação de Arquivos
+
+[FileAssociationsFrame]
+0=Tipos de Arquivos de Imagem
+1=Selecionar Tudo
+2=Remover Tudo
+3=Verificar associação destes arquivos ao iniciar o PixBuilder Studio
+4=Formato
+5=Descrição
+6=Extensões de arquivos
+
+[HandToolFrame]
+0=Pixels Atuais
+1=Ajustar à Tela
+
+[AboutForm]
+0=Sobre PixBuilder Studio
+1=Visite nosso Web site:
+2=Suporte técnico:
+
+[CheckExtForm]
+0=O PixBuilder Studio não está mais associado a alguns tipos de arquivo selecionados anteriormente.
+1=Na lista abaixo, selecione os tipos de arquivo que você gostaria re-associar com PixBuilder Studio.
+2=Verificar associção destes arquivos ao iniciar PixBuilder Studio
+3=Extensão
+4=Atualmente Associado com
+
+[UnsharpMaskForm]
+0=Desaguçar Máscara
+1=Valor:
+2=Raio:
+
+[CustomMatrixForm]
+0=Matriz Personalizada
+1=Predefinido:
+2=Tamanho:
+3=Deslocamento:
+4=Carregar...
+5=Salvar...
+6=Filtros Personalizados (*.acf)|*.acf
+
+[StatusMenu]
+0=Dimensão do Documento
+1=Tamanho do Documento
+
+[FillForm]
+0=Preencher
+1=Cores:
+2=Preenchimento:
+
+[LayersTree]
+0=Recipiente
+1=Texto
+2=Cores RGB
+3=Cores indexadas
+4=Acinzentado
+5=Opacidade:
+
+[Tools]
+Hint0=Desenhar uma seleção retangular ou mover a seleção atual. Use Shift, Alt e Ctrl para opções adicionais.
+Hint1=Desenhar uma seleção de forma livre ou mover a seleção atual. Use Shift, Alt e Ctrl para opções adicionais.
+Hint2=Desenhar uma seleção de forma elíptica ou mover a seleção atual. Use Shift, Alt e Ctrl para opções adicionais.
+Hint3=Clique e arraste para mover seleções ou camadas. Use Shift, Alt e Ctrl para opções adicionais.
+Hint4=Desenhar coluna simples de seleção ou mover a atual. Use Shift, Alt e Ctrl para opções adicionais.
+Hint5=Desenhar linha simples de seleção ou mover a atual. Use Shift, Alt e Ctrl para opções adicionais.
+Hint6=Botão esquerdo para desenhar forma livre usando cor primeiro plano. Botão direito para desenhar forma livre usando cor de fundo. Use Shift, Alt e Ctrl para opções adicionais.
+Hint7=Botão esquerdo para pintar usando cor primeiro plano. Botão direito para pintar usando cor segundo plano. Use Shift, Alt e Ctrl para opções adicionais.
+Hint8=Clique e arraste para apagar. Use Shift, Alt e Ctrl para opções adicionais.
+Hint9=Clique e arraste para desenhar uma linha. Use Shift, Alt e Ctrl para opções adicionais.
+Hint10=Botão esquerdo para preencher a região com cor de primeiro plano. Botão direito para preencher a região com a cor de segundo plano. Use Alt para opções adicionais.
+Hint11=Botão esquerdo para inserir texto.
+Hint12=Botão esquerdo para definir nova cor de primeiro plano. Botão direito para definir nova cor de segundo plano
+Hint13=Clique e arraste para criar linha de medição.
+Hint14=Clique para selecionar pixels adjacentes ou cores similares ou mover seleção.
+Hint15=Clique e araste para rolar imagem.
+Hint16=Clique sobre a aárea que deseja expandir.
+Hint17=Alt+clique para definir a origem, então clique e arraste para pintar. Use Shift opções adicionais.
+Hint18=Clique e arraste para substituir cores. Use Shift, Alt e Ctrl para opções adicionais.
+Hint19=Alt-clique para definir origem, então clique e arraste para pintar. Use Shift para opções adicionais.
+Hint20=Clique para definir o ponto do segmento. Use Shift, Alt e Ctrl para opções adicionais.
+Hint21=Clique e arraste para preencher com gradiente. Use Shift, Alt e Ctrl para opções adicionais.
+Hint22=Clique e arraste para desenhar um retângulo arredontado. Use Shift, Alt e Ctrl para opções adicionais.
+Hint23=Clique para definir ponto de início para fixação. Use Shift, Alt e Ctrl para opções adicionais.
+TransformHint=Clique e arraste para girar. Enter para gravar. Esc para cancelar. Use Shift, Alt e Ctrl para opções adicionais.
+RegionText=Área selecionada:
+MoveText=Clique e arraste para mover seleção.
+RegionShift=Adicionar à seleção atual.
+RegionAlt=Subtrair da seleção atuala.
+RegionCtrl=Clique e arraste para mover a seleção ou camada.
+RegionCtrlAlt=Clique e arraste para mover camada ou cópia da seleção..
+SpaceText=Clique e arraste para rolar a imagem.
+AltClick=Alt-clique para definir a origem a ser usada para reparar a imagem.
+
+[NewIconForm]
+0=Nova ícone
+1=Cores
+2=Tamanho
+3=True color com canal alfa (32 bits)
+4=True color (24 bits)
+5=256 Cores (8 bits)
+6=16 Cores (4 bits)
+7=Monocromática (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Personalizada
+13=Quadrado
+14=32 bits
+15=24 bits
+16=8 bits
+17=4 bits
+18=1 bit
+
+[Channels]
+0=(R)Vermelho
+1=(G)Verde
+2=(B)Azul
+3=(A)Alfa
+
+[Masks]
+0=Máscara
+1=Deseja excluir a máscara "_"?
+2=Deseja excluir _ máscaras selecionadas?
+
+[GradientForm]
+0=Editar Gradiente
+1=Ponto
+2=Cor
+3=Posição:
+4=Excluir
+5=Nome:
+
+[ColorButton]
+0=Cor primeiro plano
+1=Cor segundo plano
+
+[GradientFrame]
+0=Gradiente Linear
+1=Gradiente Radial
+2=Gradiente Angular
+3=Gradiente Refletiva
+4=Gradiente Diamante
+
+[GradientHintForm]
+0=Editar...
+1=Adicionar...
+2=Excluir
+
+[LayerPropertyForm]
+0=Propriedades da Camada
+1=Nome:
+2=Opacidade:
+3=Propriedades da Camada
+4=Sombra
+5=Sombra ativa
+
+[ChannelsFrame]
+0=Painel Canais
+1=Painel Máscara
+2=Iniciar Modo Canais
+3=Iniciar Modo Máscara
+4=Adicionar Máscara
+5=Excluir Máscara
+6=Aplica na Seleção
+7=Selecionar Tudo
+8=Mesclar Máscara Atual
+9=Adicionar Máscara Atual
+10=Subtrai Máscara Atual
+11=Propriedades...
+12=Definir Máscara Atual
+
+[ColorRangeForm]
+0=Margem de Cores
+1=Flocozidade:
+2=Selecção
+3=Imagem
+4=Suavização
+5=Impossível subrair qualquer cor, apenas uma cor totalmente selecionada.
+
+[MaskPropertyForm]
+0=Propriedades da Máscara
+1=Nome:
+2=Cor:
+
+[DropShadowFrame]
+0=Sombra
+1=Cor:
+2=Ângulo:
+3=Distancia:
+4=Dispersão
+5=Tamanho:
+6=Personalizado...
+7=Opacidade:
+
+[SpreadForm]
+0=Dispersão
+1=Carregar Dispersão...
+2=Salvar Dispersão...
+3=Entrada:
+4=Saída:
+5=Predefinidos
+6=Arquivos de dispersão(*.spr)|*.spr
+
+[FileInfoForm]
+0=Informações
+1=Nome:
+2=Pasta:
+3=Tipo:
+4=Tamanho:
+5=Data/Hora:
+6=Dimensões:
+7=Arquivo e Atributos
+8=Metadata EXIF
+9=Resolução:
+
+[RoundRectOptionsForm]
+0=Opções do RetÂngulo
+1=Largura:
+2=Solidez:
+3=Raio:
+4=Preenchimento
+
+[RoundRectFrame]
+0=Adicionar Retângulo
+1=Editar Retângulo
+2=Excluir Retângulo
+
+[EllipseOptionsForm2]
+0=Opções da Elipse
+1=Largura:
+2=Solidez:
+3=Preenchimento
+
+[EllipseFrame]
+0=Adicionar Elipse
+1=Editar Elipse
+2=Excluir Elipse
+
+[MagneticToolFrame]
+0=Suavização
+1=Sensibilidade:
+2=Frequência:
+
+[MotionBlurForm]
+0=Mancha Borrada
+1=Distância:
+2=Ângulo:
+
+[FeatherForm]
+0=Seleção de Difusão
+1=Raio da Difusão:
+2=Espalhar
+
+[CropToolFrame]
+0=Manter Proporções
+1=Largura:
+2=Altura:
+
+[SaveSelectionForm]
+0=Salvar Seleção
+1=Nome da Seleção:
+
+[LoadSelectionForm]
+0=Carregar Seleção
+1=Nome da Seleção:
+2=Operação
+3=Nova Seleção
+4=Adicionar à Seleção
+5=Subtrair da Seleção
+6=Intersecção com Seleção
+
+[PluginsForm]
+0=Extenções
+1=Digitalizar...
+2=Adicionar...
+3=Acima
+4=Abaixo
+5=Renomear
+6=Excluir
+7=Usando filtros 8bf no PixBuilder Studio
+
+[AddPatternForm]
+0=Adicionar Preenchimento
+1=Nome da Preenchimento:
+
+[PatternEditForm]
+0=Editar Preenchimento
+1=Adicionar...
+2=Excluir
+3=Renomear
+
+[ShortCutsForm]
+0=Atalhos de Teclado
+1=_1_ já em uso por _2_ item.
+2=Aceitar e Ir para Conflito
+3=Desfazer Mudanças
+4=_1_ atalho inválido.
+5=Predefinidos:
+
+[ColorTemperatureForm]
+0=Temperatura das Cores
+1=Temperatura:
+
+[RGBForm]
+0=Verm/Verd/Azul
+1=(R)Vermelho (%):
+2=(G)Verde (%):
+3=(B)Azul (%):
+
+[ColorizeForm]
+0=Colorir
+
+[SaveAsForm]
+0=Opções do Arquivo
+
+[Updates]
+0=Procurar Atualizações
+1=Verificar a versão atual
+2=Nova versão do %ProductName% %ProductVersion% disponível
+3=Está usando a versão mais recente do %ProductName%
+4=Auto-verificação de atualização
+5=Procurar por nova versão
+6=Instalar nova versão
+
+[StrokeForm]
+0=Esboço
+1=Esboço
+2=Altura
+3=Cor
+4=Localização
+5=Interior
+6=Centro
+7=Exterior
+8=Canto Externo

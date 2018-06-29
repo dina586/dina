@@ -1,0 +1,27 @@
+To: drupal7@dina.com
+Subject: =?UTF-8?B?0KHQvNC10L3QsCDQtNCw0L3QvdGL0YUg0LTQu9GPINCy0YXQvtC00LAg0L/Qvg==?=  =?UTF-8?B?0LvRjNC30L7QstCw0YLQtdC70Y8gYWRtaW4g0L3QsCDRgdCw0LnRgtC1IMKrZHI=?=  =?UTF-8?B?dXBhbC03LjUxwrs=?=
+X-PHP-Originating-Script: 0:system.mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Sender: drupal7@dina.com
+From: drupal7@dina.com
+
+admin,
+
+На сайте «drupal-7.51» поступил запрос на сброс
+пароля для Вашей учётной записи.
+
+Вы можете войти на сайт, щёлкнув по
+следующей ссылке, или скопировав её в
+адресную строку браузера:
+
+http://drupal-7.51/user/reset/1/1476803449/IZA2cwKwHEwJaFs8LcVgz9PUw4Oq_LmqdlmoDd_ca4k
+
+Эта одноразовая ссылка для входа на сайт
+ведёт на страницу задания нового пароля.
+Она действительна в течение суток, и, если
+по ней не пройти, то ничего не случится.
+
+-- Команда сайта «drupal-7.51»

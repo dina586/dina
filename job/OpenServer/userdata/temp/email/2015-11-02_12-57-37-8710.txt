@@ -1,0 +1,40 @@
+To: Con-Signor <admin@admin.com>
+Subject: Site Message - fg
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Mon, 2 Nov 2015 13:57:37 +0300
+From: Con-Signor <noreply@email.com>
+Reply-To: hfgh <kjj@de.y>
+Message-ID: <abf402669a6c6fb3acdc00d1186dea58@coldman>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.8 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_abf402669a6c6fb3acdc00d1186dea58"
+Content-Transfer-Encoding: 8bit
+
+--b1_abf402669a6c6fb3acdc00d1186dea58
+Content-Type: text/plain; charset=us-ascii
+
+Name: hfgh
+
+Theme: fg
+
+Email: kjj@de.y
+
+Message: {MESSAGE}
+
+
+--b1_abf402669a6c6fb3acdc00d1186dea58
+Content-Type: text/html; charset=us-ascii
+
+<p><strong>Name: </strong>hfgh</p>
+
+<p><strong>Theme:</strong> fg</p>
+
+<p><strong>Email:</strong> kjj@de.y</p>
+
+<p><strong>Message:</strong> {MESSAGE}</p>
+
+
+
+--b1_abf402669a6c6fb3acdc00d1186dea58--

@@ -1,0 +1,65 @@
+.b-admin_catalog_tree {
+margin: 20px 0;
+}
+.b-admin_catalog_tree .b-catalog_level_0 label {
+font-size: 18px;
+font-weight: bold;
+color: #000;
+}
+.b-admin_catalog_tree .b-catalog_level_1 label {
+font-size: 14px;
+color: #535252;
+}
+.b-admin_catalog_tree .b-catalog_level_2 label {
+font-size: 12px;
+color: #767676;
+font-weight: normal;
+}
+.b-admin_catalog_tree .c-catalog_tree{
+display: inline-block;
+float: none;
+vertical-align: top;
+}
+.b-admin_catalog_tree .checked label  {
+padding: 0 0 3px 0;
+color: #0085c5;
+
+}
+.l-form .b-admin_catalog_tree .l-checkbox label {
+float: none;
+}
+.g-no_opacity {
+opacity:0;
+}
+.j-item_image {
+position: relative;
+}
+.b-store_history {
+
+}
+.b-store_history .l-detail-view {
+margin: 20px 0;
+}
+.b-store_history_product {
+float: left;
+width: 100%;
+margin: 0 0 10px 0;
+}
+.b-store_history_product .b-store_history_image {
+float: left;
+margin: 0 2% 0 0;
+}
+.b-store_history_product .b-store_history_image img {
+
+}
+.b-store_history_description a {
+font-size: 18px;
+line-height: 30px;
+}
+.b-store_history_description p {
+font-size: 14px;
+line-height: 20px;
+}
+.b-store_history .b-history_title {
+margin: 0 0 10px 0;
+}

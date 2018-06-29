@@ -1,0 +1,24 @@
+body                { font-family: Verdana; font-size: 10pt; margin-left: 2em; margin-right: 3em; max-width: 1000px; background-color:#FFFFFF }
+h2                  { font-family: Arial; font-size: 22pt; margin-bottom: 0.6em; color:black; margin-top: 35px; }
+h3                  { font-family: Arial; font-size: 14pt; color:#444444; margin-bottom:5px; }
+.contents           { margin-left: 0.5em; position: fixed; width: 280px; top: 25px; } 
+.contents a         { line-height: 1.8em; text-decoration:none}
+.main               { margin-left: 290px; margin-top: 20px;}
+p                   { margin-top: 0.2em }
+.box                { margin-left:5em; margin-right: 2em; padding: 1.2em; margin-top: 1.5em; margin-bottom: 1.8em; }
+.note               { color:#6678A8; background-color:#EAF0FF; }
+.warning            { color:#A87866; background-color:#FFF0EA; }
+.tip                { color:#78A866; background-color:#F0FFEA; }
+.note:before        { content: "NOTE: " }
+.warning:before     { content: "WARNING: " }
+.tip:before         { content: "TIP: " }
+a                   { color: #6688EA }
+dt                  { font-weight: bold; color: #668888 }
+dt.faq              { color: green }
+dl                  { margin-top: 0.5em; margin-left: 1em }
+.legal              { font-size: 8pt }
+li                  { margin-top: 0.5em; }
+table               { margin: 1em 2em; }
+td                  { vertical-align: top; padding: 15px; min-width: 160px; background-color: #F0F0FF; font-size:10pt;}
+em                  { white-space: nowrap; }
+screenshot			{ display: block; margin: 15px;}

@@ -1,0 +1,1020 @@
+[General]
+LangName=Nederlands
+Version=2.1.0
+
+[Strings]
+Ok=OK
+Cancel=Annuleren
+Close=Sluiten
+Warning=Opgelet!
+Preview=Voorvertoning
+Error=Fout!
+Save=Het beeld werd gewijzigd. Wilt u de wijzigingen opslaan?
+Rasterize=De laag moet in pixels worden omgezet vooraleer verder te gaan. De laag omzetten in pixels?
+BigImage=Het beeld is te groot
+NoMemory=Onvoldoende schijfruimte!
+Yes=Ja
+No=Neen
+Information=Informatie
+Default=Herstellen
+ReadOnly=Bestand "|" heeft het kenmerk 'Alleen lezen'. Verwijder het kenmerk om dit bestand te herschrijven. 
+ScannerError=Kan de TWAIN-bron niet openen.
+Background=Achtergrond
+AllFormats=Alle formaten
+MaskMode=Maskermodus
+Delete=Verwijderen
+
+[Actions]
+0=Knippen
+1=Omkeren
+2=Gaussiaans vervagen...
+3=Helderheid / Contrast...
+4=Scherpte...
+5=Grijswaarden
+6=Reliëf...
+7=Kopiëren
+8=Plakken
+9=Tabel aanpassen...
+10=Tekstlaag in pixels
+11=Niveaus...
+12=Nieuw...
+13=Vrije transformatie
+14=Openen...
+15=Sluiten
+16=Opslaan
+17=Afsluiten
+18=Trapsgewijs
+19=Horizontaal naast elkaar
+20=Verticaal naast elkaar
+21=Verkleinen
+22=Ordenen
+23=Over PixBuilder Studio
+24=Potlood
+25=Lijn
+26=Rechthoekig selectiekader
+27=Ovaal selectiekader
+28=Lasso
+29=Pipet
+30=Niveaus bepalen
+31=Curven...
+32=Linialen tonen
+33=Penseel
+34=Gummetje
+35=Navigator
+36=Lagenpalet
+37=Gereedschapsopties
+38=Historiepalet
+39=Verplaatsgereedschap
+40=Alles selecteren
+41=Deselecteren
+42=Selectie omkeren
+43=Meetlat
+44=Emmertje
+45=Tekstgereedschap
+46=Ongedaan maken
+47=Opnieuw
+48=Scannen...
+49=Scanner selecteren...
+50=Afdrukken...
+51=Canvasgrootte...
+52=Selectie uitsnijden
+53=Afbeeldingsgrootte...
+54=Roteren instellen...
+55=Roteren 90° rechtsom
+56=Roteren 90° linksom
+57=Roteren 180°
+58=Horizontaal omdraaien
+59=Verticaal omdraaien
+60=Selectiekader één rij
+61=Selectiekader één kolom
+62=Wissen
+63=Vullen
+64=Laagnaam wijzigen
+65=Lagen samenvoegen
+66=Roteren
+67=Horizontaal omdraaien
+68=Verticaal omdraaien
+69=Laag dupliceren
+70=Recent geopend...
+71=Help
+72=Prestaties...
+73=Vensters vergrendelen
+74=Inzoomen
+75=Uitzoomen
+76=Statusbalk
+77=Opslaan na evalueren...
+78=Toverstaf
+79=Handje
+80=Zoomen
+81=Retoucheerpenseel
+82=Kleur vervangen
+83=Volledig schermmodus
+84=Eén laag maken
+85=Kloonstempel
+86=Onscherp masker...
+87=Aangepast filter...
+89=Autocontrast
+90=Stap vooruit <> Stap terug
+91=Werkelijke pixels
+92=In venster
+93=Transformatie selectie
+94=Bestandskoppelingen...
+95=Snel vervagen
+96=Snel verscherpen
+97=Opslaan als...
+98=Kleurbalans...
+99=Kleurtoon / Verzadiging...
+100=Venster volgens beeldpixels
+101=Vullen...
+102=Iconen
+103=Naar boven
+104=Naar onder
+105=Iconen sorteren
+106=Nieuwe afbeelding toevoegen
+107=Huidige afbeelding verwijderen
+108=Verloop
+109=Kleurbereik...
+110=Kleurenkiezer
+111=Kanalenpalet
+112=Dithering...
+113=Selectie tonen
+114=Laageigenschappen...
+115=Zoals selectie
+116=Veelhoeklasso
+117=Slagschaduw in pixels
+118=Bestandsinfo...
+119=Afgeronde rechthoek
+120=Slagschaduw...
+121=Ovaal
+122=Magnetische lasso
+123=Bewegingsonscherpte...
+124=Doezelaar...
+125=Slagschaduw in pixels in nieuwe laag
+126=Uitsnijden
+127=Selectie opslaan...
+128=Selectie laden...
+129=Verkenner
+130=Insteekmodules...
+131=Patroon aanpassen
+132=Nieuw patroon
+133=Sneltoetsen
+134=Kleurtemperatuur...
+135=Rood/Groen/Blauw...
+136=Inkleuren...
+137=Kanaal naar selectie
+138=R Kanaal
+139=G Kanaal
+140=B Kanaal
+141=A Kanaal
+142=PTE presentatie openen...
+143=PicturesToExe Deluxe uitproberen...
+144=Selectie omlijnen...
+
+[MainForm]
+1=Navigator
+2=Lagenpalet
+3=Gereedschapsopties
+4=Historiepalet
+5=Bestand
+6=Bewerken
+7=Selecteren
+8=Weergave
+9=Gereedschap
+10=Lagen
+11=Opties
+12=Kleuren
+13=Help
+14=Filtereffecten
+15=Deelvensters
+16=Beeldvensters
+17=Taal
+18=Historie en afbeeldingsstaat
+19=Kleurenkiezer
+20=Verkenner
+
+[NewImageForm]
+0=Nieuw...
+1=Naam:
+2=Breedte:
+3=Hoogte:
+4=Resolutie:
+5=Achtergrond:
+6=Beeldgrootte:
+7=Opties:
+8=Voorkeuze:
+9=Laden
+10=Opslaan
+11=Verwijderen
+12=Verwijderen bevestigen
+13=Naamloos
+20=Wit
+21=Voorgrondkleur
+22=Achtergrondkleur
+23=Transparant
+24=Kleur...
+25=Het beeld is te groot.
+26=Afbeelding
+27=Icoon
+
+[Measurement]
+0=pixels
+1=cm
+2=inches
+10=pixels / cm
+11=pixels / inch
+
+[EditForm]
+0=Voorkeuze nieuw document
+1=Naam voorkeuze:
+10=Nieuwe voorkeuze
+11=Naam voorkeuze:
+20=Laageigenschappen
+21=Laagnaam:
+30=Nieuwe naam
+31=Naam:
+
+[TextForm]
+0=Tekstgereedschap bewerken
+1=Kleur
+2=Structuur laden
+3=Tekst laden
+4=Tekst opslaan
+5=Ongedaan maken
+6=Naam lettertype
+7=Tekengrootte
+8=Vet
+9=Cursief
+10=Onderstrepen
+11=Doorstrepen
+12=Links uitlijnen
+13=Centraal uitlijnen
+14=Rechts uitlijnen
+
+[PaletteForm]
+0=Kleurentabel - Geïndexeerde kleuren
+1=Tabel tonen
+2=Kleur aanpassen
+3=Kleur toevoegen
+4=Kleur wissen
+5=Tabel laden
+6=Tabel opslaan
+7=Kleuren:
+8=Overzicht van de functies:
+9=RGB kleuren
+10=Tabel aanpassen
+11=Zwart lichaam
+12=Grijswaarden
+13=Spectrum
+14=Systeem (Mac OS)
+15=Systeem (Windows)
+16=Web
+17=Zwart & Wit
+18=Aangepast
+19=16 kleuren
+
+[Zoom]
+0=In venster
+
+[JPEG]
+0=Kwaliteit:
+1=Progressief
+2=JPEG opties
+3=Grijswaarden
+4=Exif-data opslaan
+
+[PNG]
+0=Comprimeren:
+1=Laag
+2=Gemiddeld
+3=Hoog
+4=Interliniëring
+5=Transparantie
+6=PNG opties
+
+[GIF]
+0=Interliniëring
+1=Transparantie
+2=GIF opties
+
+[BMP]
+0=Bits
+1=1 bit
+2=4 bits
+3=8 bits
+4=16 bits
+5=24 bits
+6=32 bits (met alfakanaal) 
+7=Comprimeren (RLE)
+8=BMP opties
+
+[TIFF]
+0=Comprimeren:
+1=Geen
+2=JPEG
+3=Kwaliteit:
+4=TIFF opties
+
+[Targa]
+0=Resolutie
+1=16 bits / pixel
+2=24 bits / pixel
+3=32 bits / pixel
+4=Comprimeren (RLE)
+5=Targa opties
+
+[PCX]
+0=PCX opties
+
+[PBS]
+0=PBS opties
+
+[SaveWithPreviewForm]
+0=Opslaan na evalueren...
+1=Origineel:
+2=Opslaan
+3=Kleurentabel
+4=Voorkeuze
+5=Voorkeuze aanpassen
+6=Kleur aanpassen
+7=Kleur toevoegen
+8=Kleur wissen
+
+[EditSavePresetForm]
+0=Voorkeuze aanpassen
+1=Vervangen
+2=Toevoegen
+3=Verwijderen
+4=Herstellen
+5=Voorkeuze terugzetten?
+
+[UndoFrame]
+0=Ongedaan maken
+1=Opnieuw
+2=Nieuwe opname maken
+3=Afbeeldingsstaat verwijderen
+4=Nieuw document van huidige afbeeldingsstaat
+5=Opname verwijderen? "1"
+6=Afbeeldingsstaat verwijderen? "1"
+7=Historie wissen
+8=Nieuw document
+
+[UndoActions]
+0=Opname
+1=Openen...
+2=Penceel
+3=Verplaatsgereedschap
+4=Lijn
+5=Gummetje
+6=Emmertje
+7=Rechthoekig selectiekader
+8=Lasso
+9=Deselecteren
+10=Alles selecteren
+11=Selectie omkeren
+12=Omkeren
+13=Kleurentabel - Geïndexeerde kleuren
+14=Helderheid / Contrast
+15=Gaussiaans vervagen
+16=Scherpte
+17=Grijswaarden
+18=Reliëf
+19=Niveaus
+20=Niveaus bepalen
+21=Curven
+22=Canvasgrootte
+23=Uitsnijden
+24=Beeldformaat wijzigen
+25=Roteren
+26=Horizontaal omdraaien
+27=Verticaal omdraaien
+28=Ovaal selectiekader
+29=Selectiekader één rij
+30=Selectiekader één kolom
+31=Potlood
+32=Selectie verplaatsen
+33=Wissen
+34=Vullen
+35=Lagen samenvoegen
+36=Aanmaken
+37=In pixels
+38=Volgorde veranderen
+39=Container toevoegen
+40=Laag toevoegen
+41=Laag verwijderen
+42=Plakken
+43=Knippen
+44=Transformatie
+45=Horizontaal omdraaien
+46=Verticaal omdraaien
+47=Scannen...
+48=Tekstlaag toevoegen
+49=Tekstlaag bewerken
+50=Laageigenschappen
+51=Laag dupliceren
+52=Toverstaf
+53=Retoucheerpenseel
+54=Kleur vervangen
+55=Kloonstempel
+56=Onscherp masker
+57=Aangepast filter
+58=Autocontrast
+59=Transformatie selectie
+60=Snel vervagen
+61=Snel verscherpen
+62=Dupliceren
+63=Kleurbalans
+64=Kleurtoon / Verzadiging
+65=Vullen
+66=Iconen sorteren
+67=Icoon toevoegen
+68=Icoon verwijderen
+69=Nieuw masker
+70=Masker verwijderen
+71=Maskers ordenen
+72=Verloop
+73=Selectie laden
+74=Maskermodus aan
+75=Maskermodus uit
+76=Kleurbereik
+77=Overzicht van de functies:
+78=Maskereigenschappen
+79=Zoals selectie
+80=Veelhoeklasso
+81=Slagschaduw in pixels
+82=Afgeronde rechthoek
+83=Ovaal
+84=Bewegingsonscherpte
+85=Doezelaar
+86=Selectie laden
+87=Masker in gebruik
+88=Kleurtemperatuur
+89=Rood/Groen/Blauw
+90=Inkleuren
+91=Kanaal naar selectie
+92=Selectie omlijnen...
+
+[BrightnessContrastForm]
+0=Helderheid / Contrast
+1=Helderheid:
+2=Contrast:
+
+[ColorBalanceForm]
+0=Kleurbalans
+1=Kleurbalans
+2=Cyaan
+3=Rood
+4=Magenta
+5=Groen
+6=Geel
+7=Blauw
+8=Kleurniveaus:
+9=Toonbalans
+10=Schaduwpartijen
+11=Middentonen
+12=Hoge lichten
+13=Lichtsterkte bewaren
+
+[HueSaturationForm]
+0=Kleurtoon / Verzadiging
+1=Kleur:
+2=Origineel
+3=Rood
+4=Geel
+5=Groen
+6=Cyaan
+7=Blauw
+8=Magenta
+9=Kleurtoon:
+10=Verzadiging:
+11=Helderheid:
+
+[GaussianBlurForm]
+0=Gaussiaans vervagen
+1=Straal:
+
+[SharpnessForm]
+0=Scherpte
+1=Scherpte:
+
+[EmbossForm]
+0=Reliëf
+1=Hoogte:
+2=Hoeveelheid:
+3=Hoek:
+
+[LevelsForm]
+0=Niveaus
+1=Kanaal:
+2=RGB
+3=Rood
+4=Groen
+5=Blauw
+6=Invoerniveaus:
+7=Uitvoerniveaus:
+8=Zwartpunt instellen
+9=Grijspunt instellen
+10=Witpunt instellen
+11=Automatisch
+12=Resultaat
+
+[CurvesForm]
+0=Curven
+1=Curven (*.ACV)|*.ACV|Curvengrafiek (*.AMP)|*.AMP
+2=Laden...
+3=Opslaan...
+4=Invoer:
+5=Uitvoer:
+6=Curven (*.ACV)|*.ACV
+7=Curvengrafiek (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Afdrukken...
+1=Geen printers
+2=Afdrukken...
+3=Eigenschappen
+4=Afdrukrichting
+5=Staand
+6=Liggend
+7=Positie
+13=Afbeeldingsgrootte
+14=Origineel
+15=Pagina passend
+16=Aangepast
+17=Exemplaren
+18=Afbeeldingsgrootte
+19=Breedte:
+20=Hoogte:
+21=cm
+22=inches
+23=Verhouding behouden
+24=Afdrukfout!
+25=Papierformaat:
+26=Afdrukresolutie:
+27=dpi
+28=Herschalen vanaf het midden
+29=Pagina vullen
+
+[CanvasFormForm]
+0=Canvasgrootte
+1=pixels
+2=procent
+3=Huidige afmetingen
+4=Breedte:
+5=Hoogte:
+6=Grootte:
+7=Nieuwe afmetingen
+8=Breedte:
+9=Hoogte:
+10=Plaatsing:
+11=Grootte:
+12=pixels
+13=Kleur canvasuitbreiding:
+
+[ImageSizeForm]
+0=Afbeeldingsgrootte
+1=Afmetingen:
+2=Breedte:
+3=Hoogte:
+4=pixels
+5=procent
+6=Verhouding behouden
+7=Interpolatie:
+8=Grootte:
+9=Naaste buur
+10=Bicubisch
+11=Bicubisch scherp
+12=Bicubisch vloeiend
+13=cm
+14=inches
+15=procent
+16=pixels/cm
+17=pixels/inch
+18=Resolutie:
+19=Grootte:
+20=Nieuwe beeldpixels berekenen:
+
+[RotateForm]
+0=Roteren
+1=Hoek:
+2=Hoek
+3=Kleur canvasuitbreiding:
+4=Normaal tonen
+5=° rechtsom
+6=° linksom
+
+[EllipseRegionFrame]
+0=Ovaal
+1=Straal
+2=Anti-alias
+
+[BrushFrame]
+0=Nieuw penseel toevoegen
+1=Penseel aanpassen
+2=Penseel verwijderen
+3=Nieuw potlood toevoegen
+4=Potlood aanpassen
+5=Potlood verwijderen
+6=Nieuw gummetje toevoegen
+7=Gummetje aanpassen
+8=Gummetje verwijderen
+
+[RulerFrame]
+0=Wissen
+
+[FillToolFrame]
+0=Tolerantie:
+1=Anti-alias
+2=Alle lagen
+
+[LineFrame]
+0=Nieuwe lijn toevoegen
+1=Lijn aanpassen
+2=Lijn verwijderen
+
+[LayersFrame]
+0=Container toevoegen
+1=Laag toevoegen
+2=Geselecteerde lagen verwijderen
+3=Slagschaduw
+
+[EllipseOptionsForm]
+0=Opties tekencursor
+1=Diameter:
+2=Hardheid:
+3=Hoek:
+4=Ronding:
+5=Vloeien:
+7=Anti-alias
+
+[LineOptionsForm]
+0=Lijnopties
+1=Diameter:
+2=Hardheid:
+3=Anti-alias
+
+[ColorForm]
+0=Kleurenkiezer
+1= Alleen tabelkleuren
+2=Kleurwaarden
+3=Kleurreferentie
+4=Kleur
+5=Nieuwe:
+6=Huidige:
+7=Style 1
+8=Style 2
+9=Style 3
+
+[TextureForm]
+0=Structuur laden
+1=Structuur laden
+2=Structuur wissen
+3=Alle formaten|*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryOptionsForm]
+0=Geheugenverbruik en werkschijven
+
+[FileMemoryOptionsFrame]
+0=Schijf 1:
+1=Schijf 2:
+2=Schijf 3:
+3=Schijf 4:
+4=Geen
+5=Beschikbaar RAM:
+6=PixBuilder Studio gebruikt maximum:
+
+[FileAssociationsForm]
+0=Bestandskoppelingen
+
+[FileAssociationsFrame]
+0=Soorten beeldbestanden
+1=Alles selecteren
+2=Alles wissen
+3=Controleer bestandskoppelingen bij de start van PixBuilder Studio.
+4=Bestandsindeling
+5=Beschrijving
+6=Bestandsextensies
+
+[HandToolFrame]
+0=Werkelijke pixels
+1=In venster
+
+[AboutForm]
+0=Over PixBuilder Studio
+1=Bezoek onze webpagina:
+2=Technische ondersteuning:
+
+[CheckExtForm]
+0=PixBuilder Studio is niet langer gekoppeld aan bepaalde bestandstypes die u eerder hiervoor selecteerde.
+1=Selecteer de bestandstypes die u terug wenst te koppelen aan PixBuilder Studio uit de onderstaande lijst.
+2=Controleer bestandskoppelingen bij de start van PixBuilder Studio.
+3=Extensie
+4=Momenteel gekoppeld aan
+
+[UnsharpMaskForm]
+0=Onscherp masker
+1=Hoeveelheid:
+2=Straal:
+
+[CustomMatrixForm]
+0=Aangepast filter
+1=Voorkeuze:
+2=Schalen:
+3=Verschuiven:
+4=Laden...
+5=Opslaan...
+6=Aangepaste filters (*.acf)|*.acf
+
+[StatusMenu]
+0=Documentafmetingen
+1=Documentformaten
+
+[FillForm]
+0=Vullen
+1=Kleur:
+2=Patroon:
+
+[LayersTree]
+0=Container
+1=Tekst
+2=RGB kleuren
+3=Kleurentabel - Geïndexeerde kleuren
+4=Grijswaarden
+5=Dekking:
+
+[Tools]
+Hint0=Teken een rechthoekige selectie of versleep het selectiekader. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint1=Teken een vrije selectie of versleep de selectieomtrek. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint2=Teken een ovale selectie of versleep de selectieomtrek. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint3=Klik en sleep om de selectie of de laag te verplaatsen. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint4=Teken een selectie met de 1-pixel kolom of versleep het selectiekader. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint5=Teken een selectie met de 1-pixel rij of versleep het selectiekader. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint6=Linksklikken om een vrije vorm te tekenen met de voorgrondkleur. Rechtsklikken om een vrije vorm te tekenen met de achtergrondkleur. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint7=Linksklikken om te schilderen met de voorgrondkleur. Rechtsklikken om te schilderen met de achtergrondkleur. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint8=Klik en sleep om te wissen met het gummetje. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint9=Klik en sleep om een lijn te trekken. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint10=Linksklikken om een gebied te vullen met de voorgrondkleur. Rechtsklikken om een gebied te vullen met de achtergrondkleur. Gebruik Alt voor meer opties.
+Hint11=Linksklikken om de tekst te plaatsen.
+Hint12=Linksklikken om een nieuwe voorgrondkleur te kiezen. Rechtsklikken om een nieuwe achtergrondkleur te kiezen.
+Hint13=Klik en sleep om een rechte lijn te trekken.
+Hint14=Klik om aangrenzende pixels te selecteren in dezelfde kleur of verplaats de selectie.
+Hint15=Klik en sleep om door de afbeelding te bladeren.
+Hint16=Klik op het gebied dat u wilt vergroten.
+Hint17=Alt-klik om een monster te nemen, daarna klik en sleep om te schilderen. Gebruik Shift voor meer opties.
+Hint18=Klik en sleep om kleuren te vervangen. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint19=Alt-klik om een monster te nemen, daarna klik en sleep om te schilderen. Gebruik Shift voor meer opties.
+Hint20=Klik om een beginpunt in het lijnsegment te plaatsen. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint21=Klik en sleep om met een verloop te vullen. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint22=Klik en sleep om een afgeronde rechthoek te tekenen. Gebruik Shift, Alt en Ctrl voor meer opties.
+Hint23=Klik om het eerste fixeerpunt te plaatsen. Gebruik Shift, Alt en Ctrl voor meer opties.
+TransformHint=Klik en sleep om te draaien. Druk op enter om uit te voeren. Druk Esc om te annuleren. Gebruik Shift, Alt en Ctrl voor meer opties.
+RegionText=Geselecteerd gebied:
+MoveText=Klik en sleep om de selectie te verplaatsen.
+RegionShift=Aan de bestaande selectie toevoegen.
+RegionAlt=Uit de bestaande selectie verwijderen.
+RegionCtrl=Klik en sleep om de selectie of de laag te verplaatsen.
+RegionCtrlAlt=Klik en sleep om de laag of een kopie van de selectie te verplaatsen.
+SpaceText=Klik en sleep om door de afbeelding te bladeren.
+AltClick=Alt-klik om een monster te nemen waarmee de afbeelding kan worden hersteld.
+
+[NewIconForm]
+0=Nieuw icoon toevoegen
+1=Kleuren
+2=Grootte
+3=Ware kleuren met alfakanaal (32 bits)
+4=Ware kleuren (24 bits)
+5=256 Kleuren (8 bits)
+6=16 Kleuren (4 bits)
+7=Monochroom (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Aangepast
+13=Vierkant
+14=32 bits
+15=24 bits
+16=8 bits
+17=4 bits
+18=1 bit
+
+[Channels]
+0=Rood
+1=Groen
+2=Blauw
+3=Alfa
+
+[Masks]
+0=Masker
+1=Wilt u het masker "_" verwijderen?
+2=Wilt u _ geselecteerde maskers verwijderen?
+
+[GradientForm]
+0=Verloopopties
+1=Punt
+2=Kleur
+3=Positie:
+4=Verwijderen
+5=Naam:
+
+[ColorButton]
+0=Voorgrondkleur
+1=Achtergrondkleur
+
+[GradientFrame]
+0=Lineair verloop
+1=Radiaal verloop
+2=Hoekverloop
+3=Gespiegeld verloop
+4=Diamant
+
+[GradientHintForm]
+0=Bewerken...
+1=Toevoegen...
+2=Verwijderen
+
+[LayerPropertyForm]
+0=Laageigenschappen
+1=Naam:
+2=Dekking:
+3=Laageigenschappen
+4=Slagschaduw
+5=Slagschaduw actief
+
+[ChannelsFrame]
+0=Kanalenpalet
+1=Maskerpalet
+2=Kanalenmodus aan
+3=Maskermodus aan
+4=Masker toevoegen
+5=Masker verwijderen
+6=Zoals selectie toepassen
+7=Alles selecteren
+8=Huidig masker vervloeien
+9=Huidig masker toevoegen
+10=Huidig masker verwijderen
+11=Maskereigenschappen...
+12=Huidig masker instellen
+
+[ColorRangeForm]
+0=Kleurbereik
+1=Overeenkomst:
+2=Selectie
+3=Afbeelding
+4=Anti-alias
+5=Kan geen kleur wissen, omdat er maar één kleur is geselecteerd.
+
+[MaskPropertyForm]
+0=Maskereigenschappen
+1=Naam:
+2=Kleur:
+
+[DropShadowFrame]
+0=Slagschaduw
+1=Kleur:
+2=Hoek:
+3=Afstand:
+4=Curven
+5=Grootte:
+6=Aangepast...
+7=Dekking:
+
+[SpreadForm]
+0=Curven
+1=Curve laden...
+2=Curve opslaan...
+3=Invoer:
+4=Uitvoer:
+5=Voorkeuze
+6=Curvebestanden (*.spr)|*.spr
+
+[FileInfoForm]
+0=Bestandsinfo...
+1=Bestandsnaam:
+2=Map:
+3=Soort:
+4=Grootte:
+5=Datum - Tijd:
+6=Afmetingen:
+7=Bestandseigenschappen
+8=EXIF metadata
+9=Resolutie:
+
+[RoundRectOptionsForm]
+0=Opties afgeronde rechthoek
+1=Breedte:
+2=Hardheid:
+3=Straal:
+4=Opvullen
+
+[RoundRectFrame]
+0=Afgeronde rechthoek toevoegen
+1=Afgeronde rechthoek bewerken
+2=Afgeronde rechthoek verwijderen
+
+[EllipseOptionsForm2]
+0=Opties ovaal
+1=Breedte:
+2=Hardheid:
+3=Opvullen
+
+[EllipseFrame]
+0=Ovaal toevoegen
+1=Ovaal bewerken
+2=Ovaal verwijderen
+
+[MagneticToolFrame]
+0=Anti-alias
+1=Gevoeligheid:
+2=Frequentie:
+
+[MotionBlurForm]
+0=Bewegingsonscherpte
+1=Afstand:
+2=Hoek:
+
+[FeatherForm]
+0=Doezelaar selecteren
+1=Straal doezelaar:
+2=Curven
+
+[CropToolFrame]
+0=Verhouding behouden
+1=Breedte:
+2=Hoogte:
+
+[SaveSelectionForm]
+0=Selectie opslaan
+1=Naam selectie:
+
+[LoadSelectionForm]
+0=Selectie laden
+1=Naam selectie:
+2=Werking
+3=Nieuwe selectie
+4=Aan selectie toevoegen
+5=Uit selectie verwijderen
+6=Doorsnede met selectie
+
+[PluginsForm]
+0=Insteekmodules
+1=Scannen...
+2=Toevoegen...
+3=Omhoog
+4=Omlaag
+5=Naam wijzigen
+6=Verwijderen
+7=Hoe worden 8bf filters gebruikt in PixBuilder Studio?
+
+[AddPatternForm]
+0=Nieuw patroon
+1=Naam patroon:
+
+[PatternEditForm]
+0=Patroon aanpassen
+1=Nieuw patroon
+2=Verwijderen
+3=Nieuwe naam
+
+[ShortCutsForm]
+0=Sneltoetsen
+1=_1_ is reeds in gebruik door onderdeel _2_.
+2=Aanvaarden en ga naar conflict
+3=Aanpassingen ongedaan maken
+4=_1_ is een ongeldige snelkoppeling.
+5=Voorkeuze:
+
+[ColorTemperatureForm]
+0=Kleurtemperatuur
+1=Temperatuur:
+
+[RGBForm]
+0=Rood/Groen/Blauw
+1=Rood (%):
+2=Groen (%):
+3=Blauw (%):
+
+[ColorizeForm]
+0=Inkleuren
+
+[SaveAsForm]
+0=Bestandsopties
+
+[Updates]
+0=Programma bijwerken
+1=De huidige versie vergelijken
+2=Een nieuwe versie van %ProductName% %ProductVersion% is beschikbaar
+3=U gebruikt de nieuwste versie van %ProductName%
+4=Programma automatisch bijwerken
+5=Op nieuwe versie controleren
+6=De nieuwe versie laden
+
+[StrokeForm]
+0=Selectie omlijnen...
+1=Selectie omlijnen...
+2=Breedte:
+3=Kleur
+4=Locatie
+5=Binnen
+6=Gecentreerd
+7=Buiten
+8=Buitenste hoek

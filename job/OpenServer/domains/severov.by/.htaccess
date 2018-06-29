@@ -1,0 +1,35 @@
+Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www.severov\.by$ [NC]
+RewriteRule ^(.*)$ http://severov.by/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} ^(.+)/$
+RewriteRule ^(.+)/$ http://severov.by/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+RewriteRule ^index\.php$ http://severov.by/ [R=301,L]
+
+php_flag display_errors on
+<FilesMatch ".(flv|gif|jpg|jpeg|png|ico|swf|js|css|pdf)$">
+Header set Cache-Control "max-age=86400"
+</FilesMatch>
+
+
+Redirect 301 /technics/view/autogennaja-trenirovka http://severov.by/autogennaja-trenirovka
+Redirect 301 /technics/view/biheviorizm http://severov.by/biheviorizm
+Redirect 301 /technics/view/eriksonovskij-gipnoz http://severov.by/eriksonovskij-gipnoz
+Redirect 301 /technics/view/geshtalyt-terapija http://severov.by/geshtalyt-terapija
+Redirect 301 /technics/view/glubinnaja-psihoterapija http://severov.by/glubinnaja-psihoterapija
+Redirect 301 /technics/view/igrovaja-pisihoterapija http://severov.by/igrovaja-pisihoterapija
+Redirect 301 /technics/view/meditacija http://severov.by/meditacija
+Redirect 301 /technics/view/racionalynaja-psihoterapija http://severov.by/racionalynaja-psihoterapija
+Redirect 301 /page/view/uslugi http://severov.by/services
+Redirect 301 /uslugi http://severov.by/services
+Redirect 301 /technics/view/telesno-orijentirovannaja-psihoterapija http://severov.by/telesno-orijentirovannaja-psihoterapija
+Redirect 301 /technics/view/transakcionnyj-analiz http://severov.by/transakcionnyj-analiz

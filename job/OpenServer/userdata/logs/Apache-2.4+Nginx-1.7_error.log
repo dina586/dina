@@ -1,0 +1,1 @@
+2018/06/04 10:40:14 [error] 6096#1448: *5 CreateFile() "d:/job/openserver/domains/landingTech/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: landingtech, request: "GET /favicon.ico HTTP/1.1", host: "landingtech", referrer: "http://landingtech/"

@@ -1,0 +1,938 @@
+[General]
+LangName=Czech
+Version=1.25
+
+[Strings]
+Ok=OK
+Cancel=Storno
+Close=Zavøít
+Warning=Varování!
+Preview=Náhled
+Error=Chyba!
+Save=Obrázek byl zmìnìn. Uložit zmìny?
+Rasterize=Hladina musí být nejdøíve uložena jako bitmapa. Provést?
+BigImage=Obrázek je pøíliš veliký
+NoMemory=Nedostatek místa na disku!!!
+Yes=Ano
+No=Ne
+Information=Informace
+Default=Výchozí
+ReadOnly=Soubor "|" je pouze 'ke ètení'. Odstaòte tento atribut pro možnost zápisu. 
+ScannerError=Nelze otevøít TWAIN zdroj.
+Unreg=Tato funkce je k dispozici pouze v registrované verzi.
+Background=Pozadí
+AllFormats=Všechny typy
+MaskMode=Jako maska
+Delete=Smazat
+
+[Actions]
+0=Vyjmout
+1=Negativ
+2=Gaussian rozmazání…
+3=Jas / Kontrast…
+4=Ostrost…
+5=Stupnì šedé
+6=Vtlaèit…
+7=Kopírovat
+8=Vložit
+9=Upravit paletu…
+10=Uložit textovou hladinu jako bitmapu
+11=Úrovnì…
+12=Nový…
+13=Volná transformace
+14=Otevøít…
+15=Zavøít
+16=Uložit
+17=Konec
+18=Kaskáda
+19=Dlaždice vodorovnì
+20=Dlaždice svisle
+21=Minimalizovat
+22=Uspoøádat
+23=O programu…
+24=Tužka
+25=Èára
+26=Pravoúhlý výbìr
+27=Oválný výbìr
+28=Laso
+29=Oèi
+30=Automatické úrovnì
+31=Køivky…
+32=Pravítka
+33=Štìtec
+34=Guma
+35=Lupa
+36=Hladiny
+37=Nástroje
+38=Zpìt/Opakovat
+39=Pohyb/Pøesun
+40=Vybrat vše
+41=Nevybrat nic
+42=Otoèit výbìr
+43=Mìøení
+44=Nalít barvu
+45=Text
+46=Zpìt
+47=Opakovat
+48=Scan…
+49=Vybrat Scanner…
+50=Tisk…
+51=Velikost plátna…
+52=Oøíznout
+53=Velikost obrázku…
+54=Otoèit…
+55=Otoèit o 90°
+56=Otoèit o 270°
+57=Otoèit o 180°
+58=Pøevrátit plátno vodorovnì
+59=Pøevrátit plátno svisle
+60=Jednoøádkový výbìr
+61=Jednosloupcový výbìr
+62=Vyèistit
+63=Naplnit
+64=Pøejmenovat hladinu
+65=Slouèit hladinu
+66=Otoèit
+67=Vodorovnì pøevrátit
+68=Svisle pøevrátit
+69=Zdvojit hladinu
+70=Otevøít naposledy použité…
+71=Nápovìda
+72=Nastavení využití pamìti…
+73=Uzamknout panely nástrojù
+74=Zvìtšit
+75=Zmenšit
+76=Stavový øádek
+77=Uložit s náhledem…
+78=Magická hùlka
+79=Ruka
+80=Lupa
+81=Štìtec na opravy
+82=Zamìnit barvu
+83=Celá obrazovka
+84=Spojit hladiny
+85=Klonovací razítko
+86=Maskování neostrosti…
+87=Vlastní matrice…
+88=Registrace…
+89=Automatický kontrast
+90=Automatické opakování
+91=Aktuální pixel(y)
+92=Velikost na obrazovku
+93=Transformovat výbìr
+94=Asociace souborù…
+95=Rozmazat najednou
+96=Zaostøit najednou
+97=Uložit jako…
+98=Vyvážení barev…
+99=Odstín / Sytost…
+100=Okno podle velikosti obrázku
+101=Vyplnit barvou…
+102=Ikony
+103=Nahoru
+104=Dolù
+105=Seøadit ikony
+106=Pøidat nový obrázek
+107=Smazat tento obrázek
+108=Pøechod/Prùnik
+109=Rozsah barev…
+110=Panel barev
+111=Panel kanálù
+112=Rozptýlení…
+113=Ukázat výbìr
+114=Vlastnosti hladiny…
+115=Jako výbìr
+116=Laso
+117=Namapovat stín
+118=Informace o souboru…
+119=Oblý tvar
+120=Vystínovat…
+121=Elipsa
+122=Magnetické laso
+123=Pohybové rozmazání…
+124=Pero…
+125=Namapovat stín na hladinu
+126=Oøez
+127=Uložit výbìr…
+128=Naèíst výbìr…
+129=Panel prùzkumníka
+
+[MainForm]
+1=Lupa
+2=Hladiny
+3=Nástroje
+4=Zpìt / Historie
+5=Soubor
+6=Upravit
+7=Výbìr
+8=Zobrazit
+9=Nástroje
+10=Hladiny
+11=Nastavení
+12=Barvy
+13=Nápovìda
+14=Efekty
+15=Panely
+16=Okna
+17=Výbìr jazyka
+18=Zpìt / prùbìh operací
+19=Barvy
+20=Prùzkumník
+
+[NewImageForm]
+0=Nový…
+1=Jméno:
+2=Šíøka:
+3=Výška:
+4=Rozlišení:
+5=Pozadí:
+6=Rozmìry:
+7=Parametry:
+8=Pøedvolby:
+9=Naèíst pøedvolbu
+10=Uložit pøedvolbu
+11=Smazat pøedvolbu
+12=Opravdu smazat
+13=Bezejména
+20=Bílý
+21=Barva popøedí
+22=Barva pozadí
+23=Prùhledný
+24=Barva…
+25=Pøíliš velký obrázek.
+26=Obrázek
+27=Ikona
+
+[Measurement]
+0=pixely
+1=cm
+2=palce
+10=pixely / cm
+11=pixely / palce
+
+[EditForm]
+0=Šablona nového dokumentu
+1=Jméno šablony:
+10=Nová šablona
+11=Jméno šablony:
+20=Vlastnosti hladiny
+21=jméno hladiny:
+
+[TextForm]
+0=Upravit text
+1=Barva
+2=Naèíst texturu
+3=Naèíst text
+4=Uložit text
+5=Zpìt
+6=Písmo
+7=Velikost
+8=Tuèné
+9=Kurzíva
+10=Podtržené
+11=Pøeškrtnuté
+12=Vlevo
+13=Vycentrovat
+14=Vpravo
+
+[PaletteForm]
+0=Indexované barvy
+1=Zobrazit paletu
+2=Upravit barvu
+3=Pøidat barvu
+4=Smazat barvu
+5=Naèíst paletu
+6=Uložit paletu
+7=Barvy:
+8=Rozptýlení
+9=RGB barvy
+10=Adaptivní
+11=Èerná základna 
+12=Stupnì šedé
+13=Spektrum
+14=Systémové (Mac OS)
+15=Systémové (Windows)
+16=Web
+17=Èerná + Bílá
+18=Vlastní
+19=16 barev
+
+[Zoom]
+0=Na velikost obrazovky
+
+[JPEG]
+0=Kvalita:
+1=Progresivnì
+2=JPEG možnosti
+3=Stupnì šedé
+
+[PNG]
+0=Komprese:
+1=Nízká
+2=Støední
+3=Vysoká
+4=Prokládanì
+5=Prùhlednost
+6=PNG možnosti
+
+[GIF]
+0=Prokládanì
+1=Prùhlednost
+2=GIF možnosti
+
+[BMP]
+0=Bitù
+1=1 bit
+2=4 bity
+3=8 bitù
+4=16 bitù
+5=24 bitù
+6=32 bitù (s Alpha kanálem) 
+7=Komprese (RLE)
+8=BMP možnosti
+
+[TIFF]
+0=Komprese:
+1=Žádná
+2=JPEG
+3=Kvalita:
+4=TIFF možnosti
+
+[Targa]
+0=Rozlišení
+1=16 bitù / pixel
+2=24 bitù / pixel
+3=32 bitù / pixel
+4=Komprese (RLE)
+5=Targa možnosti
+
+[PCX]
+0=PCX možnosti
+
+[PBS]
+0=PBS možnosti
+
+[SaveWithPreviewForm]
+0=Uložit s náhledem…
+1=Originál:
+2=Uložit
+3=Paleta
+4=Pøedvolby
+5=Upravit pøedvolby
+6=Upravit barvu
+7=Pøidat barvu
+8=Smazat barvu
+
+[EditSavePresetForm]
+0=Upravit pøedvolby
+1=Zamìnit
+2=Pøidat
+3=Smazat
+4=Výchozí pøedvolby
+5=Obnovit pøedvolby?
+
+[UndoFrame]
+0=Zpìt
+1=Opakovat
+2=Vytvoøit nový snímek
+3=Smazat aktuální stav
+4=Vytvoøit nový dokument na základì souèasného stavu
+5=Smazat snímek "1"?
+6=Smazat stav "1"?
+7=Vymazat historii
+8=Nový dokument
+
+[UndoActions]
+0=Snímek
+1=Otevøít
+2=Štìtec
+3=Pohyb/Pøesun
+4=Èára
+5=Guma
+6=Malíøská pomùcka
+7=Pravoùhlý výbìr
+8=Laso
+9=Zrušit výbìr
+10=Vybrat vše
+11=Obrátit výbìr
+12=Pøevrátit výbìr
+13=Indexované barvy
+14=Jas/Kontrast
+15=Gaussian rozmazání
+16=Zaostøit
+17=Stupnì šedé
+18=Vtlaèit
+19=Úrovnì
+20=Automatické úrovnì
+21=Køivky
+22=Velikost plátna
+23=Oøíznout
+24=Zmìnit velikost
+25=Otoèit
+26=Pøevrátit plátno vodorovnì
+27=Pøevrátit plátno svisle
+28=Elliptical Marquee
+29=Jednoøádkový výbìr
+30=Jednosloupcový výbìr
+31=Tužka
+32=Pøesun výbìru
+33=Vyèistit
+34=Naplnit
+35=Kombinace hladin
+36=Vytvoøit
+37=Spojit do bitmapy
+38=Zmìna poøadí
+39=Pøidat kontejner
+40=Pøidat hladinu
+41=Smazat hladinu
+42=Vložit
+43=Vyjmout
+44=Transformovat
+45=Vodorovnì pøevrátit
+46=Svisle pøevrátit
+47=Scan
+48=Pøidat textovou hladinu
+49=Upravit textovou hladinu
+50=Vlastnosti hladiny
+51=Zdvojit hladinu
+52=Magická hùlka
+53=Štìtec na opravy
+54=Zamìnit barvu
+55=Klonovací razítko
+56=Maskování neostrosti
+57=Vlastní matrice
+58=Automatický Kontrast
+59=Transformovat výbìr
+60=Rozmazat najednou
+61=Zaostøit najednou
+62=Zdvojit
+63=Vyvážení barev…
+64=Odstín / Sytost…
+65=Vyplnit barvou…
+66=Seøadit ikony
+67=Pøidat ikonu
+68=Smazat ikonu
+69=Nová maska
+70=Smazat masku
+71=Pøeorganizovat masku
+72=Pøechod/Prùnik 
+73=Naèíst výbìr
+74=Masky >
+75=Masky <
+76=Rozsah barev…
+77=Rozptýlení
+78=Vlastnosti masky
+79=Jako výbìr
+80=Laso
+81=Namapovat stín
+82=Oblý tvar
+83=Elipsa
+84=Pohybové rozmazání
+85=Pero
+86=Naèíst výbìr
+
+[BrightnessContrastForm]
+0=Jas / Kontrast
+1=Jas:
+2=Kontrast:
+
+[ColorBalanceForm]
+0=Vyvážení barev
+1=Vyvážení barev
+2=Cyan
+3=Red
+4=Magenta
+5=Green
+6=Yellow
+7=Blue
+8=Úrovnì barev:
+9=Teplota
+10=Stíny
+11=Støedy
+12=Svìtla
+13=Zachovat jas
+
+[HueSaturationForm]
+0=Odstín / Sytost
+1=barva:
+2=Komplet
+3=Èervená
+4=Žlutá
+5=Zelená
+6=Tyrkysová
+7=Modrá
+8=Purpurová
+9=Odstín:
+10=Sytost:
+11=Jas:
+
+[GaussianBlurForm]
+0=Gaussian rozmazání
+1=Rádius:
+
+[SharpnessForm]
+0=Ostrost
+1=Ostrost:
+
+[EmbossForm]
+0=Vtlaèení
+1=Výška:
+2=Síla:
+3=Úhel:
+
+[LevelsForm]
+0=Úrovnì
+1=Kanál:
+2=RGB
+3=Èervený
+4=Zelený
+5=Modrý
+6=Vstup:
+7=Výstup:
+8=Nastavit èernou
+9=Nastavt šedou
+10=Nastavit bílou
+11=Automaticky
+12=Výsledek
+
+[CurvesForm]
+0=Køivky
+1=Køivky (*.ACV)|*.ACV|Map možnosti (*.AMP)|*.AMP
+2=Naèíst…
+3=Uložit…
+4=Vstup:
+5=Výstup:
+6=Køivky (*.ACV)|*.ACV
+7=Map možnosti (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Tisk
+1=Není tiskárka
+2=Tisk
+3=Vlastnosti
+4=Orientace stránky
+5=Na výšku
+6=Na šíøku
+7=Pozice
+13=Velikost obrázku
+14=Originál
+15=Velikost na stránku
+16=Vlastní
+17=Kopie
+18=Velikost obrázku
+19=Šíøka:
+20=Výška:
+21=cm
+22=palcù
+23=Zachovat proporce
+24=Chyba tiskárny!
+25=Rozmìry stránky:
+26=Rozlišení tiskárny:
+27=dpi
+28=Zmìna velikosti od støedu
+29=Vyplit stránku
+
+[CanvasFormForm]
+0=Velikost plátna
+1=Pixelù 
+2=Procent
+3=Pùvodní parametry
+4=Šíøka:
+5=Výška:
+6=Velikost:
+7=Nové parametry
+8=Šíøka:
+9=Výška:
+10=Kotva:
+11=Velikost:
+12=pixelù
+13=Barva rozšíøeného plátna:
+
+[ImageSizeForm]
+0=Velikost obrázku
+1=Parametry:
+2=Šíøka:
+3=Výška:
+4=Pixelù
+5=Procent
+6=Zachovat proporce
+7=Metoda pøevedení:
+8=Velikost:
+9=Bližší
+10=Bikubicky
+11=Bikubicky tvrdší
+12=Bikubicky mìkèí
+
+[RotateForm]
+0=Otoèit
+1=Úhel:
+2=Úhel
+3=Barva rozšíøeného plátna:
+4=Ukázat pùvodní
+5=°CW
+6=°CCW
+
+[EllipseRegionFrame]
+0=Tvar hrotu
+1=Rádius
+2=Vyhlazení
+
+[BrushFrame]
+0=Pøidat štìtec
+1=Upravit štìtec
+2=Smazat štìtec
+3=Pøidat tužku
+4=Upravit tužku
+5=smazat tužku
+6=Pøidat gumu
+7=Upravit gumu
+8=smazat gumu
+
+[RulerFrame]
+0=Èisté
+
+[FillToolFrame]
+0=Tolerance:
+1=Vyhlazení
+2=Všechny hladiny
+
+[LineFrame]
+0=Pøidat èáru
+1=Upravit èáru
+2=Smazat èáru
+
+[LayersFrame]
+0=Pøidat kontejner
+1=Pøidat hladinu
+2=Smazat vybrané hladiny
+3=Vystínovat
+
+[EllipseOptionsForm]
+0=Tvar hrotu
+1=Prùmìr:
+2=Tvrdost:
+3=Úhel:
+4=Oblost:
+5=Hustota:
+7=Vyhlazení
+
+[LineOptionsForm]
+0=Èára
+1=Prùmìr:
+2=Tvrdost:
+3=Vyhlazení
+
+[ColorForm]
+0=Barva
+1=Jen barvy palety
+2=Parametry
+3=Náhled
+4=Barva
+5=Tvoøená:
+6=Pùvodní:
+
+[TextureForm]
+0=Textura
+1=Naèíst texturu
+2=Odstranit texturu
+3=Všechny formáty|*.bmp;*.gif;*.jpg|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|
+
+[FileMemoryOptionsForm]
+0=Manažer diskové pamìti
+
+[FileMemoryOptionsFrame]
+0=Disk 1:
+1=Disk 2:
+2=Disk 3:
+3=Disk 4:
+4=---
+5=RAM k dispozici:
+6=Použít nejvíce:
+
+[FileAssociationsForm]
+0=Asociace souborù
+
+[FileAssociationsFrame]
+0=Typy obrázkových souborù
+1=Vybrat vše
+2=Nevybrat nic
+3=Ovìøovat asociace souborù po startu programu
+4=Formát
+5=Popis
+6=Pøípona
+
+[HandToolFrame]
+0=Aktuální pixely
+1=Na velikost obrazovky
+
+[AboutForm]
+0=O programu PixBuilder Studio
+1=Naše webové stránky:
+2=Technická podpora:
+3=Neregistrovaná verze.
+4=Registrováno na:
+
+[CheckExtForm]
+0=PixBuilder Studio není asocováno s nìkterými døíve vybranými typy souborù.
+1=Ze seznamu níže vyberte typy souborù, které chcete znovu asociovat s PixBuilder Studio.
+2=Ovìøte asociace tìchto souborù pøi dalším startu PixBuilder Studia.
+3=Pøípona
+4=Aktuálnì asociováno s
+
+[UnsharpMaskForm]
+0=Maskování neostrosti
+1=Síla:
+2=Rádius:
+
+[CustomMatrixForm]
+0=Vlastní matrice
+1=Pøedvolby:
+2=Škála:
+3=Vyrovnání:
+4=Naèíst…
+5=Uložit…
+6=Vlastní filtry (*.acf)|*.acf
+
+[NagForm]
+0=Neregistrovaná verze
+1=Kliknìte zde pro on-line registraci
+2=Registrováno na:
+3=Copyright (c) 2004 - 2005 by WnSoft Graphics. All rights reserved.
+4=Naèíst klíè
+5=Pøi ztrátì klíèe
+6=Dále…
+7=Váš registraèní klíè byl úspìšnì naèten! Po "OK" ruènì restartujte PixBuilder Studio. 
+8=Pøipomenutí po 5 dnech
+Mess1=Pøi ztrátì registraèního klíèe kontaktujte, prosím, orders@wnsoft.com. Povìzte nám: 
+Mess2=1. Vaše celé jméno.
+Mess3=2. Vaše ID nebo e-mailovou adresu použitou pøi zakoupení. 
+Mess4=Poznamenejte si, že bez tìchto informací Vám nepošleme nový registraèní klíè.
+Mess5=Dotaz na nový klíè pošlete na orders@wnsoft.com 
+
+[StatusMenu]
+0=Parametry dokmentu
+1=Velikost dokumentu
+
+[FillForm]
+0=Vyplnit
+1=Barva:
+
+[LayersTree]
+0=Kontejner
+1=Text
+2=RGB Barvy
+3=Indexované barvy
+4=Stupnì šedé
+5=Neprùsvitnost:
+
+[Tools]
+Hint0=Nakreslit pravoúhlý výbìr a/nebo pøesunout jeho ohranièení. Shift, Alt a Ctrl – další možnosti.
+Hint1=Nakreslit libovolný výbìr a/nebo pøesunout jeho ohranièení. Shift, Alt a Ctrl – další možnosti.
+Hint2=Nakreslit oválný výbìr a/nebo pøesunout jeho ohranièení. Shift, Alt a Ctrl – další možnosti.
+Hint3=Klik a táhnout pøesun výbìru nebo hladiny. Shift, Alt a Ctrl – další možnosti.
+Hint4=Nakreslit jednopixelový sloupcový výbìr a/nebo pøesunout jeho ohranièení. Shift, Alt a Ctrl – další možnosti.
+Hint5=Nakreslit jednopixelový øádkový výbìr a/nebo pøesunout jeho ohranièení. Shift, Alt a Ctrl – další možnosti.
+Hint6=Levé tlaèítko rýsuje s použitím barvy popøedí, pravé tlaèítko s barvou pozadí. Shift, Alt a Ctrl – další možnosti.
+Hint7=Levé tlaèítko maluje s použitím barvy popøedí, pravé tlaèítko s barvou pozadí. Shift, Alt a Ctrl – další možnosti.
+Hint8=Klik a táhnout pro gumování. Shift, Alt a Ctrl – další možnosti.
+Hint9=Klik a táhnout pro narýsování èáry. Shift, Alt a Ctrl – další možnosti.
+Hint10=Klik levého tlaèítka vyplní oblast barvou popøedí, klik pravého barvou pozadí. Použij Alt další možnosti.
+Hint11=Klik levým tlaèítkem umístí text.
+Hint12=Klik levým tlaèítkem vybere byrvu popøedí, pravým barvu pozadí.
+Hint13=Klik a táhnout pro vytvoøení mìøící èáry.
+Hint14=Klikem vybrat sousední pixely s podobnou barvou nebo pohnout výbìrem.
+Hint15=Klik a táhnout pro rolování obrázkem.
+Hint16=Klik nad oblastí obrázku jej zvìtší.
+Hint17=Alt+click urèí zdroj, pak táhnout a pustit do cílové oblasti obrázku. Shift – další možnosti.
+Hint18=Klik a táhnout pro zámìnu barev. Shift, Alt a Ctrl – další možnosti.
+Hint19=Alt+click urèí zdroj, pak táhnout a pustit do cílové oblasti obrázku. Shift – další možnosti.
+Hint20=Klik nastaví jeden z vrcholkù výbìru. Shift, Alt a Ctrl – další možnosti.
+Hint21=Klik a táhnout pro pøechodovou výplò. Shift, Alt a Ctrl – další možnosti.
+Hint22=Klik a táhnout pro narýsování oblého tvaru. Shift, Alt a Ctrl – další možnosti.
+Hint23=Klik nastaví zaèátek úchytných bodù. Shift, Alt a Ctrl – další možnosti.
+TransformHint=Uchopit a otoèit: Enter – provést, Escape – storno. Shift, Alt a Ctrl – další možnosti.
+RegionText=Vybraná oblast:
+MoveText=Uchopit a posunout výbìr.
+RegionShift=Pøidat k aktuálnímu výbìru.
+RegionAlt=Ubrat z aktuálního výbìru.
+RegionCtrl=Uchopit a posunout výbìr nebo hladinu.
+RegionCtrlAlt=Uchopit a posunout hladinu nebo pohnout kopií výbìru.
+SpaceText=Uchopit a pøemísovat obrázek .
+AltClick=Alt+klik urèí výchozí bod, který bude použit pro opravu obrázku.
+
+[NewIconForm]
+0=Nová ikona
+1=Barvy
+2=Velikost
+3=Pravé barvy s kanálem alfa (32 bits)
+4=Pravé barvy (24 bits)
+5=256 barev (8 bits)
+6=16 barev (4 bits)
+7=Èernobíle (1 bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Vlastní
+13=Ètverec
+14=32 bitù
+15=24 bitù
+16=8 bitù
+17=4 bity
+18=1 bit
+
+[Channels]
+0=Èervená
+1=Zelená
+2=Modrá
+3=Alfa
+
+[Masks]
+0=Maska
+1=Smazat masku "_"?
+2=Smazat _ vybrané masky?
+
+[GradientForm]
+0=Upravit pøechod
+1=Bod
+2=Barva
+3=Pozice:
+4=Smazat
+5=Jméno:
+
+[ColorButton]
+0=Barva popøedí
+1=Barva pozadí
+
+[GradientFrame]
+0=Lineární pøechod
+1=Radiální pøechod
+2=Úhlový pøechod
+3=Odrazový pøechod
+4=Diamantový pøechod
+
+[GradientHintForm]
+0=Upravit…
+1=Pøidat…
+2=Smazat
+
+[LayerPropertyForm]
+0=Vlastnosti hladiny
+1=Jméno:
+2=Neprùsvitnost:
+3=Vlastnosti hladiny
+4=Vystínovat
+5=Stínování povoleno
+
+[ChannelsFrame]
+0=Kanály
+1=Masky
+2=Kanály >
+3=Masky >
+4=Pøidat masku
+5=Smazat masku
+6=Proveï jako výbìr
+7=Vybrat vše
+8=Smíchat tuto masku
+9=Pøidat tuto masku
+10=Ubrat tuto masku
+11=Vlastnosti…
+
+[ColorRangeForm]
+0=Rozsah barev
+1=Rozprostøenost:
+2=Výbìr
+3=Obrázek
+4=Vyhlazení
+5=Nelze ubrat žádnou barvu, tahle jen jediná barva.
+
+[MaskPropertyForm]
+0=Vlastnosti masky
+1=Jméno:
+2=Barva:
+
+[DropShadowFrame]
+0=Stínování
+1=Barva:
+2=Úhel:
+3=Odstup:
+4=Rozložení
+5=Velikost:
+6=Vlastní…
+7=Neprùsvitnost:
+
+[SpreadForm]
+0=Rozložení
+1=Naèíst rozložení…
+2=Uložitt rozložení…
+3=Vstup:
+4=Výstup:
+5=Pøedvolby
+6=Soubory rozložení(*.spr)|*.spr
+
+[FileInfoForm]
+0=Informace o souboru
+1=Jméno souboru:
+2=Složka:
+3=Typ:
+4=Velikost:
+5=Datum a èas:
+6=Velikost:
+7=Soubor a atributy
+8=EXIF metadata
+
+[RoundRectOptionsForm]
+0=Nastavení oblého tvaru
+1=Šíøka:
+2=Tvrdost:
+3=Rádius:
+4=Výplò
+
+[RoundRectFrame]
+0=Pøidat oblý tvar
+1=Upravit oblý tvar
+2=Smazat oblý tvar
+
+[EllipseOptionsForm2]
+0=Nastavení elipsy
+1=Šíøka:
+2=Tvrdost:
+3=Výplò
+
+[EllipseFrame]
+0=Pøidat elipsu
+1=Upravit elipsu
+2=Smazat elipsu
+
+[MagneticToolFrame]
+0=Vyhlazení
+1=Citlivost:
+2=Frekvence:
+
+[MotionBlurForm]
+0=Pohybové rozmazání
+1=Rozestup:
+2=Úhel:
+
+[FeatherForm]
+0=Výbìr pera
+1=Rádius pera:
+2=Rozšíøení
+
+[CropToolFrame]
+0=Vynutit rozmìry
+1=Šíøka:
+2=Výška:
+
+[SaveSelectionForm]
+0=Uložit výbìr
+1=Jméno výbìru:
+
+[LoadSelectionForm]
+0=Naèíst výbìr
+1=Jméno výbìru:
+2=Operace
+3=Nový výbìr
+4=Pøidat k výbìru
+5=Ubrat z výbìru
+6=Spojit s výbìrem

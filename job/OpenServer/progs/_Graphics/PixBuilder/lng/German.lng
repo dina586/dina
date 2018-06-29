@@ -1,0 +1,1020 @@
+[General]
+LangName=German
+Version=1.00
+
+[Strings]
+Ok=OK
+Cancel=Abbrechen
+Close=Schließen
+Warning=Achtung!
+Preview=Vorschau
+Error=Fehler!
+Save=Das Bild wurde geändert. Möchten Sie die Änderungen speichern?
+Rasterize=Die Ebene muss vorher gerastert werden. Jetzt die Ebene rastern?
+BigImage=Das Bild ist zu groß!
+NoMemory=nicht ausreichend Festplattenspeicher frei!!!
+Yes=Ja
+No=Nein
+Information=Information
+Default=Standard
+ReadOnly=Die Datei "|" ist schreibgeschützt. Zum Überschreiben Schreibschutz aufheben?. 
+ScannerError=Die TWAIN-Schnittstelle konnte nicht geöffnet werden.
+Background=Hintergrund
+AllFormats=Alle Formate
+MaskMode=Masken Modus
+Löschen=Löschen
+
+[Actions]
+0=Ausschneiden
+1=Negativbild
+2=Weichzeichner...
+3=Helligkeit / Kontrast...
+4=Scharfzeichner...
+5=Graustufen...
+6=Relief...
+7=Kopieren
+8=Einfügen
+9=Bearbeite Farbpalette...
+10=Text Ebene rastern
+11=Tonwertkorrektur...
+12=Neu...
+13=Frei transformieren
+14=Öffnen...
+15=Schließen
+16=Speichern
+17=Verlassen
+18=Kaskade
+19=horizontal anordnen
+20=vertikal anordnen
+21=Minimieren
+22=Anordnen
+23=Über
+24=Buntstift
+25=Linie
+26=Auswahlrechteck
+27=Auswahlellipse
+28=Lasso
+29=Pipette
+30=Auto-Tonwertkorrektur
+31=Gradationskurven...
+32=Lineal anzeigen
+33=Pinsel
+34=Radiergummi
+35=Zoom Panel
+36=Ebenen Panel
+37=Werkzeug Panel
+38=Rückgängig Panel
+39=Bewegen Werkzeug
+40=Alles auswählen
+41=Auswahl aufheben
+42=Auswahl umkehren
+43=Messwerkzeug
+44=Farbe ersetzen Werkzeug
+45=Text Werkzeug
+46=Rückgängig
+47=Wiederholen
+48=Scannen...
+49=Wähle Scanner...
+50=Drucken...
+51=Arbeitsfläche...
+52=Freistellen
+53=Bildgröße...
+54=Drehen...
+55=Drehen 90° im UZS
+56=Drehen 90° gegen den UZS
+57=Drehen 180°
+58=Arbeitsfläche horizontal spiegeln
+59=Arbeitsfläche vertikal spiegeln
+60=Auswahlwerkzeug: Einzelne Zeile
+61=Auswahlwerkzeug: Einzelne Spalte
+62=Löschen
+63=Fläche füllen
+64=Ebene umbenennen
+65=Ebene kombinieren
+66=Drehen
+67=Spiegeln horizontal 
+68=Spiegeln vertikal 
+69=Dupliziere Ebene
+70=Vorherige Dateien
+71=Hilfe
+72=Einstellungen Speichermanager...
+73=Werkzeugleiste sperren
+74=Einzoomen
+75=Auszoomen
+76=Statusleiste
+77=Speichern mit Vorschau...
+78=Zauberstab
+79=Hand Werkzeug
+80=Zoom Werkzeug
+81=Reparatur Pinsel Werkzeug
+82=Füllwerkzeug
+83=Vollbildmodus
+84=Auf Hintergrundebene Reduzieren
+85=Kopierstempel
+86=Unscharf maskieren...
+87=Angepasste Matrix...
+89=Auto Kontrast
+90=Auto Wiederholen
+91=Tatsächliche Bildgröße
+92=Ganzes Bild
+93=Auswahl transformieren
+94=Datei Zuordnung...
+95=Automatisch Weichzeichnen
+96=Automatisch Schärfen
+97=Speichern als...
+98=Farbbalance...
+99=Farbton/Sättigung...
+100=Fenstergröße auf Bildgröße
+101=Füllwerkzeug...
+102=Symbole
+103=Nach oben
+104=Nach unten
+105=Sortiere Symbole
+106=Neues Bild hinzufügen
+107=Lösche aktuelles Bild
+108=Verlaufswerkzeug
+109=Farbbereich auswählen...
+110=Farb Panel
+111=Kanäle Panel
+112=Dithering...
+113=Zeige Auswahl
+114=Ebenen Eigenschaften...
+115=Wie Auswahl
+116=Polygon Lasso
+117=Schlagschatten rastern
+118=Datei Information...
+119=gerundetes Rechteck
+120=Schlagschatten...
+121=Ellipse
+122=Magnetisches Lasso
+123=Bewegungsunschärfe...
+124=Weiche Auswahlkante...
+125=Schlagschatten in Ebene rastern
+126=Freistellungswerkzeug
+127=Speichern Auswahl...
+128=Auswahl laden...
+129=Bildbrowser
+130=Plugin Einstellungen...
+131=Bearbeite Muster...
+132=Hinzufügen Muster...
+133=Tastaturkürzel
+134=Farbtemperatur...
+135=Rot/Grün/Blau...
+136=Kolorieren...
+137=Kanäle Auswahl
+138=R Kanäle
+139=G Kanäle
+140=B Kanäle
+141=A Kanäle
+142=Öffne Präsentation...
+143=Teste >PicturesToExe Deluxe<...
+144=Kontur
+
+[MainForm]
+1=Zoom 
+2=Ebenen 
+3=Werkzeug 
+4=Rückgängig Übersicht
+5=Datei
+6=Bearbeiten
+7=Auswahl
+8=Ansicht
+9=Werkzeuge
+10=Ebenen
+11=Einstellungen
+12=Farben
+13=Hilfe
+14=Effekte
+15=Panels
+16=Fenster
+17=Sprachen
+18=Rückgängig Übersicht
+19=Farbe
+20=Bildbrowser
+
+[NewImageForm]
+0=Neu...
+1=Name:
+2=Breite:
+3=Höhe:
+4=Auflösung:
+5=Hintergrund:
+6=Bildgröße:
+7=Parameter:
+8=Vorgaben:
+9=Lade Vorgabe
+10=Speichern Vorgabe
+11=Löschen Vorgabe
+12=Löschen, sind sie sicher?
+13=Unbenannt
+20=Weiß
+21=Vordergrundfarbe
+22=Hintergrundfarbe
+23=Transparent
+24=Farbe...
+25=Das Bild ist zu groß
+26=Bild
+27=Symbol
+
+[Measurement]
+0=Pixel
+1=cm
+2=Zoll
+10=Prixel / cm
+11=Pixel / Zoll
+
+[EditForm]
+0=Neues Dokument Voreinstellungen
+1=Name der Vorgabe:
+10=Neue Vorgabe
+11=Name der Vorgabe:
+20=Ebenen Eigenschaft
+21=Name der Ebene:
+30=Name des Musters
+31=Name:
+
+[TextForm]
+0=Bearbeiten
+1=Farbe
+2=Lade Textur
+3=Laden
+4=Speichern
+5=Rückgängig
+6=Schriftname
+7=Schriftgröße
+8=Fett
+9=Kursiv
+10=Unterstreichen
+11=Durchgestrichen
+12=Links ausrichten
+13=Mittig ausrichten
+14=Rechts ausrichten
+
+[PaletteForm]
+0=Indizierte Farbe
+1=Zeige Farbfelder
+2=Bearbeite Farbfelder
+3=Hinzufügen von Farbfeldern
+4=Löschen von Farbfeldern
+5=Lade Farbfelder
+6=Speichern der Farbfelder
+7=Farben:
+8=Dithering
+9=RGB-Farbe
+10=Adaptiv
+11=Schwarzgrund
+12=Graustufen
+13=Spectrum
+14=System (Mac OS)
+15=System (Windows)
+16=Web
+17=Schwarz && Weiß
+18=Angepasst
+19=16 Farben
+
+[Zoom]
+0=Ganzes Bild
+
+[JPEG]
+0=Qualität:
+1=Progressiv
+2=JPEG Einstellungen
+3=Graustufen
+4=Exif Daten Speichern
+
+[PNG]
+0=Kompression:
+1=niedrig
+2=mittel
+3=hoch
+4=Interlaced
+5=Transparenz	
+6=PNG Einstellungen
+
+[GIF]
+0=Interlaced
+1=Transparenz
+2=GIF Einstellungen
+
+[BMP]
+0=Bits
+1=1 Bit
+2=4 Bit
+3=8 Bit
+4=16 Bit
+5=24 Bit
+6=32 Bits (mit Alpha-Kanälen) 
+7=komprimiert (RLE)
+8=BMP Einstellungen
+
+[TIFF]
+0=Kompression:
+1=keine
+2=JPEG
+3=Qualität:
+4=TIFF Einstellungen
+
+[Targa]
+0=Resolution
+1=16 Bit / Pixel
+2=24 Bit / Pixel
+3=32 Bit / Pixel
+4=komprimiert (RLE)
+5=Targa Einstellungen
+
+[PCX]
+0=PCX Einstellungen
+
+[PBS]
+0=PBS Einstellungen
+
+[SaveWithPreviewForm]
+0=Speichern mit Vorschau...
+1=Original:
+2=Speichern
+3=Farbpalette
+4=Voreinstellungen
+5=Voreinstellungen bearbeiten 
+6=Bearbeiten Farbe
+7=Hinzufügen Farbe
+8=Löschen Farbe
+
+[BearbeitenSavePresetForm]
+0=Bearbeite Voreinstellungen
+1=Ersetzen
+2=Hinzufügen
+3=Löschen
+4=Standard Voreinstellungen
+5=Wiederherstellen der Voreinstellungen?
+
+[UndoFrame]
+0=Rückgängig
+1=Wiederholen
+2=Erstelle neuen Schnappschuss
+3=Lösche aktuellen Zustand
+4=Erstelle neues Dokument vom aktuellen Zustand
+5=Lösche Schnappschuss "1"?
+6=Lösche Zustand "1"?
+7=Lösche Historie
+8=Neues Dokument
+
+[UndoActions]
+0=Schnappschuss
+1=Öffnen
+2=Pinsel Werkzeug
+3=Bewegen
+4=Linien Werkzeug
+5=Radiergummi
+6=Füllen
+7=Auswahlrechteck
+8=Lasso
+9=Auswahl aufheben
+10=Alles auswählen
+11=Auswahl umkehren
+12=Umkehren
+13=Indizierte Farbe
+14=Helligkeit/Kontrast
+15=Gaußscher Weichzeichner
+16=Scharfzeichnen
+17=Graustufen
+18=Relief
+19=Tonwertkorrektur
+20=Auto Tonwertkorrektur
+21=Gradationskurven
+22=Arbeitsfläche
+23=Freistellen
+24=Bildgröße
+25=Drehen
+26=Arbeitsfläche Horizontal spiegeln
+27=Arbeitsfläche Vertikal spiegeln
+28=Auswahlellipse
+29=Auswahlwerkzeug: Einzelne Zeile
+30=Auswahlwerkzeug: Einzelne Spalte
+31=Buntstift
+32=Bewege Auswahl
+33=Löschen
+34=Füllwerkzeug
+35=Kombiniere Ebenen
+36=Erstellen
+37=Rastern
+38=Order Change
+39=Hinzufügen Gruppe
+40=Hinzufügen Ebene
+41=Lösche Ebene
+42=Einfügen
+43=Ausschneiden
+44=Transformieren
+45=Spiegel Horizontal
+46=Spiegeln Vertikal
+47=Scannen
+48=Hinzufügen Text Ebene
+49=Bearbeite Text Ebene
+50=Ebenen Eigenschaften
+51=Dupliziere Ebene
+52=Zauberstab
+53=Reparatur-Pinsel
+54=Farbe ersetzen
+55=Kopierstempel
+56=Unscharf maskieren
+57=Eigene Matrix
+58=Auto Kontrast
+59=Transformieren Auswahl
+60=Automatisch Weichzeichnen
+61=Automatisch Scharfzeichnen
+62=Duplizieren
+63=Farbbalance
+64=Farbton/Sättigung
+65=Füllwerkzeug
+66=Sortiere Symbol
+67=Hinzufügen Symbol
+68=Lösche Symbol
+69=Neue Maske
+70=Lösche Maske
+71=Neu anordnen Maske
+72=Verlaufswerkzeug
+73=Auswahl laden
+74=Maskierungsmodus
+75=Maskierungsmodus verlassen
+76=Farbbereich auswählen
+77=Dithering
+78=Masken Eigenschaft
+79=wie Auswahl
+80=Polygon Lasso
+81=Schlagschatten Rastern
+82=gerundetes Rechteck
+83=Ellipse
+84=Bewegungsunschärfe
+85=Weiche Auswahlkante
+86=Lade Auswahl
+87=Masken Funktion
+88=Farbtemperatur 
+89=Rot/Grün/Blau
+90=Kolorieren
+91=Kanäle zu Auswahl
+92=Kontur
+
+[BrightnessContrastForm]
+0=Helligkeit/Kontrast
+1=Helligkeit:
+2=Kontrast:
+
+[ColorBalanceForm]
+0=Farbbalance
+1=Farbbalance
+2=Zyan
+3=Rot
+4=Magenta
+5=Grün
+6=Gelb
+7=Blau
+8=Farb Level:
+9=Farbtonbalance
+10=Schatten
+11=Mitteltöne
+12=Hochtöne
+13=erhalte Intensität
+
+[HueSaturationForm]
+0=Farbton/Sättigung
+1=Farbe:
+2=Master
+3=Rot
+4=Gelb
+5=Grün
+6=Zyan
+7=Blau
+8=Magenta
+9=Farbton:
+10=Sättigung:
+11=Helligkeit:
+
+[GaussianBlurForm]
+0=Gauß'scher Weichzeichner
+1=Radius:
+
+[SharpnessForm]
+0=Schärfe
+1=Schärfe:
+
+[EmbossForm]
+0=Relief
+1=Höhe:
+2=Ausmaß:
+3=Winkel:
+
+[LevelsForm]
+0=Tonwertkorrektur
+1=Kanäle:
+2=RGB
+3=Rot
+4=Grün
+5=Blau
+6=Eingabe Tonwert:
+7=Ausgabe Tonwert:
+8=Setze Schwarzpunkt
+9=Setze Graupunkt 
+10=Setze Weißpunkt
+11=Auto
+12=Messwert
+
+[CurvesForm]
+0=Gradationskurven
+1=Kurven (*.ACV)|*.ACV|Map Einstellungen (*.AMP)|*.AMP
+2=Laden...
+3=Speichern...
+4=Eingabe:
+5=Ausgabe:
+6=Gradationskurven (*.ACV)|*.ACV
+7=Map Einstellungen (*.AMP)|*.AMP
+
+[PrinterForm]
+0=Drucken
+1=kein Drucker
+2=Drucken
+3=Einstellung
+4=Ausrichtung
+5=Hochformat
+6=Querformat
+7=Position
+13=Bildgröße
+14=Original
+15=Eingepasst
+16=Selbst definiert
+17=Kopien
+18=Bildgröße
+19=Breite:
+20=Höhe:
+21=cm
+22=inches
+23=Proportion beibehalten
+24=Drucker Fehler!!
+25=Seitengröße:
+26=Drucker Auslösung:
+27=dpi
+28=Von der Seitenmitte vergrößern
+29=Auf Seite skalieren
+
+[CanvasFormForm]
+0=Leinwandgröße
+1=Pixel
+2=Prozent
+3=alte Abmaße
+4=Breite:
+5=Höhe:
+6=Größe:
+7=neue Abmaße
+8=Breite:
+9=Höhe:
+10=Ankerpunkt:
+11=Größe:
+12=Pixel
+13=Arbeitsflächen Farbe:
+
+[ImageSizeForm]
+0=Bildgröße
+1=Abmaße:
+2=Breite:
+3=Höhe:
+4=Pixels
+5=Prozent
+6=Proportion beibehalten
+7=Resampling-Methode:
+8=Größe:
+9=Nearest
+10=Bicubisch
+11=Bicubisch Schärfer
+12=Bicubisch Weicher
+13=cm
+14=Zoll
+15=Prozent
+16=Pixel/cm
+17=Pixels/Zoll
+18=Auflösung:
+19=Größe:
+20=Resample Bild:
+
+[RotateForm]
+0=Drehen
+1=Winkel:
+2=Winkel
+3=Arbeitsflächen Farbe:
+4=Zeige normal
+5=° in UZS
+6=° gegen den UZS
+
+[EllipseRegionFrame]
+0=Ellipse
+1=Radius
+2=Antialiasing
+
+[PinselFrame]
+0=Hinzufügen neuer Pinsel
+1=Bearbeiten Pinsel
+2=Löschen Pinsel
+3=Hinzufügen neuer Buntstift
+4=Bearbeiten Buntstift
+5=Löschen Buntstift
+6=Hinzufügen neuer Radiergummi
+7=Bearbeiten Radiergummi
+8=Löschen Radiergummi
+
+[RulerFrame]
+0=Löschen
+
+[FillWerkzeugFrame]
+0=Toleranz:
+1=Antialiasing
+2=Alle Ebenen
+
+[LineFrame]
+0=Hinzufügen neuer Linie
+1=Bearbeiten Linie
+2=Löschen Line
+
+[LayersFrame]
+0=Hinzufügen Gruppe
+1=Hinzufügen Ebene
+2=Lösche ausgewählte Ebene
+3=Schlagschatten
+
+[EllipseEinstellungenForm]
+0=Ellipse Form
+1=Durchmesser:
+2=Härte:
+3=Winkel:
+4=Rundung:
+5=Schrittweite:
+7=Antialiasing
+
+[LineEinstellungenForm]
+0=Linienform
+1=Durchmesser:
+2=Härte:
+3=Antialiasing
+
+[ColorForm]
+0=Farb Form
+1=nur Farbpaletten Farbe
+2=Komponenten
+3=Bezug
+4=Farbe
+5=Neu:
+6=Alt:
+7=Stil 1
+8=Stil 2
+9=Stil 3
+
+[TextureForm]
+0=Textur
+1=Lade Textur
+2=Lösche Textur
+3=Alle Formate |*.bmp;*.gif;*.jpg;*.png|BMP (*.bmp)|*.bmp|JPG (*.jpg)|*.jpg|GIF (*.gif)|*.gif|PNG (*.png)|*.png|
+
+[FileMemoryEinstellungenForm]
+0=Festplatten Speichermanager
+
+[FileMemoryEinstellungenFrame]
+0=Disk 1:
+1=Disk 2:
+2=Disk 3:
+3=Disk 4:
+4=Nichts
+5=Verfügbarer Arbeitsspeicher:
+6=Maximal genutzt von PixBuilder:
+
+[FileAssociationsForm]
+0=Datei-Zuordnung
+
+[FileAssociationsFrame]
+0=Bild Datei Typen
+1=Alle auswählen
+2=Alle entferen
+3=Überprüfe Zuordnung wenn PixBuilder Studio startet
+4=Format
+5=Beschreibung
+6=Datei-Erweiterung
+
+[HandWerkzeugFrame]
+0=Tatsächliche Bildgröße
+1=Eingepasst
+
+[AboutForm]
+0=Über PixBuilder Studio
+1=Besuchen Sie unsere Webseite:
+2=Technische Unterstützung:
+
+[CheckExtForm]
+0=PixBuilder Studio ist nicht mehr mit vorherigen Datei-Verknüpfungen verknüpft.
+1=Bitte wählen Sie von nachstehender Liste, um Dateitypen wieder mit Pixbuilder Studio zu verknüpfen.
+2=Beim Starten von Pixbuilder Studio auf Verknüpfung prüfen.
+3=Dateierweiterung
+4=Aktuell verknüpft mit 
+
+[UnsharpMaskForm]
+0=Unscharf maskieren
+1=Ausmaß:
+2=Radius:
+
+[CustomMatrixForm]
+0=Eigene Matrix
+1=Voreinstellung:
+2=Skalierung:
+3=Verschiebung:
+4=Lade...
+5=Speichern...
+6=Eigene Filter (*.acf)|*.acf
+
+[StatusMenu]
+0=Dokument Abmaße
+1=Dokument Größe
+
+[FillForm]
+0=Füllen
+1=Farbe:
+2=Muster:
+
+[LayersTree]
+0=Gruppe
+1=Text
+2=RGB-Farben
+3=Indizierte Farben
+4=Graustufen
+5=Deckkraft:
+
+[Tools]
+Hint0=Zeichne rechteckige Auswahl oder bewege die Auswahlumrisslinie. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint1=Zeichne Freiform-Zeichenstift Auswahl bewege die Auswahlumrisslinie. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint2=Zeichne Auswahlellipse oder bewege die Auswahlumrisslinie. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint3=Klicken und Ziehen um Auswahl oder Ebene zu bewegen. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint4=Zeichne einfache Spaltenauswahl oder bewege die Auswahlumrisslinie. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint5=Zeichne einfache Reihenauswahl oder bewege die Auswahlumrisslinie. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint6=Links-Klick, um Freiform mit der Vordergrundfarbe zu zeichnen. Rechts-Klick, um Freiform mit der Hintergrundfarbe zu zeichnen. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint7=Links-Klick, um mit der Vordergrundfarbe zu zeichnen.  Rechts-Klick, um mit der Hintergrundfarbe zu zeichnen. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint8=Klicken und ziehen zum löschen. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint9=Klicken und ziehen um Linie zu zeichnen. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint10=Links klicken, um Fläche mit Vordergrundfarbe zu füllen. Rechts klicken, um Fläche mit Hintergrundfarbe zu füllen. Drücke Alt für zusätzliche Optionen.
+Hint11=Links klicken um Text zu platzieren.
+Hint12=Links klicken, um neue Vordergrundfarbe zu wählen. Rechts klicken, um Hintergrundfarbe zu wählen.
+Hint13=Klicken und ziehen, um Messlinie zu erzeugen.
+Hint14=Klicken, um anliegende Pixel von ähnlichen Farben auszuwählen oder Auswahl bewegen.
+Hint15=Klicken und ziehen um Bild zu rollen.
+Hint16=Über Arbeitsbereich klicken, welcher vergrößert werden soll.
+Hint17=Alt+Klick, um Quelle zu festzulegen, dann Klicken zum Ziehen und Zeichnen. Drücke Umsch für zusätzliche Optionen.
+Hint18=Klicken und ziehen um Farben zu ersetzen. Drücke Umsch, Alt und Strg für zusätzliche Optionen.
+Hint19=Alt-Klick, um Quelle festzulegen, dann Klicken zum Ziehen und Zeichnen. Drücke Umsch für zusätzliche Optionen.
+Hint20=Klicken, um Auswahlbereich-Start-Punkt zu wählen. Drücke Umsch, Alt and Strg für zusätzliche Optionen.
+Hint21=Klicken und ziehen, um mit Verlauf zu füllen. Drücke Umsch, Alt and Strg für zusätzliche Optionen.
+Hint22=Klicken und ziehen, um abgerundetes Rechteck zu zeichnen. Drücke Umsch, Alt and Strg für zusätzliche Optionen.
+Hint23=Klicken, um Auswahlbereich-Start-Punkt zu wählen. Drücke Umsch, Alt and Strg für zusätzliche Optionen.
+TransformHint=Klicken und ziehen um zu drehen. Drücker Eingabe, um zu bestätigen. Drücke Escape um abzubrechen. Drücke Umsch, Alt and Strg für zusätzliche Optionen.
+RegionText=Ausgewählter Arbeitsbereich:
+MoveText=Klicken und ziehen um Auswahl zu bewegen.
+RegionShift=Hinzufügen zur bestehenden Auswahl.
+RegionAlt=Von der aktuellen Auswahl abtrennen.
+RegionCtrl=Klicken und ziehen um Auswahl oder Ebene zu bewegen.
+RegionCtrlAlt=Klicken und ziehen um Ebene zu bewegen oder bewege Auswahlkopie.
+SpaceText=Klicken und ziehen um Bild zu rollen.
+AltClick=Alt-Klick um Quell-Startpunkt festzulegen, um dann Bild zu reparieren.
+
+[NewIconForm]
+0=Hinzufügen neues Symbol 
+1=Farben
+2=Größe
+3=Truecolor mit Alpha-Kanälen (32 Bit)
+4=Truecolor (24 Bit)
+5=256 Farben (8 Bit)
+6=16 Farben (4 Bit)
+7=Monochrome (1 Bit)
+8=16x16
+9=24x24
+10=32x32
+11=48x48
+12=Eigene
+13=Viereck
+14=32 Bit
+15=24 Bit
+16=8 Bit
+17=4 Bit
+18=1 bit
+
+[Kanäle]
+0=Rot
+1=Grün
+2=Blau
+3=Alpha
+
+[Masks]
+0=Maske
+1=Möchten sie die Maske löschen "_"?
+2=Möchten sie die ausgewählte Maske löschen _ ?
+
+[GradientForm]
+0=Bearbeite Verlauf
+1=Punkt
+2=Farbe
+3=Position:
+4=Löschen
+5=Name:
+
+[ColorButton]
+0=Vordergrundfarbe
+1=Hintergrundfarbe
+
+[GradientFrame]
+0=Linearer Verlauf
+1=Strahlenförmiger Verlauf
+2=Winkliger Verlauf
+3=Reflektierter Verlauf
+4=Diamanter Verlauf
+
+[GradientHintForm]
+0=Bearbeiten...
+1=Hinzufügen...
+2=Löschen
+
+[LayerPropertyForm]
+0=Ebenen Eigenschaften
+1=Name:
+2=Deckkraft:
+3=Ebenen Eigenschaften
+4=Schlagschatten
+5=Schlagschatten aktiv
+
+[ChannelsFrame]
+0=Kanäle 
+1=Masken 
+2=Kanäle Modus
+3=Maskierungsmodus
+4=Hinzufügen Maske 
+5=Löschen Maske
+6=Bestätigen als Auswahl
+7=Alles auswählen
+8=Überblenden aktuelle Maske
+9=Hinzufügen aktuelle Maske
+10=Abziehen aktuelle Maske
+11=Eigenschaften...
+12=Set aktuelle Maske
+
+[ColorRangeForm]
+0=Farbbereich
+1=Unschräfe:
+2=Auswahl
+3=Bild
+4=Antialiasing
+5=Keine Farbe kann abgezogen werden, da nun eine Farbe gewählt wurde.
+
+[MaskPropertyForm]
+0=Masken Eigenschaft
+1=Name:
+2=Farbe:
+
+[DropShadowFrame]
+0=Schlagschatten
+1=Farbe:
+2=Winkel:
+3=Abstand:
+4=Ausrichtung
+5=Größe:
+6=Eigene...
+7=Deckkraft:
+
+[SpreadForm]
+0=Mustern
+1=Muster Laden...
+2=Muster Sichern...
+3=Eingabe:
+4=Ausgabe:
+5=Voreinstellung
+6=Muster-Dateien(*.spr)|*.spr
+
+[FileInfoForm]
+0=Datei Info
+1=Dateiname:
+2=Ordner:
+3=Type:
+4=Größe:
+5=Datum Uhrzeit:
+6=Abmaße:
+7=Datei und Eigenschaften
+8=EXIF Metadaten
+9=Auflösung:
+
+[RoundRectEinstellungenForm]
+0=gerundetes Rechteck Einstellungen
+1=Breite:
+2=Härte:
+3=Radius:
+4=Gefüllt
+
+[RoundRectFrame]
+0=Hinzufügen gerundetes Rechteck
+1=Bearbeiten gerundetes Rechteck
+2=Löschen gerundetes Rechteck
+
+[EllipseEinstellungenForm2]
+0=Ellipse Einstellungen
+1=Breite:
+2=Härte:
+3=Gefüllt
+
+[EllipseFrame]
+0=Hinzufügen Ellipse
+1=Bearbeiten Ellipse
+2=Löschen Ellipse
+
+[MagneticWerkzeugFrame]
+0=Antialiasing
+1=Empfindlichkeit:
+2=Häufigkeit:
+
+[MotionBlurForm]
+0=Bewegungsunschärfe
+1=Abstand:
+2=Winkel:
+
+[FeatherForm]
+0=Weiche Auswahlkante Auswahl
+1=Weiche Auswahlkante Radius:
+2=Ausrichtung
+
+[CropWerkzeugFrame]
+0=Proportionen Beibehalten
+1=Breite:
+2=Höhe:
+
+[SaveSelectionForm]
+0=Speicher Auswahl
+1=Auswahl Name:
+
+[LoadSelectionForm]
+0=Lade Auswahl
+1=Auswahl Name:
+2=Operation
+3=Neue Auswahl 
+4=Hinzufügen zu Auswahl
+5=Abziehen von Auswahl
+6=Teilen mit Auswahl
+
+[PluginsForm]
+0=Plugins
+1=Scannen...
+2=Hinzufügen...
+3=Hoch
+4=Runter
+5=Umbenennen
+6=Löschen
+7=Wie nutze ich 8bf-Filter in PixBuilder Studio
+
+[HinzufügenPatternForm]
+0=Hinzufügen Muster
+1=Muster Name:
+
+[PatternBearbeitenForm]
+0=Bearbeiten Muster
+1=Hinzufügen Muster...
+2=Löschen Muster
+3=Umbenennen Muster
+
+[ShortCutsForm]
+0=Tastaturkürzel
+1=_1_ ist in Benutzung durch _2_
+2=Akzeptieren und gehe zu ..
+3=Änderungen verwerfen
+4=_1_ ist ein ungültiges Kürzel
+5=Vorgaben:
+
+[ColorTemperatureForm]
+0=Farbtemperatur
+1=Temperatur:
+
+[RGBForm]
+0=Rot/Grün/Blau
+1=Rot (%):
+2=Grün (%):
+3=Blau (%):
+
+[ColorizeForm]
+0=Kolorieren
+
+[SaveAsForm]
+0=Datei Einstellungen
+
+[Updates]
+0=Auf Updates prüfen
+1=Aktuelle Version prüfen
+2=Eine neue Version von %ProductName% %ProductVersion% ist verfügbar
+3=Sie benutzen folgende %ProductName% Version
+4=Automatisches Prüfen auf Updates
+5=Auf neue Version prüfen
+6=Herunterladen die neue Version
+
+[StrokeForm]
+0=Kontur
+1=Kontur
+2=Breite
+3=Farbe
+4=Platz
+5=Innen
+6=Mittig
+7=Außen
+8=Äußere Ecke

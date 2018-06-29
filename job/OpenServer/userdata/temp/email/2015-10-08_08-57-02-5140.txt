@@ -1,0 +1,30 @@
+To: JHJ <HJ@J.J>
+Subject: =?UTF-8?B?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0LfQsNC60LDQt9Cw?=
+X-PHP-Originating-Script: 0:class.phpmailer.php
+Date: Thu, 8 Oct 2015 09:57:02 +0300
+Return-Path: vamskidka.by
+From: =?UTF-8?B?0JLQsNC8INCh0LrQuNC00LrQsCE=?= <vamskidka.by>
+Reply-To: vamskidka.by@gmail.com
+Message-ID: <91f231c2d665269f3b3272fa194ed81f@orx-by>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_91f231c2d665269f3b3272fa194ed81f"
+
+--b1_91f231c2d665269f3b3272fa194ed81f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+JHJТелефон: YUIАдрес: UIemail: HJ@J.JОбщая сумма: 15500000НаименованиеКоличествоЦенаОрхидея Ванда Bordo в вазе1015500000
+
+
+--b1_91f231c2d665269f3b3272fa194ed81f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><p style = "color: #000;"><b>JHJ</b></p><p style = "color: #000;">Телефон: YUI</p><p style = "color: #000;">Адрес: UI</p><p style = "color: #000;">email: HJ@J.J</p><p style = "color: #000;">Общая сумма: 15500000</p><br/><table style = "border:1px dotted #989898"><td style = "background-color: #EFF2F6; padding:5px;">Наименование</td><td style = "background-color: #EFF2F6; padding:5px;">Количество</td><td style = "background-color: #EFF2F6; padding:5px;">Цена</td><tr><td style = "padding:5px; border-top:1px dotted #989898">Орхидея Ванда Bordo в вазе</td><td style = "padding:5px; border-top:1px dotted #989898; text-align:center;">10</td><td style = "padding:5px; border-top:1px dotted #989898">15500000</td></tr></table></body></html>
+
+
+
+--b1_91f231c2d665269f3b3272fa194ed81f--

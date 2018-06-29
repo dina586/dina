@@ -1,0 +1,4 @@
+[
+	{ "caption": "-" },
+	{ "caption": "Показать несохранённые изменения…", "command": "diff_changes" }
+]
